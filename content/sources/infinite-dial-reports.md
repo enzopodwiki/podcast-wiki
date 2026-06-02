@@ -112,10 +112,10 @@ Edison Research 主持，Audacy + Cumulus Media + SiriusXM Media 联合赞助的
 
 ## 来源文件
 
-- [[2020-The-Infinite-Dial-2020-U.S.-Edison-Research.pdf]]
-- [[2021-The-Infinite-Dial-2021.pdf]]
-- [[2022-Infinite-Dial-2022-Webinar-revised.pdf]]
-- [[2023-The-Infinite-Dial-2023.pdf]]
-- [[2024-Infinite-Dial-2024-Presentation.pdf]]
-- [[2025-The-Infinite-Dial-2025-Presentation.pdf]]
-- [[2026-The-Infinite-Dial-2026-Presentation.pdf]]
+- 2020-The-Infinite-Dial-2020-U.S.-Edison-Research
+- 2021-The-Infinite-Dial-2021
+- 2022-Infinite-Dial-2022-Webinar-revised
+- 2023-The-Infinite-Dial-2023
+- 2024-Infinite-Dial-2024-Presentation
+- 2025-The-Infinite-Dial-2025-Presentation
+- 2026-The-Infinite-Dial-2026-Presentation

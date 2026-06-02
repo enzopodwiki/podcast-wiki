@@ -93,12 +93,12 @@ title: "SoundOn"
 
 ## 引用来源
 
-- [[2020 SoundOn 聲音經濟報告.pdf]]
-- [[2021 SoundOn 台灣聲音經濟報告.pdf]]
-- [[2022 SoundOn 聲音經濟報告.pdf]]
-- [[2023 SoundOn聲音經濟報告.pdf]]
-- [[2024-SoundOn聲音經濟報告.pdf]]
-- [[2025 SoundOn 聲音經濟報告.pdf]]
+- 2020 SoundOn 聲音經濟報告
+- 2021 SoundOn 台灣聲音經濟報告
+- 2022 SoundOn 聲音經濟報告
+- 2023 SoundOn聲音經濟報告
+- 2024-SoundOn聲音經濟報告
+- 2025 SoundOn 聲音經濟報告
 - 2021-《报导者》如何做深度报道播客《The Real Story》
 - 2021-【獨家專訪】潘杰賢、顧立楷親揭 SoundOn 收購始末，為何成立一年半就拱手讓人？_ 數位時代 BusinessNext
 - 2020-台灣「podcast 元年」的 8 個觀察（7500 字版本） - 學展 - Matters

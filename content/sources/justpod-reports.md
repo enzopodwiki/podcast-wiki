@@ -113,8 +113,8 @@ JustPod 发布的《中文播客新观察》系列报告，基于大规模受众
 
 ## 原始来源
 
-- [[2022-JustPod-china-podcast-survey.pdf]]（《2022 中文播客新观察》，N=1083，2022 年 5 月）
-- [[2024-JustPod-Podcast-Report.pdf]]（《2024 中文播客新观察》，N=1833）
+- 2022-JustPod-china-podcast-survey（《2022 中文播客新观察》，N=1083，2022 年 5 月）
+- 2024-JustPod-Podcast-Report（《2024 中文播客新观察》，N=1833）
 
 ## 关联页面
 

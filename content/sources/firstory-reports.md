@@ -151,7 +151,7 @@ DAI（Dynamic Ad Insertion）是台湾播客商业化的最重要转折点：
 
 ## 2025 年度：DAI 商业化爆发（回顾 2024 全年）
 
-[[2025 年度Firstory 台灣  Podcast趨勢預測.pdf]]
+2025 年度Firstory 台灣  Podcast趨勢預測
 
 **广告商业化**：
 - DAI 广告交易金额 YoY **+172%**（2024 全年）
@@ -174,7 +174,7 @@ DAI（Dynamic Ad Insertion）是台湾播客商业化的最重要转折点：
 
 ## 2026 年度：三大支柱——影音、AI、复合变现（回顾 2025 全年）
 
-[[2026 年度Firstory 台灣 Podcast 趨勢報告.pdf]]
+2026 年度Firstory 台灣 Podcast 趨勢報告
 
 **听众结构**：
 - 33-44 岁女性 YoY **+8.9%**，是成长最快的细分听众群体
@@ -202,14 +202,14 @@ DAI（Dynamic Ad Insertion）是台湾播客商业化的最重要转折点：
 
 ## 原始来源
 
-- [[2020 Firstory 台灣 Podcast 產業報告.pdf]]（上下半年合刊）
-- [[2021 Firstory 台湾 Podcast 市場年度回顾.pdf]]
-- [[2022-Firstory 2022 上半年臺灣 Podcast 數據趨勢回顧.pdf]]
-- [[2023-Firstory 2023 上半年臺灣 Podcast 數據趨勢回顧.pdf]]
-- [[2023 年度Firstory 台灣 Podcast 趨勢.pdf]]
-- [[2024-Firstory 2024 上半年 Podcast 聲音經濟報告.pdf]]
-- [[2025 年度Firstory 台灣  Podcast趨勢預測.pdf]]
-- [[2026 年度Firstory 台灣 Podcast 趨勢報告.pdf]]
+- 2020 Firstory 台灣 Podcast 產業報告（上下半年合刊）
+- 2021 Firstory 台湾 Podcast 市場年度回顾
+- 2022-Firstory 2022 上半年臺灣 Podcast 數據趨勢回顧
+- 2023-Firstory 2023 上半年臺灣 Podcast 數據趨勢回顧
+- 2023 年度Firstory 台灣 Podcast 趨勢
+- 2024-Firstory 2024 上半年 Podcast 聲音經濟報告
+- 2025 年度Firstory 台灣  Podcast趨勢預測
+- 2026 年度Firstory 台灣 Podcast 趨勢報告
 
 ## 关联页面
 

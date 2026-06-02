@@ -130,11 +130,11 @@ Firstory 是**台湾唯一持续发布年度数据报告的播客平台**，2020
 - 2020-Firstory 獲「聲音大老」KKBOX 投資，會變成台灣 Podcast 聯盟嗎？雙方揭露合作始末 _ 數位時代 BusinessNext
 - 2024-年度播客榜单和播客奖项分析
 - 2024-当中文播客只有”小宇宙”，小宇宙必须激进起来！
-- [[2020 Firstory 台灣 Podcast 產業報告.pdf]]
-- [[2021 Firstory 台湾 Podcast 市場年度回顾.pdf]]
-- [[2022-Firstory 2022 上半年臺灣 Podcast 數據趨勢回顧.pdf]]
-- [[2023-Firstory 2023 上半年臺灣 Podcast 數據趨勢回顧.pdf]]
-- [[2023 年度Firstory 台灣 Podcast 趨勢.pdf]]
-- [[2024-Firstory 2024 上半年 Podcast 聲音經濟報告.pdf]]
-- [[2025 年度Firstory 台灣  Podcast趨勢預測.pdf]]
-- [[2026 年度Firstory 台灣 Podcast 趨勢報告.pdf]]
+- 2020 Firstory 台灣 Podcast 產業報告
+- 2021 Firstory 台湾 Podcast 市場年度回顾
+- 2022-Firstory 2022 上半年臺灣 Podcast 數據趨勢回顧
+- 2023-Firstory 2023 上半年臺灣 Podcast 數據趨勢回顧
+- 2023 年度Firstory 台灣 Podcast 趨勢
+- 2024-Firstory 2024 上半年 Podcast 聲音經濟報告
+- 2025 年度Firstory 台灣  Podcast趨勢預測
+- 2026 年度Firstory 台灣 Podcast 趨勢報告

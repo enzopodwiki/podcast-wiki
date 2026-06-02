@@ -78,7 +78,7 @@ title: "美国市场"
 - **2025 年起"月度消费"口径扩大**：包含"看视频播客"的人数，导致数值从 48%（音频）→ 55%（消费），两个数字代表不同口径
 - **2026 年 35-54 岁人群月度消费 68%**，首次超越 12-34 岁（64%），中年段已成最活跃播客消费群体
 
-[[2024-Infinite-Dial-2024-Presentation.pdf]] [[2025-The-Infinite-Dial-2025-Presentation.pdf]] [[2026-The-Infinite-Dial-2026-Presentation.pdf]]
+2024-Infinite-Dial-2024-Presentation 2025-The-Infinite-Dial-2025-Presentation 2026-The-Infinite-Dial-2026-Presentation
 
 ### 平台格局演变（YouTube / Spotify / Apple）
 
@@ -121,7 +121,7 @@ title: "美国市场"
 
 **Key Findings 摘要（2023）**：① 口语音频受众规模和收听时长双双创历史新高；② **居家**收听大幅增加；③ **车内**模式有所转变但 AM/FM 仍居首；④ **手机**首次成为口语音频第一收听终端；⑤ 播客在口语音频中占据越来越大的时间份额。
 
-[[2023-Spoken-Word-Audio-Report-from-NPR-and-Edison-Research.pdf]]
+2023-Spoken-Word-Audio-Report-from-NPR-and-Edison-Research
 
 ### 受众画像与收听动机（Podcast Landscape 2023-2025）
 
@@ -502,14 +502,14 @@ IAB × 普华永道年度报告（2023 Podcast Upfront 发布）：
 
 ## 引用来源
 
-- [[2020-The-Infinite-Dial-2020-U.S.-Edison-Research.pdf]]
-- [[2021-The-Infinite-Dial-2021.pdf]]
-- [[2022-Infinite-Dial-2022-Webinar-revised.pdf]]
-- [[2023-The-Infinite-Dial-2023.pdf]]
-- [[2024-Infinite-Dial-2024-Presentation.pdf]]
-- [[2025-The-Infinite-Dial-2025-Presentation.pdf]]
-- [[2026-The-Infinite-Dial-2026-Presentation.pdf]]
-- [[2023-Spoken-Word-Audio-Report-from-NPR-and-Edison-Research.pdf]]
+- 2020-The-Infinite-Dial-2020-U.S.-Edison-Research
+- 2021-The-Infinite-Dial-2021
+- 2022-Infinite-Dial-2022-Webinar-revised
+- 2023-The-Infinite-Dial-2023
+- 2024-Infinite-Dial-2024-Presentation
+- 2025-The-Infinite-Dial-2025-Presentation
+- 2026-The-Infinite-Dial-2026-Presentation
+- 2023-Spoken-Word-Audio-Report-from-NPR-and-Edison-Research
 - 2025-Narrative Podcasts Are Disappearing. What Happened_
 - 2021-真实犯罪类播客风靡了这么多年，除了悬疑还有什么？
 - 2022-How corporate takeovers are fundamentally changing podcasting _ Nieman Journalism Lab

@@ -47,6 +47,15 @@ function transformTarget(inner, isEmbed) {
     return seg;
   }
 
+  // 指向未发布附件（PDF/图片/音视频等）的链接 -> 纯文字
+  // 这些文件多在 raw/research 里，链接常写成 [[2025-xxx报告.pdf]]，无 raw/ 前缀
+  const ATTACHMENT_RE = /\.(pdf|png|jpe?g|gif|svg|webp|mp3|wav|m4a|mp4|mov|xlsx?|docx?|pptx?|zip)$/i;
+  const targetBase = norm.split("/").pop();
+  if (ATTACHMENT_RE.test(targetBase)) {
+    if (display && display.trim()) return display;
+    return targetBase.replace(ATTACHMENT_RE, ""); // 去掉扩展名，保留报告标题
+  }
+
   // wiki/ 前缀 -> 去掉
   let newTarget = target;
   if (newTarget.startsWith("wiki/")) newTarget = newTarget.slice("wiki/".length);

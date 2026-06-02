@@ -121,8 +121,8 @@ JustPod 总结的可复制方法论：
 - 2020-播客需要一场小宇宙大爆炸
 - 2021-被「折叠」的中文播客 2020
 - 2023-耳朵经济：中国播客的商业化探索_腾讯新闻
-- [[2022-JustPod-china-podcast-survey.pdf]]
-- [[2024-JustPod-Podcast-Report.pdf]]
+- 2022-JustPod-china-podcast-survey
+- 2024-JustPod-Podcast-Report
 - 2020-他们捣鼓了一档叙事品牌播客 却有一些意外收获
 - 2022-播客的生意：一个深度亲密媒介的商业化漂流
 - 2019-这或许是中文播客史上最盛大的一次「面基」
