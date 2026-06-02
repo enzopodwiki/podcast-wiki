@@ -1,0 +1,40 @@
+---
+type: creator
+markets: [taiwan]
+language: zh
+aliases: [顾立楷, 顧立楷]
+sources: 1
+updated: 2026-05-20
+title: "顧立楷"
+---
+
+[[roles/soundon|SoundOn]] 創辦人。台灣 Podcast 元年（2020）最核心的平台建設者之一。
+
+## 個人背景
+
+- 曾任 **Uber 北亞洲區總經理**（入職 SoundOn 前）
+- 與[[creators/pan-jiexian|潘杰賢]]透過共同朋友牽線，相識於 M17 時期
+
+## SoundOn 創辦歷程
+
+- **2019-09**：SoundOn 正式上線，由顧立楷**獨資**（bootstrapped）經營
+- 一路帶至近 **20 人**團隊規模
+- 2020 年下半年開始積極尋找投資人，初衷是解決台灣 Podcast 產業痛點（變現機制不成熟、聽眾同溫層範圍太小）
+- 廣告代理、內容企劃是 SoundOn 兩個最能獲利的項目，但均高度人工密集，難以系統化規模化
+
+## 被收購始末（2021 年初）
+
+- 最初與潘杰賢洽談方向是**投資**，30 天談判後最終定案為**收購**（完整細節見 [[roles/soundon|SoundOn]]）
+- 顧立楷原話：「最後討論到『收購』的時候，身為創辦人一定會抗拒，這一間公司是你親手跟團隊一起打造出來的，一定會覺得捨不得。」
+- 收購後：**顧立楷不再擁有 SoundOn 任何股份**，但原團隊架構不變
+- 對外選擇收購的理由：不只想要資金，更想要有策略意義的合作夥伴
+
+## 關聯
+
+- 創辦平台：[[roles/soundon|SoundOn]]
+- 收購方：[[creators/pan-jiexian|潘杰賢]]（Turn Capital + KV）
+- 市場：[[markets/taiwan|台灣]]
+
+## 引用來源
+
+- 2021-【獨家專訪】潘杰賢、顧立楷親揭 SoundOn 收購始末，為何成立一年半就拱手讓人？_ 數位時代 BusinessNext
