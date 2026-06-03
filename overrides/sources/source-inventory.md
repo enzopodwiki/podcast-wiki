@@ -73,13 +73,6 @@ title: "来源盘点（高质量来源）"
 
 具备至少两项：① 有专职编辑/记者署名 + 编辑流程；② 持续报道播客行业（非偶发涉及）；③ 内容含一手数据 / 访谈 / 调查（而非转引）。
 
-## 观察
-
-1. **来源依赖度极高**：陈恒一主导/参与的"播客一下 + 推播助栏"和陈若冰参与的"若有所播/跳歇间 + 三明治"四个相关来源合计 **54 篇**（27%）。中文播客行业研究的现实——独立追踪者稀缺，少数几位长期产出者承担了大部分工作。
-2. **播客志是大陆第二大独立追踪源**：穿透后 6 篇全部聚焦品牌播客与商业化，是与"播客一下 / 推播助栏"互补的工业视角追踪。
-3. **国际研究厚度强于本地**：Edison Research / Sounds Profitable / Nieman Lab / Digiday / WSJ 合计 38 篇（≈19%），覆盖美国市场较为完整。
-4. **台湾研究偏年报系列**：Firstory + SoundOn + 數位時代 + 天下雜誌 + 卓越新聞獎基金會 + TNL 合计 26 篇（≈13%），其中年报占大头。
-
 ## 关联
 
 - [[sources/firstory-reports]]、[[sources/soundon-reports]]、[[sources/justpod-reports]]、[[sources/infinite-dial-reports]]、[[sources/cpa-reports]]、[[sources/podcast-landscape-reports]]、[[sources/xiaoyuzhou-reports]]、[[sources/2025-fudan-public-value-report]]、[[sources/2025-ipsos-podcast-report]]
