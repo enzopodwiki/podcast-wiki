@@ -30,6 +30,25 @@ function shouldExclude(rel) {
   return EXCLUDE_PREFIX.some((p) => base.startsWith(p));
 }
 
+// 发布时的针对性文字替换（按文件路径）。原始 vault 不改；这里只改副本。
+// 用途：来源盘点只公开高质量部分，故首页对它的描述也相应改写。
+const TEXT_FIXES = {
+  "index.md": [
+    [
+      "**raw/ 文章来源盘点**（197 篇全量，按来源 + 质量评级分类）",
+      "**高质量来源盘点**（★★★ 来源，按来源 + 类型分类）",
+    ],
+  ],
+};
+
+function applyTextFixes(rel, text) {
+  const fixes = TEXT_FIXES[rel];
+  if (!fixes) return text;
+  let out = text;
+  for (const [from, to] of fixes) out = out.split(from).join(to);
+  return out;
+}
+
 // 转换单个 wikilink 的内部文本（不含 [[ ]] 和前导 !）
 function transformTarget(inner, isEmbed) {
   // inner 形如 "wiki/shows/stolen|Stolen" 或 "raw/news/xxx" 或 "spotify"
@@ -142,7 +161,7 @@ async function main() {
     const src = path.join(VAULT, rel);
     const dst = path.join(DEST, rel);
     const raw = await fs.readFile(src, "utf8");
-    const transformed = processFile(raw);
+    const transformed = applyTextFixes(rel, processFile(raw));
     await fs.mkdir(path.dirname(dst), { recursive: true });
     await fs.writeFile(dst, transformed, "utf8");
     copied++;
