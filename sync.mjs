@@ -147,7 +147,27 @@ async function main() {
     await fs.writeFile(dst, transformed, "utf8");
     copied++;
   }
-  console.log(`同步完成：复制 ${copied} 个页面，跳过 ${skipped} 个运营页面。`);
+  // 3. 叠加 overrides/：手工维护的发布专用版本，覆盖自动同步的内容。
+  //    用于需要"删改后才公开"的页面（如来源盘点只公开高质量部分）。
+  //    overrides/ 里的文件已是发布最终形态，直接复制、不再做链接转换。
+  const OVERRIDES = path.join(import.meta.dirname, "overrides");
+  let overridden = 0;
+  try {
+    const ovFiles = await walk(OVERRIDES, OVERRIDES);
+    for (const rel of ovFiles) {
+      const raw = await fs.readFile(path.join(OVERRIDES, rel), "utf8");
+      const dst = path.join(DEST, rel);
+      await fs.mkdir(path.dirname(dst), { recursive: true });
+      await fs.writeFile(dst, raw, "utf8");
+      overridden++;
+    }
+  } catch (e) {
+    if (e.code !== "ENOENT") throw e; // 没有 overrides/ 目录时跳过
+  }
+
+  console.log(
+    `同步完成：复制 ${copied} 个页面，跳过 ${skipped} 个运营页面，覆盖 ${overridden} 个精选页面。`,
+  );
 }
 
 main().catch((err) => {
