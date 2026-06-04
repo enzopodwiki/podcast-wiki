@@ -2,7 +2,7 @@
 type: source-inventory
 markets: [us, china-mainland, taiwan]
 language: mixed
-updated: 2026-05-28
+updated: 2026-06-04
 title: "来源盘点（高质量来源）"
 ---
 
@@ -12,30 +12,31 @@ title: "来源盘点（高质量来源）"
 
 ## ★★★ 高质量来源（出现 ≥2 次）
 
-| 来源                                  | 类型                      |     篇数 | 市场  | 备注                                                                                                                                |
-| ----------------------------------- | ----------------------- | -----: | --- | --------------------------------------------------------------------------------------------------------------------------------- |
-| **播客一下**                            | 播客行业专业账号                | **22** | CN  | [[roles/justpod\|JustPod]] 旗下行业媒体；编辑陈恒一在职期间产出最多                                             |
-| **推播助栏**                            | 行业 newsletter           | **18** | CN  | 个人 substack（[enrichpodwave.substack.com](https://enrichpodwave.substack.com)）+ 同名公众号；含 3 篇黄莺《Ear Economy》系列书评                     |
-| **Digiday**                         | 媒体行业专业媒体                | **13** | US  | 数字媒体/广告行业资讯日报，覆盖播客商业化、广告归因、订阅、视频化等趋势                                                                                              |
-| **若有所播 / 跳歇间**                      | 创作者访谈专栏                 | **11** | CN  | 三明治旗下播客创作者深度访谈系列；"若有所播"后改名为"跳歇间"，合并计算                                                                                        |
-| **Firstory**                        | 平台年报                    |  **8** | TW  | 2020-2026 共 8 份，详见 [[sources/firstory-reports\|Firstory 年报摘要]]                                                               |
-| **Edison Research**                 | 行业基准数据                  |  **7** | US  | 2020-2026 年度美国播客收听率基准报告（含 NPR 联合《Spoken Word Audio Report》 1 份），详见 [[sources/infinite-dial-reports\|The Infinite Dial 历年报告]] |
-| **播客志**                             | 播客行业专业账号                |  **6** | CN  | 大陆播客行业内容运营公众号，"品牌播客"系列尤其代表（其中 4 篇经 36 氪/虎嗅转载）                                                                                     |
-| **SoundOn**                         | 平台年报                    |  **6** | TW  | 2020-2025 共 6 份，详见 [[sources/soundon-reports\|SoundOn 年报摘要]]                                                                 |
-| **Nieman Journalism Lab**           | 行业研究媒体（哈佛）              |  **6** | US  | 新闻业研究的权威机构，含播客行业结构性变化、Joe Rogan 现象等长文                                                                                             |
-| **數位時代 BusinessNext**               | 商业科技媒体                  |  **5** | TW  | 台湾科技商业媒体的播客行业代表报道（SoundOn 收购独家、Firstory 投资、Spotify 裁员等）                                                                           |
-| **小宇宙**                             | 平台年报                    |  **3** | CN  | 2023/2024/2025 三份，详见 [[sources/xiaoyuzhou-reports\|小宇宙年度趋势摘要]]                                                               |
-| **CPA**                             | 行业白皮书                   |  **3** | CN  | 2023-2025 三份，详见 [[sources/cpa-reports\|CPA 白皮书摘要]]                                                                           |
-| **Sounds Profitable × Signal Hill** | 行业研究                    |  **3** | US  | 2023-2025 三份《Podcast Landscape》调研报告，详见 [[sources/podcast-landscape-reports\|Podcast Landscape 摘要]]                           |
-| **天下雜誌**                            | 综合时事杂志                  |  **3** | TW  | 台湾老牌商业财经杂志，覆盖 KKBOX 战略、Podcast 视频化等长文                                                                                             |
-| **三明治**                             | 创作者访谈专栏                 |  **3** | CN  | 与"若有所播"同属三明治体系，定位略不同                                                                                                              |
-| **JustPod**                         | 行业调研                    |  **2** | CN  | 2022/2024 两届，详见 [[sources/justpod-reports\|JustPod 播客新观察摘要]]                                                                 |
-| **TNL 關鍵評論網**                       | 综合时事媒体                  |  **2** | TW  | 「街頭產業觀察」「聽經濟崛起」等专题                                                                                                                |
-| **CBNData / 第一财经**                  | 商业财经媒体                  |  **2** | CN  | 数据品牌，覆盖播客金融机构、商业化等专题                                                                                                              |
-| **WSJ**                             | 国际财经报纸                  |  **2** | US  | 含 2023 《Spotify's $1 Billion Podcast Bet》深度复盘                                                                                     |
-| **卓越新聞獎基金會**                        | 新闻奖项基金会                 |  **2** | TW  | 台湾深度新闻评论与播客专题分析                                                                                                                   |
-| **极客公园**                            | 科技媒体                    |  **2** | CN  | 含与 Kyth 关于 AI 时代播客价值的专访                                                                                                           |
-| **出色 WSJ 中文版**                      | 时尚/文化杂志（与 WSJ 美国版无内容关系） |  **2** | CN  | 含方可成《2023 中文播客努力"搞钱"》、2021《小镇青年播客》                                                                                                |
+| 来源 | 类型 | 篇数 | 市场 | 备注 |
+| --- | --- | ---: | --- | --- |
+| **播客一下** | 播客行业专业账号 | **30** | CN | [[roles/justpod\|JustPod]] 旗下行业媒体；编辑陈恒一在职期间产出最多 |
+| **[[roles/tuibo-zhulan\|推播助栏]]** | 播客行业媒体计划 | **19** | CN | 包括 newsletter（[enrichpodwave.substack.com](https://enrichpodwave.substack.com)）+ 配套播单 + 播客「独自游」，主理人 Enzo；原创访谈 + 学术研究 + 行业评论，已建词条 [[roles/tuibo-zhulan]]；含 3 篇黄莺《Ear Economy》系列书评 |
+| **Digiday** | 媒体行业专业媒体 | **13** | US | 数字媒体/广告行业资讯日报，覆盖播客商业化、广告归因、订阅、视频化等趋势 |
+| **三明治（若有所播 / 跳歇间）** | 创作者访谈专栏 | **14** | CN | 三明治旗下播客创作者深度访谈；含「若有所播」专栏（后改名「跳歇间」，11 篇）与三明治本体（3 篇），合并计算 |
+| **[[roles/liqi\|利器]]** | 创作者访谈媒体 | **9** | CN | 「利器 x 播客」创作者问答访谈系列（2019-2020），中文播客主自述一手来源，已建词条 [[roles/liqi]] |
+| **Firstory** | 平台年报 | **8** | TW | 2020-2026 共 8 份，详见 [[sources/firstory-reports\|Firstory 年报摘要]] |
+| **[[roles/boke-jia\|播客荚]]** | 创作者访谈媒体 | **8** | CN | 公众号「我不跑调@播客荚」对播客主的特写式深访（2021-2023），已建词条 [[roles/boke-jia]] |
+| **Edison Research** | 行业基准数据 | **7** | US | 2020-2026 年度美国播客收听率基准报告（含 NPR 联合《Spoken Word Audio Report》 1 份），详见 [[sources/infinite-dial-reports\|The Infinite Dial 历年报告]] |
+| **播客志** | 播客行业专业账号 | **6** | CN | 大陆播客行业内容运营公众号，"品牌播客"系列尤其代表（其中 4 篇经 36 氪/虎嗅转载） |
+| **SoundOn** | 平台年报 | **6** | TW | 2020-2025 共 6 份，详见 [[sources/soundon-reports\|SoundOn 年报摘要]] |
+| **Nieman Journalism Lab** | 行业研究媒体（哈佛） | **6** | US | 新闻业研究的权威机构，含播客行业结构性变化、Joe Rogan 现象等长文 |
+| **數位時代 BusinessNext** | 商业科技媒体 | **5** | TW | 台湾科技商业媒体的播客行业代表报道（SoundOn 收购独家、Firstory 投资、Spotify 裁员等） |
+| **小宇宙** | 平台年报 | **3** | CN | 2023/2024/2025 三份，详见 [[sources/xiaoyuzhou-reports\|小宇宙年度趋势摘要]] |
+| **CPA** | 行业白皮书 | **3** | CN | 2023-2025 三份，详见 [[sources/cpa-reports\|CPA 白皮书摘要]] |
+| **Sounds Profitable × Signal Hill** | 行业研究 | **3** | US | 2023-2025 三份《Podcast Landscape》调研报告，详见 [[sources/podcast-landscape-reports\|Podcast Landscape 摘要]] |
+| **天下雜誌** | 综合时事杂志 | **3** | TW | 台湾老牌商业财经杂志，覆盖 KKBOX 战略、Podcast 视频化等长文 |
+| **JustPod** | 行业调研 | **2** | CN | 2022/2024 两届，详见 [[sources/justpod-reports\|JustPod 播客新观察摘要]] |
+| **TNL 關鍵評論網** | 综合时事媒体 | **2** | TW | 「街頭產業觀察」「聽經濟崛起」等专题 |
+| **CBNData / 第一财经** | 商业财经媒体 | **2** | CN | 数据品牌，覆盖播客金融机构、商业化等专题 |
+| **WSJ / 出色 WSJ 中文版** | 财经报纸 / 中文版杂志 | **5** | US·CN | 美版《华尔街日报》含 2023《Spotify's $1 Billion Podcast Bet》深度复盘；中文版「出色 WSJ.」含杨一《中文播客正在抄小路奔向大众》、方可成《2023 中文播客努力"搞钱"》、2021《小镇青年播客》 |
+| **卓越新聞獎基金會** | 新闻奖项基金会 | **2** | TW | 台湾深度新闻评论与播客专题分析 |
+| **极客公园** | 科技媒体 | **2** | CN | 含与 Kyth 关于 AI 时代播客价值的专访 |
+| **人人都是产品经理** | 产品行业 UGC 平台 | **2** | CN | 两份小宇宙 App 一手产品分析报告（2020/2023），独立第三方拆解 |
 
 ## 单次出现的高质量来源（参考）
 

@@ -1,8 +1,8 @@
 ---
 type: market
 markets: [china-mainland]
-sources: 70
-updated: 2026-06-03
+sources: 71
+updated: 2026-06-04
 title: "中国大陆市场"
 ---
 
@@ -115,6 +115,7 @@ title: "中国大陆市场"
 
 - **[[roles/xiaoyuzhou|小宇宙]]**：RSS 手动订阅 + 人工每日精选 + SoundCloud 式时间轴（点赞/评论映射到进度条）；2021 起引入算法补充人工（约 2,500 档中文播客每周更新，纯人工策展难为继）。
 - **[[roles/lizhi|荔枝播客]]**把音频社交推向**直播播客**；**Clubhouse 时刻**（2021，仅一周即被封，中文热门播客主是华语区最活跃主持人）；**皮艇**（快手）、**Soda**（B 站式弹幕）等新 App 入场。
+- **科技公司集体入场（2021，据《财经》3 月）**：百度推出"随声/随声会"（偏脱口秀）、快手"皮艇"（偏奇谈悬疑）、荔枝把播客单列为"荔枝播客"；同时一线基金与大企业战投部从 2020 下半年起频繁接触头部主播/制作公司"跑马圈地"。[[creators/yang-yi|杨一]]视之为利好——科技公司带来新用户、培养"听"的消费习惯，"科技和内容互相之间的影响很快"。 2021-杨一：中文播客正在抄小路奔向大众
 - **播客网络填补空缺**：[[roles/justpod|JustPod]]、[[roles/podcast-commune|播客公社]]、[[roles/shengpai|声湃]]、[[roles/marcast|Marcast]]（以"品牌"为框架的厂牌，业余起步→2024 全职）等赋能独立创作者。
 
 > **大厂押注有声书而非播客**：腾讯（懒人听书/酷我畅听/微信读书）、字节（掌阅）以网络文学布局有声书；播客因"商业实践不足"被观望。喜马拉雅音频渗透率 91.2%，但播客仅触及 0.2-0.4% 中国人，仍属小众。 2021-Chinese listeners are getting into podcasts, with a host of platforms carving out their own niche
