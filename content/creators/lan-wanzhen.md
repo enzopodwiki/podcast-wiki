@@ -1,8 +1,11 @@
 ---
 type: creator
-markets: [taiwan]
+markets:
+  - taiwan
 language: zh
-aliases: [蓝婉甄, 藍婉甄, 婉甄]
+aliases:
+  - 蓝婉甄
+  - 婉甄
 role: 制作人 / 配乐 / 后期
 affiliation: 报导者（原 SoundOn）
 sources: 1

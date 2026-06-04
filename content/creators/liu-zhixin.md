@@ -1,8 +1,11 @@
 ---
 type: creator
-markets: [taiwan]
+markets:
+  - taiwan
 language: zh
-aliases: [刘致昕, 劉致昕, 致昕]
+aliases:
+  - 刘致昕
+  - 致昕
 role: 记者 / 主持人
 affiliation: 报导者
 sources: 2

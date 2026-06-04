@@ -2,7 +2,7 @@
 type: show
 markets: [china-mainland]
 language: zh
-aliases: [反派影评, 反派影評]
+aliases: [反派影评, 反派影评]
 host: 波米
 launched: 2016-04
 sources: 1

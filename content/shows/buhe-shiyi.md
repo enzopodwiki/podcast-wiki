@@ -2,7 +2,7 @@
 type: show
 markets: [china-mainland]
 language: zh
-aliases: [不合时宜, Inconvenient Questions, 不合時宜]
+aliases: [不合时宜, Inconvenient Questions, 不合时宜]
 launched: 2019-12
 sources: 3
 updated: 2026-05-25

@@ -2,7 +2,7 @@
 type: show
 markets: [taiwan]
 language: zh
-aliases: [The Real Story, 報導者 The Real Story]
+aliases: [The Real Story, 报导者 The Real Story]
 publisher: 报导者
 platform_partner: SoundOn
 launched: 2020
@@ -100,7 +100,7 @@ title: "《The Real Story》"
 
 **卓越新闻奖**（台湾）：至 2025 年共三度获奖 2025-聲音的常態化：從獎項與市場看台灣 Podcast 五年進化
 
-- **2021 年（第 20 届，第 2 届 Podcast 新闻奖）**：**首度获奖**，是中文世界第二个 Podcast 新闻奖得主（第一届 2020 年由[[shows/fakeidao|《法客電台》]]获得）
+- **2021 年（第 20 届，第 2 届 Podcast 新闻奖）**：**首度获奖**，是中文世界第二个 Podcast 新闻奖得主（第一届 2020 年由[[shows/fakeidao|《法客电台》]]获得）
   - 选送集：美丽湾案承办公务员访谈（议题对谈）+ 赌瘾患者与医师对谈（议题延伸听众故事）
   - 评审评语："节目主题具即时性与公共性……内容层次分明，叙事深入浅出……能够善用个案的特质、既有研究成果与访谈片段，呈现现象的复杂性"
   - 同年刘致昕赴全球调查报道大会演讲，分享深度报道播客制播经验

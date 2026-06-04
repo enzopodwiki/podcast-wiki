@@ -2,7 +2,7 @@
 type: org
 markets: [taiwan]
 language: zh
-aliases: [报导者, 報導者, The Reporter, Twreporter]
+aliases: [报导者, 报导者, The Reporter, Twreporter]
 country: 台湾
 type_org: 非营利网络深度报道媒体
 sources: 2

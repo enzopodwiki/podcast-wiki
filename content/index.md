@@ -45,7 +45,7 @@ title: "Wiki 索引"
 - [[roles/soundon]]（引用 11）
 - [[roles/firstory]]（引用 12） — Firstory（台湾本土 UGC 平台，Y Combinator 支持；2018 声音交友 App 转型；DAI 广告商业化最完整平台；完整数据见 [[sources/firstory-reports]]）
 - [[roles/jinghaoting]] — 镜好听（镜传媒，台湾知识类播客+有声书，五录音室、知识付费，引用 1）
-- [[roles/kkbox]] — KKBOX（台湾音乐串流龙头，林冠羣 2005 创办，Firstory 单一最大股东，"联盟出海"，引用 2）
+- [[roles/kkbox]] — KKBOX（台湾音乐串流龙头，林冠群 2005 创办，Firstory 单一最大股东，"联盟出海"，引用 2）
 
 ## 播客厂牌 (roles/ → type: label)
 
@@ -127,10 +127,10 @@ title: "Wiki 索引"
 - [[shows/gaoqian-nvhai]] — 《搞钱女孩》（商业财经×女性，2023 上线，61 万粉，年 GMV 百万，引用 1）
 
 ### 台湾
-- 三本柱（2020元年）：[[shows/guyai]] — 《股癌》（謝孟恭，财经股市）、[[shows/balingguo]] — 《百靈果》（国际新闻）、[[shows/taiwan-commute]] — 《台灣通勤第一品牌》（李毅誠）
-- 法律/公民：[[shows/fakeidao]] — 《法客電台》（楊貴智，法律白話文運動）
+- 三本柱（2020元年）：[[shows/guyai]] — 《股癌》（谢孟恭，财经股市）、[[shows/balingguo]] — 《百灵果》（国际新闻）、[[shows/taiwan-commute]] — 《台湾通勤第一品牌》（李毅诚）
+- 法律/公民：[[shows/fakeidao]] — 《法客电台》（杨贵智，法律白话文运动）
 - [[shows/the-real-story]]（引用 4）、[[shows/xingqitian-wanshang]] — 《星期天晚上》（关键评论网，SOPA 2022 获奖）
-- [[shows/shuo-gushi-de-ren]] — 《說故事的人》（范琪斐，电视级制作，2021 卓越新闻奖入围）
+- [[shows/shuo-gushi-de-ren]] — 《说故事的人》（范琪斐，电视级制作，2021 卓越新闻奖入围）
 - [[shows/yishou-gushi]] — 《一手故事》（陈莉雅，独立制作，2022，台湾社会微趋势，2022 卓越新闻奖入围）
 - [[shows/duanwen]] — 《端闻》（端传媒，杨一主导，无审查中文音频新闻，2024起，引用 1）
 
@@ -162,14 +162,14 @@ title: "Wiki 索引"
 
 ### 台湾
 - [[creators/liu-zhixin]]、[[creators/lan-wanzhen]]、[[creators/chen-liya]] — 陈莉雅（一手故事）
-- [[creators/fan-qifei]] — 范琪斐（驻美特派记者20年+，《說故事的人》）
-- [[creators/gu-likai]] — 顧立楷（SoundOn 創辦人）
+- [[creators/fan-qifei]] — 范琪斐（驻美特派记者20年+，《说故事的人》）
+- [[creators/gu-likai]] — 顾立楷（SoundOn 创办人）
 - [[creators/lin-qihao]] — 林齐晧（转角国际主编，台湾新闻播客先行者，引用 1）
 - [[creators/zhou-huiyi]] — 周慧仪（转角国际特约编辑，马来西亚华人，2024亚洲人权新闻奖，引用 1）
 - [[creators/zhan-wanru]] — 詹婉如（《The Real Story》制作人，5座广播金钟奖，"珍珠与串线"，引用 1）
-- [[creators/xie-menggong]] — 謝孟恭（《股癌》主播，業配公開化策略的推手）
-- [[creators/li-yicheng]] — 李毅誠（《台灣通勤第一品牌》主播）
-- [[creators/yang-guizhi]] — 楊貴智（《法客電台》/法律白話文運動，藍牙耳機理論提出者）
+- [[creators/xie-menggong]] — 谢孟恭（《股癌》主播，业配公开化策略的推手）
+- [[creators/li-yicheng]] — 李毅诚（《台湾通勤第一品牌》主播）
+- [[creators/yang-guizhi]] — 杨贵智（《法客电台》/法律白话文运动，蓝牙耳机理论提出者）
 
 ## 垂类 (niches/)
 
@@ -196,8 +196,8 @@ title: "Wiki 索引"
 - [[sources/source-inventory]] — **raw/ 文章来源盘点**（230 全量：198 文章 + 32 PDF，按来源 + 质量评级分类）
 - [[sources/2025-ipsos-podcast-report]] — 《声入人心》益普索 × 日谈公园 2025 播客行业报告（商业化视角）
 - [[sources/2025-fudan-public-value-report]] — 《对话的力量》复旦 × 小宇宙 2025 中文播客公共价值报告（公共价值视角）
-- [[sources/firstory-reports]] — Firstory 台灣 Podcast 年報（2020-2026）八份，台湾本土唯一连贯量化数据序列
-- [[sources/soundon-reports]] — SoundOn 台灣聲音經濟報告（2020-2025）六份，台灣 PGC 平台行業數據，首份本土播客調查報告发布者
+- [[sources/firstory-reports]] — Firstory 台湾 Podcast 年报（2020-2026）八份，台湾本土唯一连贯量化数据序列
+- [[sources/soundon-reports]] — SoundOn 台湾声音经济报告（2020-2025）六份，台湾 PGC 平台行业数据，首份本土播客调查报告发布者
 - [[sources/justpod-reports]] — JustPod 中文播客新观察（2022/2024）两份，中文播客听众画像最系统的纵向调研数据
 - [[sources/xiaoyuzhou-reports]] — 小宇宙年度播客趋势（2023/2024/2025）三份，平台行为数据驱动的内容风向年报
 - [[sources/cpa-reports]] — CPA播客营销白皮书（2023/2024/2025）三份，中文播客商业化视角最系统的纵向调研数据

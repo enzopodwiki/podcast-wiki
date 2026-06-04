@@ -2,26 +2,26 @@
 type: creator
 markets: [taiwan]
 language: zh
-aliases: [李毅誠, 逞誠]
+aliases: [李毅诚, 逞诚]
 sources: 1
 updated: 2026-05-20
-title: "李毅誠"
+title: "李毅诚"
 ---
 
-台灣《台灣通勤第一品牌》主播。
+台湾《台湾通勤第一品牌》主播。
 
-## 入場動機
+## 入场动机
 
-李毅誠自述，是《股癌》[[creators/xie-menggong|謝孟恭]]主動在節目中「報業配績效」（業配漲了 20 倍）後，受到鼓舞而入場。是台灣 Podcast 元年業配公開化策略帶動創作者入場的典型案例。
+李毅诚自述，是《股癌》[[creators/xie-menggong|谢孟恭]]主动在节目中「报业配绩效」（业配涨了 20 倍）后，受到鼓舞而入场。是台湾 Podcast 元年业配公开化策略带动创作者入场的典型案例。
 
-## 節目
+## 节目
 
-- [[shows/taiwan-commute|《台灣通勤第一品牌》]] — 台灣三本柱之一，訂閱數約 10 萬，廣義社會文化評論
+- [[shows/taiwan-commute|《台湾通勤第一品牌》]] — 台湾三本柱之一，订阅数约 10 万，广义社会文化评论
 
 ## 关联
 
-- 節目：[[shows/taiwan-commute|《台灣通勤第一品牌》]]
-- 市場：[[markets/taiwan|台灣市場]]
+- 节目：[[shows/taiwan-commute|《台湾通勤第一品牌》]]
+- 市场：[[markets/taiwan|台湾市场]]
 
 ## 引用来源
 

@@ -65,13 +65,13 @@ title: "全球播客行业全景"
 
 ### 台湾：声音常态化，商业化成熟
 
-**元年（2020）** 三本柱奠基：[[shows/guyai|《股癌》]]、[[shows/balingguo|《百靈果》]]、[[shows/taiwan-commute|《台灣通勤第一品牌》]]长期霸占 Apple Podcast 前三名。謝孟恭"业配公开化"策略带动整个市场入场。
+**元年（2020）** 三本柱奠基：[[shows/guyai|《股癌》]]、[[shows/balingguo|《百灵果》]]、[[shows/taiwan-commute|《台湾通勤第一品牌》]]长期霸占 Apple Podcast 前三名。谢孟恭"业配公开化"策略带动整个市场入场。
 
 **平台格局**（2023 z.com 调查）：YouTube **45.2%** 已取代 Apple/Spotify 成台湾第一收听平台（2020-2021 年还是 Apple 38.2% 主导）。本土双雄 [[roles/soundon|SoundOn]]（PGC 路线）和 [[roles/firstory|Firstory]]（UGC 路线）合计市占近六成；Firstory 是台湾唯一支持订阅制的平台，2024 年 DAI +172%、订阅制 +432%。
 
 **声音常态化（2025-2026）**：双奖体系认可播客——卓越新闻奖持续表彰（[[shows/the-real-story|《The Real Story》]]多届获奖），**2024 年第 59 届广播电视金钟奖首度将播客纳入独立竞赛类别**，标志官方广电体系正式承认播客为独立媒介；Firstory 2026 年报显示台湾顶级创作者平均 **3.3 个收入来源**、年入 **$100K+**（美元）达全球水准；2025 年广告主前三换为金融、公部门、食品——快消大品牌入场信号明显。
 
-**新闻播客是台湾播客最突出的结构特征**：[[roles/twreporter|报导者]]、[[shows/the-real-story|The Real Story]]、[[shows/shuo-gushi-de-ren|《說故事的人》]]、[[shows/yishou-gushi|《一手故事》]]——媒体机构、公民媒体、独立创作者均有代表作，共同构成高质量新闻音频生态。
+**新闻播客是台湾播客最突出的结构特征**：[[roles/twreporter|报导者]]、[[shows/the-real-story|The Real Story]]、[[shows/shuo-gushi-de-ren|《说故事的人》]]、[[shows/yishou-gushi|《一手故事》]]——媒体机构、公民媒体、独立创作者均有代表作，共同构成高质量新闻音频生态。
 
 详见 [[markets/taiwan]]、[[sources/firstory-reports]]、[[sources/soundon-reports]]。
 
@@ -105,7 +105,7 @@ title: "全球播客行业全景"
 
 - 美国：YouTube 月活 **10 亿**（超 Spotify），Coleman 研究显示每 10 个听众中 3 人用视频。80%+ 受众期望播客含视频，仅 21% 坚持纯音频。**2026 年 1 月金球奖首设"最佳播客"奖**，颁给视频播客《Good Hang With Amy Poehler》——视频播客获主流娱乐行业机构认可。
 - 中国大陆：B 站《视频播客出圈计划》+ 10 亿流量，2025Q1"零运营介入"即拿下中文播客市场约 **1/3**、视频播客用户突破 **6700 万**（+67.5%）；名人入驻三阶段（2023"自留地"→2024"新舞台"→2025"长对话"）；[[shows/chenluyu-mantan|《陈鲁豫·慢谈》]] 订阅破 140 万。但全行业广告盘子仅 33 亿元仍是隐忧。
-- 台湾：《經濟學人》研究称"影片 Podcast 的時代已經到來"；2025 年 YouTube 以 45.2% 成台湾第一收听平台。
+- 台湾：《经济学人》研究称"影片 Podcast 的时代已经到来"；2025 年 YouTube 以 45.2% 成台湾第一收听平台。
 
 详见 [[trends/video-podcasts]]。
 

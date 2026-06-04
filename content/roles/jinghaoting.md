@@ -2,11 +2,11 @@
 type: platform
 markets: [taiwan]
 language: zh
-aliases: [镜好听, 鏡好聽, Mirror Voice]
+aliases: [镜好听, 镜好听, Mirror Voice]
 country: 台湾
 sources: 3
 updated: 2026-05-29
-title: "镜好听（鏡好聽）"
+title: "镜好听（镜好听）"
 ---
 
 台湾**知识类播客 + 有声书**平台，镜传媒旗下，2021.01 正式开台。主张"播客必须严谨制作"，定位与闲谈型播客分庭抗礼，总监为**徐淑卿**。

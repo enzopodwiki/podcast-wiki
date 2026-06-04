@@ -47,7 +47,7 @@ title: "PodFest China"
 **商业化与投资板块**：
 - 王俊煜（轻芒联合创始人/CEO）——从听众需求出发开发播客小程序，"中文播客还没有出现风口"
 - 任宁（ONES Ventures 管理合伙人）——"中文播客是被低估的领域"，将播客资产细分为主播魅力、内容独特性、社区认同三类
-- 程衍梁（[[roles/justpod|JustPod]] CEO）——以《忽左忽右》为起点，与领英中国合作推出**首档品牌播客《转折点》**，是大陆品牌播客的早期验证案例；详见 [[trends/branded-podcasts|品牌播客]]
+- 程衍樑（[[roles/justpod|JustPod]] CEO）——以《忽左忽右》为起点，与领英中国合作推出**首档品牌播客《转折点》**，是大陆品牌播客的早期验证案例；详见 [[trends/branded-podcasts|品牌播客]]
 - Sophie Zhou（Himalaya Media 内容总监）——"收听将成为日常获取信息的方式"
 
 **大陆播客创作者分享**：看理想孙瑞岑（出版→视频→音频）、声东击西徐涛（职业播客人创业路径，后创立[[roles/shengdong-huopo|声动活泼]]）、车间访谈朋克（线下剧场+播客）、[[shows/wuye-youmin|无业游民]] [[creators/qi-zhenyu|戚振宇]]
@@ -67,7 +67,7 @@ title: "PodFest China"
 - 丁教（[[roles/shengdong-huopo|声动活泼]]联合创始人/CEO）——资本对播客不可或缺，但创业者需认清共同目标
 - 张之琪（[[shows/suiji-bodong|随机波动]]）、钱睿荪（JustPod《杯弓舌瘾》）、于婉莹（小黄鱼播客网络）、杨大壹（看理想《文化有限》）
 
-**"小宇宙大回响"圆桌**：梁文道（八分）、姜思达、淡豹、张之琪；熊小默、cbvivi（Nice Try）、猫助（多抓鱼）、朋克；赵夏（机核/GADIO）、Miya（深夜谈谈/枕边风）、Brofeng（简单心理/BYM）、程衍梁（JustPod/忽左忽右）
+**"小宇宙大回响"圆桌**：梁文道（八分）、姜思达、淡豹、张之琪；熊小默、cbvivi（Nice Try）、猫助（多抓鱼）、朋克；赵夏（机核/GADIO）、Miya（深夜谈谈/枕边风）、Brofeng（简单心理/BYM）、程衍樑（JustPod/忽左忽右）
 
 ### 第 4 届（2021-10-30）：对话复兴
 

@@ -2,7 +2,7 @@
 type: org
 markets: [taiwan]
 language: zh
-aliases: [转角国际, 轉角國際, Global Vision UDN]
+aliases: [转角国际, 转角国际, Global Vision UDN]
 type_org: 媒体品牌 / 数字新闻媒体
 launched: 2015-07
 parent: 联合新闻网 UDN
