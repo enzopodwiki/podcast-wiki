@@ -13,7 +13,7 @@ title: "顧立楷"
 ## 個人背景
 
 - 曾任 **Uber 北亞洲區總經理**（入職 SoundOn 前）
-- 與[[creators/pan-jiexian|潘杰賢]]透過共同朋友牽線，相識於 M17 時期
+- 與潘杰賢透過共同朋友牽線，相識於 M17 時期
 
 ## SoundOn 創辦歷程
 
@@ -32,7 +32,7 @@ title: "顧立楷"
 ## 關聯
 
 - 創辦平台：[[roles/soundon|SoundOn]]
-- 收購方：[[creators/pan-jiexian|潘杰賢]]（Turn Capital + KV）
+- 收購方：潘杰賢（Turn Capital + KV）
 - 市場：[[markets/taiwan|台灣]]
 
 ## 引用來源

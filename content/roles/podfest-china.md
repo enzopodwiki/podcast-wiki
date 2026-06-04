@@ -46,7 +46,7 @@ title: "PodFest China"
 - 程衍梁（[[roles/justpod|JustPod]] CEO）——以《忽左忽右》为起点，与领英中国合作推出**首档品牌播客《转折点》**，是大陆品牌播客的早期验证案例；详见 [[trends/branded-podcasts|品牌播客]]
 - Sophie Zhou（Himalaya Media 内容总监）——"收听将成为日常获取信息的方式"
 
-**大陆播客创作者分享**：看理想孙瑞岑（出版→视频→音频）、声东击西徐涛（职业播客人创业路径，后创立[[roles/shengdong-huopo|声动活泼]]）、车间访谈朋克（线下剧场+播客）、无业游民戚振宇
+**大陆播客创作者分享**：看理想孙瑞岑（出版→视频→音频）、声东击西徐涛（职业播客人创业路径，后创立[[roles/shengdong-huopo|声动活泼]]）、车间访谈朋克（线下剧场+播客）、[[shows/wuye-youmin|无业游民]] [[creators/qi-zhenyu|戚振宇]]
 
 ### 第 3 届（2020-10-31）：播客新声浪
 

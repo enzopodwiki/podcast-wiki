@@ -9,13 +9,13 @@ updated: 2026-05-28
 title: "SoundOn"
 ---
 
-台湾的播客托管与发行平台，2019 年由[[creators/gu-likai|顾立楷]]创办，2021 年初被[[creators/pan-jiexian|潘杰贤]] Turn Capital 收购。**台湾首家发布本土 Podcast 调查报告**的平台，是 Podcast 元年生态中最具代表性的基础设施平台之一。
+台湾的播客托管与发行平台，2019 年由[[creators/gu-likai|顾立楷]]创办，2021 年初被潘杰贤 Turn Capital 收购。**台湾首家发布本土 Podcast 调查报告**的平台，是 Podcast 元年生态中最具代表性的基础设施平台之一。
 
 ## 身份卡片
 
 - **类型**：托管 / 发行 / 广告代理平台（platform） / 台湾
 - **创办人**：[[creators/gu-likai|顾立楷]]（前 Uber 北亚洲区总经理）
-- **2021 年初被收购**：[[creators/pan-jiexian|潘杰贤]] Turn Capital + 新加坡 Kollective Ventures
+- **2021 年初被收购**：潘杰贤 Turn Capital + 新加坡 Kollective Ventures
 - **团队规模**：近 20 人
 - **核心定位**：托管 + 发行 + 广告代理 + 内容企划一条龙服务，主打 PGC 创作者与广告主撮合
 
@@ -36,7 +36,7 @@ title: "SoundOn"
 - **2020.11** Turn Capital 与 KV 开始与顾立楷洽谈，全程约 30 天，金额协商不到 3 小时
 
 ### 2021
-- **2021 年初** 被 [[creators/pan-jiexian|潘杰贤]] Turn Capital + KV 收购：顾立楷不再持有任何股份，**SoundOn 品牌延续，组织架构不变**；潘杰贤入场逻辑——"我有一种回到 2016 年在做直播的感觉"；评估台湾市场潜力——若达美国 1/3 的渗透率可至 800 万听众（当时仅 40-80 万，10-20 倍空间）
+- **2021 年初** 被 潘杰贤 Turn Capital + KV 收购：顾立楷不再持有任何股份，**SoundOn 品牌延续，组织架构不变**；潘杰贤入场逻辑——"我有一种回到 2016 年在做直播的感觉"；评估台湾市场潜力——若达美国 1/3 的渗透率可至 800 万听众（当时仅 40-80 万，10-20 倍空间）
   - 2021-【獨家專訪】潘杰賢、顧立楷親揭 SoundOn 收購始末，為何成立一年半就拱手讓人？_ 數位時代 BusinessNext
 - 与《报导者》关系定位（刘致昕语，2021）："像一起把市场做大、带有情义的感觉"
 - 发布《2021 SoundOn 台湾声音经济报告》（×Yahoo 奇摩、中华电信、Social VIP）→ [[sources/soundon-reports]]
@@ -85,7 +85,7 @@ title: "SoundOn"
 ## 关联
 
 - 创办人：[[creators/gu-likai|顾立楷]]
-- 收购方：[[creators/pan-jiexian|潘杰贤]]（Turn Capital）
+- 收购方：潘杰贤（Turn Capital）
 - 合作节目：[[shows/the-real-story|《The Real Story》]]
 - 同期合作创作者：[[creators/liu-zhixin|刘致昕]]、[[creators/lan-wanzhen|蓝婉甄]]
 - 年报摘要：[[sources/soundon-reports|SoundOn 年报摘要]]

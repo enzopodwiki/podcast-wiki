@@ -2,9 +2,9 @@
 type: niche
 markets: [china-mainland]
 language: zh
-aliases: [书评播客, 出版播客, 文化播客]
-sources: 1
-updated: 2026-05-20
+aliases: [书评播客, 出版播客, 文化播客, 阅读播客]
+sources: 2
+updated: 2026-06-03
 title: "出版/书评播客"
 ---
 
@@ -38,6 +38,7 @@ title: "出版/书评播客"
 
 - **《即兴沉默》**：张丛、花开玛、晓光（三位前编辑，现从事数字阅读/翻译/内容策划），聊出版品牌、书评、生活，运用矛盾修辞命名（"即兴"+"沉默"）
 - **《最近买了什么书》**：野兔（童书编辑）+ 山猪（营销编辑）情侣档，国企出版社现职，驻桂林；3000 本藏书；《艺术叨叨》引路入门
+- **[[shows/dubao-teleread|《读报 teleread》]]**：主播四楼（前媒体记者）做 **英文外刊阅读分享/声音策展**（The Atlantic、NYT 等），"输出倒逼输入"，强调节目只是引子、鼓励听众亲自去读——阅读分享向、非出版机构的代表。 2022-《读报 teleread》：我始终在做一件非必要的事
 
 ## 出版行业结构性挑战
 
@@ -54,10 +55,11 @@ title: "出版/书评播客"
 
 ## 关联
 
-- 代表节目：[[shows/tiaodao-fm|《跳岛FM》]]、[[shows/kanlixiang-fm|《看理想电台》]]
+- 代表节目：[[shows/tiaodao-fm|《跳岛FM》]]、[[shows/kanlixiang-fm|《看理想电台》]]、[[shows/dubao-teleread|《读报 teleread》]]
 - 相关趋势：[[trends/branded-podcasts|品牌播客]]
 - 市场：[[markets/china-mainland|中国大陆]]
 
 ## 引用来源
 
 - 2021-从幕后到台前，做出版的编辑们也开始做播客了丨若有所播
+- 2022-《读报 teleread》：我始终在做一件非必要的事

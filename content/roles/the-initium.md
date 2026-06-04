@@ -37,7 +37,7 @@ title: "《端传媒》"
 
 ## 关联
 
-- 音频总监：[[creators/yang-yi|杨一]]
+- 前音频总监：[[creators/yang-yi|杨一]]
 - 制作人：[[creators/chen-liya|陈莉雅]]
 - 旗舰播客：[[shows/duanwen|《端闻》]]
 - 类型：[[niches/news-podcast|新闻播客]]

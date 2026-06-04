@@ -8,8 +8,8 @@ launched: 2019-03
 founders: [徐涛, 丁教]
 investor: 光涧实验室（前豌豆荚团队）
 team_size: 8（2020）
-sources: 3
-updated: 2026-05-20
+sources: 4
+updated: 2026-06-03
 title: "声动活泼"
 ---
 
@@ -52,9 +52,14 @@ title: "声动活泼"
 
 > "商业的发展一定是建立在内容做好的前提下。"
 
+## 团队补充
+
+2020 年 11 月，音乐播客主播 [[creators/shiyi|拾壹]] 从上海北上全职加入，任 [[shows/fan-chao-liu-julebu|《反潮流俱乐部》]] 主播；公司视觉设计师饭团（@饭困困不团）曾为其个人节目 [[shows/vibration|《Vibration 歪波音室》]] 画插画封面。 2021-《Vibration 歪波音室》：做播客首先要打动自己
+
 ## 关联
 
 - 创始人：[[creators/xu-tao|徐涛]]
+- 主播之一：[[creators/shiyi|拾壹]]（《反潮流俱乐部》《Vibration 歪波音室》）
 - 同类厂牌：[[justpod|JustPod]]（程衍樑、杨一）、[[ritan-park|日谈公园]]
 - 市场：[[markets/china-mainland]]
 - 趋势：[[trends/branded-podcasts|品牌播客]]、[[trends/podcast-ads|播客广告]]
@@ -64,3 +69,4 @@ title: "声动活泼"
 - 2020-「声动活泼」创始人徐涛：播客不能像口香糖，没有智力挑战就没意思｜三明治创作者访谈
 - 2024- 《跳进兔子洞》制作人佳勋：虽然做播客的过程比较痛苦，但我还是挺喜欢的
 - 2026-少年，通过播客接入真实世界｜对谈《Knock Knock 世界》
+- 2021-《Vibration 歪波音室》：做播客首先要打动自己

@@ -1,7 +1,7 @@
 ---
 type: niche
 markets: [us, china-mainland, taiwan]
-sources: 7
+sources: 8
 updated: 2026-05-25
 title: "叙事播客 (Narrative Podcast)"
 ---
@@ -72,6 +72,9 @@ title: "叙事播客 (Narrative Podcast)"
 | 2024.04 | Connie Walker《Stolen》最终集发布；同年 Spotify 与 Joe Rogan 续约 $250M |
 | 2025.06 | Pineapple Street 宣布停业 |
 | 2025.08 | 亚马逊拆分 Wondery，裁员 110 人 |
+| 2026.05 | **[[shows/pablo-torre-finds-out\|Pablo Torre Finds Out]] 获普利策音频报道奖**——首个获奖的体育播客；以"近实时直播式调查"揭 NBA 薪资帽丑闻 |
+
+> **调查叙事的新范式（2026）**：与传统"后期制作"叙事（数月/数年调查后剪成精编系列）不同，Pablo Torre 采用 **近实时直播式调查**——每周更、进展实时呈现，听众跟随记者经历发现/困惑/突破，并以视频播客形式在镜头前展示证据链。证明严肃调查报道"不必以牺牲娱乐性为代价"。详见 [[niches/sports-podcast|体育播客]]、[[markets/us|美国市场]]。 2026-当体育播客赢得普利策——播客也可以是揭露丑闻的利器
 
 ### 商业逻辑崩塌
 

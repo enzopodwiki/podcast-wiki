@@ -11,7 +11,7 @@ title: "\"对话的力量\"——中文播客的公共价值报告"
 
 **发布方**：[[roles/fudan-icrc|复旦大学信息与传播研究中心]] × [[roles/xiaoyuzhou|小宇宙 App]]
 **发布日期**：2025 年 10 月
-**主编**：[[creators/li-mengying|李梦颖]]；**总指导**：[[creators/sun-wei|孙玮]]
+**主编**：李梦颖；**总指导**：孙玮
 **研究期**：2024 年 9 月 - 2025 年 10 月（一年）
 
 ## 研究方法
@@ -202,7 +202,7 @@ title: "\"对话的力量\"——中文播客的公共价值报告"
 ## 关联
 
 - 发布方：[[roles/fudan-icrc|复旦信息与传播研究中心]]、[[roles/xiaoyuzhou|小宇宙 App]]
-- 核心研究者：[[creators/li-mengying|李梦颖]]、[[creators/sun-wei|孙玮]]
+- 核心研究者：李梦颖、孙玮
 - 节目案例：[[shows/sound-east-west]]、[[shows/huzuohuyou]]、[[shows/dushubuchenglin]]、[[shows/zonghengshihai]]
 - 趋势锚点：[[trends/podcast-ads]]（与商业化报告对照）
 - 市场：[[markets/china-mainland]]
