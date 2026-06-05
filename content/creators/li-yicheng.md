@@ -21,6 +21,7 @@ title: "李毅诚"
 ## 关联
 
 - 节目：[[shows/taiwan-commute|《台湾通勤第一品牌》]]
+- 入场受其影响：[[creators/xie-menggong|谢孟恭]]（《股癌》，业配公开化）
 - 市场：[[markets/taiwan|台湾市场]]
 
 ## 引用来源

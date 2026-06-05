@@ -69,6 +69,7 @@ title: "相征"
 - 公司：[[roles/shenyetantan|深夜谈谈]]
 - 主办活动：[[roles/shengliang|声量播客节]]
 - 前合作者：[[creators/li-zhiming|李志明]]（日谈公园创始人，原大内联创）
+- 天使投资人：[[creators/ren-ning|任宁]]（Ones Ventures，2018 投资深夜谈谈）
 - 同代线下策展者：[[guan-yadi|关雅荻]]（狂喜播客节）
 - 市场：[[markets/china-mainland]]
 

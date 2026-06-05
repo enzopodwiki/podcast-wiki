@@ -23,8 +23,8 @@ title: "出版/书评播客"
 | 节目 | 出品方 | 风格 |
 |---|---|---|
 | [[shows/tiaodao-fm\|《跳岛FM》]] | 中信大方 | 泛文化对谈；小宇宙 TOP 1（出版类）|
-| 《Naive咖啡馆》 | 理想国 | 泛文化对谈；小宇宙 TOP 3 |
-| [[shows/kanlixiang-fm\|《看理想电台》]] | 看理想 | 泛文化对谈；小宇宙 TOP 2 |
+| [[shows/naive-cafe\|《Naive咖啡馆》]] | 理想国 | 泛文化对谈；小宇宙 TOP 3 |
+| [[roles/kanlixiang\|《看理想电台》]] | 看理想 | 泛文化对谈；小宇宙 TOP 2 |
 | 《螺丝在拧紧》 | 单读 | 主编吴琦为中心，个人 IP 路线 |
 | 《初学者电台》 | abC艺术书展 | 艺术书/设计垂类 |
 | 《后浪剧场》 | 后浪 | 影视/电影；2017 年上线，最早的出版播客之一 |
@@ -55,7 +55,7 @@ title: "出版/书评播客"
 
 ## 关联
 
-- 代表节目：[[shows/tiaodao-fm|《跳岛FM》]]、[[shows/kanlixiang-fm|《看理想电台》]]、[[shows/dubao-teleread|《读报 teleread》]]
+- 代表节目：[[shows/tiaodao-fm|《跳岛FM》]]、[[roles/kanlixiang|《看理想电台》]]、[[shows/dubao-teleread|《读报 teleread》]]
 - 相关趋势：[[trends/branded-podcasts|品牌播客]]
 - 市场：[[markets/china-mainland|中国大陆]]
 

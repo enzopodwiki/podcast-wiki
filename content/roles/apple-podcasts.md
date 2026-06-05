@@ -4,8 +4,8 @@ markets: [us, china-mainland]
 language: en
 aliases: [Apple Podcasts, 苹果播客, iTunes Podcasts, Podcasts App]
 country: 美国
-sources: 6
-updated: 2026-05-28
+sources: 7
+updated: 2026-06-05
 title: "Apple Podcasts（苹果播客）"
 ---
 
@@ -24,7 +24,8 @@ title: "Apple Podcasts（苹果播客）"
 - **2004.02.12** 英国《卫报》记者 Ben Hammersley 在一篇关于在线广播的稿子里随手造词 "**Podcasting**"——为填满版面的"有点浮夸的话"；几个月后被《牛津英语词典》收录。此日被视为播客的"诞生日"
 
 ### 2005
-- **2005.06** 苹果正式将"播客"纳入 iTunes，Steve Jobs："苹果将令播客成为主流"——极大提升播客知名度，确立苹果"主导性播客分销商"地位
+- **2005.06** 苹果正式将"播客"纳入 iTunes（4.9），Steve Jobs："苹果将令播客成为主流"——极大提升播客知名度，确立苹果"主导性播客分销商"地位
+  - **关键是尊重了去中心化架构**：iTunes 播客板块只是订阅工具，不托管、不拥有内容，只帮设备抓取创作者自托管的 RSS 源；无需账号、不做侵入式追踪。乔布斯当场打趣 podcast 不用电波频率、"**没有 FCC 监管了**"，并现场演示订阅 Adam Curry 的节目——苹果由此保留了 podcast"反对把关人"的开放天性。这一选择是 podcast 长期保持开放生态的制度起点。详见 [[markets/china-mainland|开放生态 vs 平台化]]。 2026-播客≠podcast
 
 ### 2008
 - **2008.01** Edison Research《Infinite Dial》首次统计上月播客收听：仅 **9%** 的 12 岁以上美国人。详见 [[sources/infinite-dial-reports|The Infinite Dial 历年报告]]
@@ -113,10 +114,11 @@ title: "Apple Podcasts（苹果播客）"
 
 ## 关联
 
-- 主要竞争者：[[roles/spotify|Spotify]]（2019 起市场份额持续逼近）
+- 主要竞争者：[[roles/spotify|Spotify]]（2019 起市场份额持续逼近）、[[roles/youtube|YouTube]]（2023 起登顶美国第一）
 - 同类泛用型客户端：[[roles/pocket-casts|Pocket Casts]]
 - 中国区合作托管平台：[[roles/ximalaya|喜马拉雅]]、[[roles/lizhi|荔枝]]、蜻蜓FM、考拉FM
 - 泛用型客户端概念：[[roles/ipn|IPN]] / [[creators/li-ruer|李如一]]
+- 相关趋势：[[markets/china-mainland|开放生态 vs 平台化]]（2005 去中心化选择的制度起点）
 - 长期数据：[[sources/infinite-dial-reports|The Infinite Dial]]、[[markets/us|美国市场]]、[[markets/china-mainland|中国大陆市场]]
 
 ## 引用来源
@@ -127,3 +129,4 @@ title: "Apple Podcasts（苹果播客）"
 - 2021-苹果这 75 秒发布，可能将影响播客的下一个 15 年
 - 2022-不讓 Apple、Spotify 獨佔！Pocket Casts 成開源軟體，如何讓 Podcast 市場更開放？_ 數位時代 BusinessNext
 - 2022-连苹果播客都开始卷了
+- 2026-播客≠podcast

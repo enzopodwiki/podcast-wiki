@@ -178,7 +178,7 @@ Q4 2023 前 30 最热门播客中 **16 个**同时有视频版（两年前仅 7 
 
 - 数据来源：[[sources/2025-ipsos-podcast-report|2025 益普索报告]]、[[sources/infinite-dial-reports|Infinite Dial 历年报告]]
 - 节目案例：[[shows/luo-yonghao-crossroads|《罗永浩的十字路口》]]、[[shows/tianzhen-butianzhen|《天真不天真》]]
-- 平台案例：[[roles/bilibili|B 站]]、[[roles/spotify|Spotify]]
+- 平台案例：[[roles/youtube|YouTube]]、[[roles/bilibili|B 站]]、[[roles/spotify|Spotify]]
 - 相邻趋势：[[podcast-ads]]（视频形态影响广告库存与定价）
 - 相邻类型：[[niches/narrative-podcast|叙事播客]]（在美国被视频对话型节目挤压）
 - 市场：[[markets/us]]、[[markets/china-mainland]]、[[markets/taiwan]]

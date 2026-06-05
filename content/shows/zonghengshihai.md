@@ -31,6 +31,7 @@ title: "《纵横四海》"
 
 - 类型：[[niches/book-podcast|读书/书评播客]]、女性主义讨论代表
 - 案例：复旦报告"再见爱人 4"案例
+- 同梯队（2024 Apple 大陆区第一梯队）：[[shows/tianzhen-butianzhen|《天真不天真》]]、[[shows/aotu-dianbo|《凹凸电波》]]
 - 趋势：长音频 / 知识增量驱动收听
 - 市场：[[markets/china-mainland|中国大陆]]
 

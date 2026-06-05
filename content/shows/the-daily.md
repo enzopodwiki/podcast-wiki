@@ -6,8 +6,8 @@ aliases: [The Daily, 每日播客, 纽约时报播客]
 publisher: The New York Times
 host: Michael Barbaro
 launched: 2017-02-01
-sources: 2
-updated: 2026-05-24
+sources: 3
+updated: 2026-06-05
 title: "The Daily"
 ---
 
@@ -43,6 +43,7 @@ title: "The Daily"
 - 首发赞助商宝马（BMW）；广告按 CPM 计价（行业均值 $25-35），据估算 200 万听众的单集单广告位约赚 $5 万，每周 5 集、每集多广告位——年广告收入达"8 位数"
 - **2020 年 NYT 音频收购潮**：Audm（长文朗读 App）+ [[roles/serial-productions|Serial Productions]]（$2500万）——Ben Smith 提出可组成"**播客界的 HBO**"（Serial + This American Life + The Daily）
 - **2021 年 NYT Audio 独立 App**（beta）：探索付费音频。策略与晨间 newsletter 一致——**The Daily 保持免费**以建立日常习惯，再把"每天听五集"的深度听众导入付费体系。Stephanie Preiss："习惯驱动付费意愿"；Sam Dolnick 坦言这只是"第一次尝试"，付费音频市场仍"萌芽期（有声书除外）"
+- **2023-05-17 NYT Audio 正式上线**（iOS，订户专享免费）：定位"音频版头版"，核心是**用户留存工具（retention tool）**。配合发布 app 专享日播《The Headlines》（工作日早晨、<10 分钟、3 条要闻由报道记者各自讲述），与 The Daily 同台、直接进入早间新闻赛道（对标 NPR《Up First》）。彼时正值美国播客寒冬（"the dumb money era is over"），但《The Daily》2023 一季度收听仍创新高。详见 [[roles/nyt|纽约时报]]。 2023-纽约时报推出音频 app
 - The Daily 也是 NYT 的**人才磁石**——"每个人最终都将为 The Daily 工作"（Gimlet 制作人 Kimmie Regler）
 
 ## 行业地位
@@ -67,9 +68,10 @@ The Daily 确立了新闻日播播客的行业标准：
 - 市场：[[markets/us|美国]]
 - 精神前辈：[[serial|《Serial》]]（叙事风格奠定者）
 - 中文对标：[[duanwen|《端闻》]]、[[the-real-story|《The Real Story》]]
-- 出品方音频战略：[[roles/serial-productions|Serial Productions]]（NYT 2020 收购）
+- 出品方音频战略：[[roles/nyt|纽约时报]]（NYT Audio app / 收购版图）、[[roles/serial-productions|Serial Productions]]（NYT 2020 收购）
 
 ## 引用来源
 
 - 2020-火爆背后，《纽约时报》当家新闻播客 “The Daily” 的故事
 - 2021-The New York Times hopes to hook listeners on audio. Will a new standalone app do the trick_ _ Nieman Journalism Lab
+- 2023-纽约时报推出音频 app

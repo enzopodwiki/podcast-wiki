@@ -20,7 +20,7 @@ title: "史秀雄"
 
 ## 播客理念
 
-- role model 是 **Joe Rogan**；节目命名致敬 [[markets/us|《The Joe Rogan Experience》]]，追求 1–2 小时的深度长对谈。
+- role model 是 **[[creators/joe-rogan|Joe Rogan]]**；节目命名致敬《The Joe Rogan Experience》，追求 1–2 小时的深度长对谈。
 - 强调"聆听比阅读更靠近本能"，反对"婴儿食品式"短内容；以坦诚分享者而非采访者姿态主持。
 - 节目永久免费，看重教育/启发的使命甚于收益。
 

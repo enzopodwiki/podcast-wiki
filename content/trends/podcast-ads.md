@@ -1,7 +1,7 @@
 ---
 type: trend
 markets: [us, china-mainland, taiwan]
-sources: 56
+sources: 57
 updated: 2026-06-03
 title: "播客广告"
 ---
@@ -57,16 +57,17 @@ title: "播客广告"
 | 2015 | **$1.05 亿** |
 | 2019 | **$7 亿** |
 | 2020 | 接近 **$10 亿** |
-| 2024 | **>$20 亿** |
-| 2025（预测） | **$25.1 亿** |
+| 2022 | **$18 亿** |
+| 2023 | **$19 亿** |
+| 2024 | **$24 亿** |
+| 2025（预测） | **$25 亿** |
 
-> [!warning] 数据冲突
-> - **IAB/eMarketer 口径（此表）**：2025 预测 $25.1 亿（$2.51B）
-> - **欣传媒 2026 汇编**：2025 实际/预测 $44.6 亿（$4.46B，来源未注明）
-> - **[[markets/us|美国市场]]页 IAB 数据**：预计 2022-2025 翻倍至约 $40 亿（$4B）
-> - 三者差距较大，可能源于统计口径（纯播客广告 vs 含数字音频）或报告时间点不同，待穿透核实
+> [!note] 口径说明
+> 本表统一采用 **IAB/eMarketer 的纯播客广告口径**（2025 预测约 $25 亿）。
 
 **增长逻辑**：2015-2024 约增 20 倍，主要驱动是 ① DAI 技术成熟（长尾播客批量接入）；② 名人播客集中流量（Joe Rogan 效应）；③ 品牌预算从传统广播迁移。顶级主播单集广告收入可超 **$10 万**；Spotify 为签 Joe Rogan 付出高达 **$2.5 亿**合约。 2025-美国播客的权力游戏
+
+> **2023 广告寒冬（增速谷底）**：表中 2022→2023 几近持平（$18 亿→$19 亿），背后是整体广告市场不景气下"**人傻钱多的时代已经结束（the dumb money era is over）**"——连头部播客接广告都变难，《[[shows/the-daily|The Daily]]》一度频繁把广告位让给[[roles/nyt|纽约时报]]自家内容而非外部广告；NPR、[[roles/spotify|Spotify]] 及多家制作公司同期裁员。这也是 [[roles/nyt|纽约时报]]选择以"订阅而非广告"驱动 NYT Audio 的背景。 2023-纽约时报推出音频 app
 
 ### 广告 vs 付费订阅之路（2018-2023）
 
@@ -90,7 +91,7 @@ title: "播客广告"
 - **DAI 吸引力**：自动化、更快更便宜、一条素材投多档、可定向、免主播审稿。iHeart 全面转 DAI 后 2021 播客收入 $2.526 亿（+148%）。
 - 担忧（Oxford Road）："一旦每小时两位数分钟广告，魔力就没了"——"Save the live read"。
 
-> eMarketer：2025 美国数字音频广告 $80 亿，其中播客 $27 亿。 2022-Why podcast agencies are warning about the move to dynamically-inserted ads
+> eMarketer：2025 美国数字音频广告 $80 亿，其中播客约 $25 亿。 2022-Why podcast agencies are warning about the move to dynamically-inserted ads
 
 ### AI 广告工具与"抢 influencer 预算"（2024）
 
@@ -307,6 +308,7 @@ SoundOn 调查（2023，2,500+ 问卷）：会听完广告 40.5%、退出仅 1.2
 ## 引用来源
 
 - 2025-播客行业报告
+- 2023-纽约时报推出音频 app
 - 2019-Luminary 付费播客试探遭遇滑铁卢，却让播客圈思考自己的未来
 - 2021-苹果这 75 秒发布，可能将影响播客的下一个 15 年
 - 2022-Podcasters test offering more bonus content and additional features to grow subscriptions

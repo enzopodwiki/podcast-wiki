@@ -11,7 +11,7 @@ updated: 2026-05-20
 title: "声湃（原名音播）"
 ---
 
-中文播客的**多平台分发 SaaS 工具**。2020 年 5 月由[[podcast-commune|播客公社]]与[[jinjin-ledao|津津乐道]]网络联合发布，联合创始人为[[creators/zhu-feng|朱峰]]（技术）与老袁（商务）。
+中文播客的**多平台分发 SaaS 工具**。2020 年 5 月由[[podcast-commune|播客公社]]与[[jinjin-ledao|津津乐道]]网络联合发布，联合创始人为[[creators/zhu-feng|朱峰]]（技术）与[[creators/lao-yuan|老袁]]（商务）。
 
 > **定位**："SaaS 服务，而不是一个音频平台。" —— 朱峰
 

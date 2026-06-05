@@ -21,6 +21,7 @@ const DEST = path.join(import.meta.dirname, "content");
 const EXCLUDE_FILES = new Set([
   "log.md",
   "sources/source-inventory.md",
+  "选题池.md",
 ]);
 const EXCLUDE_PREFIX = ["log-archive-"]; // log-archive-2026-05.md 等
 

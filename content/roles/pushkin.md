@@ -36,6 +36,7 @@ title: "Pushkin Industries"
 ## 关联
 
 - 同期美国精品厂牌：[[roles/gimlet|Gimlet]]、[[roles/wondery|Wondery]]、[[roles/serial-productions|Serial Productions]]
+- 分发渠道：[[roles/apple-podcasts|Apple Podcasts]]（2021 付费订阅首批出版商，推出 PushNik）
 - 变现对照：[[trends/podcast-ads|播客广告]]（订阅/有声书 vs 广告）
 - 市场：[[markets/us|美国市场]]
 

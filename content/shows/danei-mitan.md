@@ -77,6 +77,7 @@ title: "《大内密谈》"
 - 联合创始人（已离开）：[[creators/li-zhiming|李志明]]（现日谈公园）
 - 同代老牌：[[story-fm|《故事 FM》]]
 - 主办活动：[[roles/shengliang|声量播客节]]
+- 同代天猫联动播客：[[shows/san-hao-huai-nan-hai|《三好坏男孩》]]（2020 多家品牌联动）
 - 市场：[[markets/china-mainland]]
 
 ## 引用来源

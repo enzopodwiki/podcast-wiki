@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-06-04
+updated: 2026-06-05
 
 title: "Wiki 索引"
 ---
@@ -13,31 +13,34 @@ title: "Wiki 索引"
 
 ## 市场 (markets/)
 
-- [[markets/us]] — 美国市场（引用 39）| 月度消费 58%，YouTube 第一 39%，2025 全球听众 5.84 亿，Joe Rogan 1100万/集；Pablo Torre 2026 普利策
-- [[markets/china-mainland]] — 中国大陆市场（引用 70）| 2025 听众破 1.5 亿，头部商单占比 10-20%（未饱和），小宇宙口碑 vs 喜马拉雅变现；后抖音"飞地"
+- [[markets/us]] — 美国市场（引用 41）| 月度消费 58%，YouTube 第一 39%，2025 全球听众 5.84 亿，Joe Rogan 1100万/集；Pablo Torre 2026 普利策
+- [[markets/china-mainland]] — 中国大陆市场（引用 73）| 2025 听众破 1.5 亿，头部商单占比 10-20%（未饱和），小宇宙口碑 vs 喜马拉雅变现；后抖音"飞地"
 - [[markets/taiwan]] — 台湾市场（引用 32）| DAI 广告 +172%，广告 CAGR 30.2%，YouTube 45% 第一，金钟奖驱动精品化
 - [[markets/southeast-asia]] — 东南亚华语播客（马来西亚 + 新加坡，新兴幼苗市场，引用 2）
 
 ## 趋势 (trends/)
 
-- [[trends/podcast-ads]] — 播客广告（引用 56）| IAB 2025 预测 $25.1B；大陆 CPM 0.05-0.1 元/次（vs 微信 1.5 元）；DAI vs 口播之争（口播回想率 71%）
+- [[trends/podcast-ads]] — 播客广告（引用 57）| 美国 IAB 口径 18→19→24→25 亿（2022-2025E）；大陆 CPM 0.05-0.1 元/次（vs 微信 1.5 元）；DAI vs 口播之争（口播回想率 71%）
 - [[trends/branded-podcasts]] — 品牌播客（引用 29）| 大陆 2024 共 171 档（75% 持续更新）；三种路径：自制/定制/赞助；Marcast 厂牌化方法论
-- [[trends/video-podcasts]] — 视频播客（引用 26）| YouTube 美国第一 39%；B 站视频播客时长 +270%（69→259 亿分钟）；影视业反向收购播客
+- [[trends/video-podcasts]] — 视频播客（引用 27）| YouTube 美国第一 39%；B 站视频播客时长 +270%（69→259 亿分钟）；影视业反向收购播客
 - [[trends/audience-psychology]] — 播客听众心理（引用 1）| 娱乐 87% vs 学习 88%；Tobin & Guadagno 2022 PLOS ONE：开放性/认知需求正相关，归属感需求负相关
 - [[trends/podcast-label]] — 播客厂牌（行业化标志，20 家厂牌近 200 档，MCN 消退，引用 1）
+- "AI 生成播客"（NotebookLM/Pager Protocol/理想萝卜）已并入 [[markets/us|美国市场]]"AI 生成播客"小节 + [[roles/kanlixiang|看理想]]（《理想萝卜》）
+- "开放生态 vs 平台化 / 播客≠podcast"（方可成论）已并入 [[markets/china-mainland|中国大陆市场]]"RSS 开放性危机与中心化"小节
 
 ## 播客平台 (roles/ → type: platform)
 
 ### 美国
-- [[roles/spotify]]（引用 10）| $1B 播客赌局：$2.86亿买工作室→H1 亏 $5.65亿→三波裁员→2023 接近盈利；2024 视频反击 YouTube
+- [[roles/youtube]] — YouTube（2023 起美国第一播客平台，Q4'25 到达率 39%；视频+Shorts发现+$18 CPM+客厅大屏；B 站对标范本，引用 9）
+- [[roles/spotify]]（引用 11）| $1B 播客赌局：$2.86亿买工作室→H1 亏 $5.65亿→三波裁员→2023 接近盈利；2024 视频反击 YouTube
 
-- [[roles/apple-podcasts]] — Apple Podcasts（播客生态奠基分发渠道，"佛系"守护者；2019 中国区下架风波、2021 付费订阅、2020-22 原创内容，引用 6）
+- [[roles/apple-podcasts]] — Apple Podcasts（播客生态奠基分发渠道，"佛系"守护者；2005 iTunes 去中心化、2019 中国区下架风波、2021 付费订阅，引用 7）
 - [[roles/pocket-casts]] — Pocket Casts（泛用型客户端，2022 开源；Automattic 旗下，引用 1）
 
 ### 中国大陆
-- 当代主导：[[roles/xiaoyuzhou]]（引用 19）| 听众女性 68%，日均 79 分钟，小宇宙做口碑（分成 1:9/外链最松）；[[roles/jike]]
+- 当代主导：[[roles/xiaoyuzhou]]（引用 20）| 听众女性 68%，日均 79 分钟，小宇宙做口碑（分成 1:9/外链最松）；[[roles/jike]]
 - FM 时代：[[roles/ximalaya]]（被腾讯音乐 12.6 亿美元收购，引用 8）、[[roles/qingting-fm]]、[[roles/lizhi]]（市值从 6 亿跌至不足 2000 万美元，引用 4）
-- 知识付费：[[roles/dedao]]、[[roles/fenda]]
+- 知识付费：[[roles/dedao]]、[[roles/fenda]]、[[roles/kanlixiang]] — 看理想（理想国音频出版品牌，2018 起，五年 200+ 档，"用出版的态度做音频"，京海派联结体，引用 4）
 - 视频：[[roles/bilibili]]（引用 5）
 - 社交/社区平台入局（2024）：[[roles/weibo]] — 微博（音频扶持计划，数据"不好看"，引用 1）、[[roles/xiaohongshu]] — 小红书（扶持播客但要求做直播，制作人望而却步，引用 1）
 
@@ -58,6 +61,7 @@ title: "Wiki 索引"
 ## 机构 (roles/ → type: org)
 
 ### 媒体机构
+- [[roles/nyt]] — 纽约时报（美国；NYT Audio app=订阅留存工具，The Daily / 收购 Serial·Athletic·Audm，引用 1）
 - [[roles/twreporter]] — 报导者（台湾，非营利深度报道）
 - [[roles/the-initium]] — 端传媒（独立华语新闻媒体，引用 1）
 - [[roles/zhuanjiao-intl]] — 转角国际（联合新闻网，引用 1）
@@ -85,7 +89,7 @@ title: "Wiki 索引"
 ## 节目 (shows/)
 
 ### 美国
-- [[shows/the-daily]] — The Daily（NYT，日播新闻标杆，2017，Barbaro 反身叙事/免费引流付费，中文对标：《端闻》《The Real Story》，引用 2）
+- [[shows/the-daily]] — The Daily（NYT，日播新闻标杆，2017，Barbaro 反身叙事/免费引流付费，中文对标：《端闻》《The Real Story》，引用 3）
 - [[shows/serial]]、[[shows/this-american-life]]（引用 2）、[[shows/over-my-dead-body]]、[[shows/stolen]]、[[shows/shell-game]]
 - [[shows/pablo-torre-finds-out]] — Pablo Torre Finds Out（体育视频播客，调查 NBA 薪资帽，2026 普利策音频报道奖，引用 1）
 
@@ -103,7 +107,7 @@ title: "Wiki 索引"
 - 日谈宇宙：[[shows/ritan-wuyu]] — 《日谈物语》（李淼）、[[shows/shuo-gui-shuo]] — 《说归说》（李志明）、[[shows/tiandi-wuyong]] — 《天地无用》（3000老师）
 - 性别/垂类：[[shows/bie-ren-xing]] — 《别任性》（Alexwood，BIE别的女孩）、[[shows/biaojian]] — 《婊酱》（鸟鸟，2015，性积极，审查后迁至独立站）
 - 生活方式/实体空间：[[shows/daxiao-diantai]] — 《大小电台》（大小咖啡孵化）
-- 出版/文化类：[[shows/tiaodao-fm]] — 《跳岛FM》（中信大方）、[[shows/kanlixiang-fm]] — 《看理想电台/FM》（看理想出品，京海派联结体，引用 3）
+- 出版/文化类：[[shows/tiaodao-fm]] — 《跳岛FM》（中信大方）、[[roles/kanlixiang|《看理想电台》]] — 看理想出品（并入看理想品牌页）、[[shows/naive-cafe]] — 《Naive咖啡馆》（理想国，咖啡馆品牌播客，引用 4）
 - 独立叙事/听众拉新：[[shows/beihai-guaishou]] — 《北海怪兽》（若冰 × 花生酱，三明治 Soundwich）
 - 内容评论：[[shows/zhan-kai-jiang-jiang]] — 《展开讲讲》（王老师/康堤/洞姐，东亚影视，"以贩养吸"，2019）
 - 劳工/社会议题：[[shows/da-gong-tan]] — 《打工谈》（志愿自组织，让工人直接发声，2020）
@@ -137,11 +141,12 @@ title: "Wiki 索引"
 ## 创作者 (creators/)
 
 ### 美国
+- [[creators/joe-rogan]] — Joe Rogan（JRE，美国第一播客，约 1100 万/集；Spotify 头号资产；2024 大选政治影响力顶点，引用 6）
 - [[creators/eric-benson]]、[[creators/connie-walker]]、[[creators/evan-ratliff]]、[[creators/pablo-torre]] — Pablo Torre（前 ESPN，调查体育播客，2026 普利策，引用 1）
 
 ### 中国大陆
-- 平台/厂牌：[[creators/kyth]]、[[creators/cheng-yanliang]]（引用 2）、[[creators/li-zhiming]]（引用 2）、[[creators/luo-zhenyu]]、[[creators/feng-guangjian]] — 冯广健（日谈联合创始人）、[[creators/li-ruer]] — 李如一（IPN 创始人，泛用型播客客户端发明者）
-- 基础设施：[[creators/zhu-feng]] — 朱峰（声湃联合创始人）
+- 平台/厂牌：[[creators/kyth]]、[[creators/cheng-yanliang]]（引用 2）、[[creators/li-zhiming]]（引用 2）、[[creators/luo-zhenyu]]、[[creators/feng-guangjian]] — 冯广健（日谈联合创始人）、[[creators/li-ruer]] — 李如一（IPN 创始人，泛用型播客客户端发明者）、[[creators/liang-wendao]] — 梁文道（看理想/《八分》，知识付费+播客混合体，引用 5）
+- 基础设施 / 社区：[[creators/zhu-feng]] — 朱峰（声湃联合创始人）、[[creators/lao-yuan]] — 老袁（播客公社创始人 / 声湃联创，引用 4）
 - "准专业"主播：[[creators/xu-tao]]（引用 3）、[[creators/zhongshu]]
 - 叙事/老牌：[[creators/ai-zhe]] — 寇爱哲（故事FM创始人）、[[creators/xiang-zheng]]（引用 3）、[[creators/li-miao]] — 李淼（淼叔，日谈物语）、[[creators/ren-ning]] — 任宁（《迟早更新》，Ones Ventures）
 - 调查叙事：[[creators/jiaxun]] — 佳勋（跳进兔子洞，前声动活泼）
@@ -193,7 +198,7 @@ title: "Wiki 索引"
 
 ## 来源摘要 (sources/)
 
-- [[sources/source-inventory]] — **raw/ 文章来源盘点**（230 全量：198 文章 + 32 PDF，按来源 + 质量评级分类）
+- [[sources/source-inventory]] — **raw/ 文章来源盘点**（235 全量：203 文章 + 32 PDF，按来源 + 质量评级分类）
 - [[sources/2025-ipsos-podcast-report]] — 《声入人心》益普索 × 日谈公园 2025 播客行业报告（商业化视角）
 - [[sources/2025-fudan-public-value-report]] — 《对话的力量》复旦 × 小宇宙 2025 中文播客公共价值报告（公共价值视角）
 - [[sources/firstory-reports]] — Firstory 台湾 Podcast 年报（2020-2026）八份，台湾本土唯一连贯量化数据序列

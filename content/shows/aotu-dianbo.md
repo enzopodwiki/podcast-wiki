@@ -35,7 +35,7 @@ title: "《凹凸电波》"
 
 - 类型：陪伴+生活漫谈
 - 趋势：[[trends/branded-podcasts|品牌播客]]
-- 同代头部：[[xiexing-liaotian|《谐星聊天会》]] 等
+- 同代头部：[[xiexing-liaotian|《谐星聊天会》]]、[[shows/tianzhen-butianzhen|《天真不天真》]]、[[shows/zonghengshihai|《纵横四海》]]（2024 Apple 大陆区第一梯队）
 - 市场：[[markets/china-mainland]]
 
 ## 引用来源

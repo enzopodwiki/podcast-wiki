@@ -5,8 +5,8 @@ language: zh
 aliases: [李如一, Li Ruer]
 role: 播客人 / 词典编纂者 / 媒体人
 affiliation: IPN
-sources: 2
-updated: 2026-06-03
+sources: 3
+updated: 2026-06-05
 title: "李如一"
 ---
 
@@ -20,7 +20,7 @@ title: "李如一"
 
 ### "泛用型播客客户端"
 
-李如一发明的中文术语，指通过 RSS 订阅收听、节目不托管于平台的播客客户端（如 Podcast、Overcast、Castro、Pocket Casts 等）。这一概念成为此后中文播客圈讨论分发独立性的核心语汇。
+李如一发明的中文术语，指通过 RSS 订阅收听、节目不托管于平台的播客客户端（如 Podcast、Overcast、Castro、Pocket Casts 等）。这一概念成为此后中文播客圈讨论分发独立性的核心语汇。在方可成"播客≠podcast"的开放生态论述里，李如一被援引为坚持 RSS 分发、鼓励听众用泛用型客户端的**创作者典范**（其 2019 年博文《Time to double down on open podcast clients》）。详见 [[markets/china-mainland|开放生态 vs 平台化]]。 2026-播客≠podcast
 
 ### "海派播客"风格定义者
 
@@ -49,8 +49,10 @@ title: "李如一"
 - 受其影响的创作者：[[creators/xu-tao|徐涛]]（声动活泼创始人）、[[creators/yu-wanying|于婉莹]]（《博物志》）
 - 市场：[[markets/china-mainland|中国大陆]]
 - 相关概念：泛用型播客客户端、海派播客
+- 相关趋势：[[markets/china-mainland|开放生态 vs 平台化]]（RSS 开放生态倡导者）
 
 ## 引用来源
 
 - 2020-中文播客界的京派与海派
 - 2019-「利器 x 播客」访谈：我做了一档广泛地关于博物馆的（陪伴型）播客
+- 2026-播客≠podcast

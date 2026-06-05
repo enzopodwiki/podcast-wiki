@@ -4,11 +4,14 @@ markets: [us]
 language: zh
 aliases: [听众心理, 播客收听动机, 播客听众人格, listener psychology]
 sources: 1
-updated: 2026-05-29
+updated: 2026-06-05
 title: "播客听众心理与收听动机"
 ---
 
 > 为什么人们选择播客而非其他媒介？两种角度给出了截然不同的答案：产业调查揭示"表面动机"，学术研究揭示"深层机制"。
+
+> [!note] 来源说明
+> 本页的数据与发现**转引自欣传媒一篇综述文章**（它汇总了多家产业调查 + 下述学术论文）；下文的整合框架（"表面动机 vs 深层机制""四大核心价值"等）亦循该文思路。学术结论本身来自 **Tobin & Guadagno (2022), *PLOS ONE***——该刊为**开放获取（CC BY）**，研究数据与结论可自由引用。
 
 ## 产业调查：为什么听播客
 
@@ -26,7 +29,7 @@ title: "播客听众心理与收听动机"
 
 ## 学术研究：什么性格的人更倾向听播客
 
-**Tobin, J. M., & Guadagno, R. E. (2022)**：《Why people listen: Motivations and outcomes of podcast listening》，发表于 *PLOS ONE*。通过问卷调查检验大五人格、好奇心类型、认知需求等特质与播客收听倾向的相关性。
+**Tobin, J. M., & Guadagno, R. E. (2022)**：《Why people listen: Motivations and outcomes of podcast listening》，发表于 *PLOS ONE*（开放获取，CC BY）。通过问卷调查检验大五人格、好奇心类型、认知需求等特质与播客收听倾向的相关性。（以下结论转引自欣传媒综述。）
 
 ### 正相关特质（更容易成为听众）
 

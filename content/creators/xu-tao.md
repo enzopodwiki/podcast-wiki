@@ -46,6 +46,7 @@ title: "徐涛"
 - 主节目：[[shows/sound-east-west|《声东击西》]]
 - 公司：[[roles/shengdong-huopo|声动活泼]]
 - 旗下节目：[[shows/guigu-zao-zhi-dao|《硅谷早知道》]]、[[shows/fan-chao-liu-julebu|《反潮流俱乐部》]]、[[shows/dao-hai-wai-qu|《到海外去》]]
+- 旗下制作人：[[creators/jiaxun|佳勋]]（《跳进兔子洞》，徐涛任其编辑）
 - 同类同代媒体人转型：[[cheng-yanliang|程衍樑]]（前界面新闻→ JustPod & 忽左忽右）
 - 市场：[[markets/china-mainland]]
 
