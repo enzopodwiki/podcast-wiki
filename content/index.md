@@ -195,7 +195,7 @@ title: "Wiki 索引"
 
 ## 来源摘要 (sources/)
 
-- [[sources/source-inventory]] — **raw/ 文章来源盘点**（235 全量：203 文章 + 32 PDF，按来源 + 质量评级分类）
+- [[sources/source-inventory]] — **高质量来源盘点**（★★★ 来源，按来源 + 类型分类）
 - [[sources/2025-ipsos-podcast-report]] — 《声入人心》益普索 × 日谈公园 2025 播客行业报告（商业化视角）
 - [[sources/2025-fudan-public-value-report]] — 《对话的力量》复旦 × 小宇宙 2025 中文播客公共价值报告（公共价值视角）
 - [[sources/firstory-reports]] — Firstory 台湾 Podcast 年报（2020-2026）八份，台湾本土唯一连贯量化数据序列

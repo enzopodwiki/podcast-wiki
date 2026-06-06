@@ -34,9 +34,11 @@ function shouldExclude(rel) {
 // 发布时的针对性文字替换（按文件路径）。原始 vault 不改；这里只改副本。
 // 用途：来源盘点只公开高质量部分，故首页对它的描述也相应改写。
 const TEXT_FIXES = {
+  // 首页对来源盘点的描述：公开版只放 ★★★，故把"raw/ 全量盘点（含篇数）"整段改写。
+  // from 用正则匹配括号内任意内容，避免每次篇数/口径变化就失配。
   "index.md": [
     [
-      "**raw/ 文章来源盘点**（197 篇全量，按来源 + 质量评级分类）",
+      /\*\*raw\/ 文章来源盘点\*\*（[^）]*）/,
       "**高质量来源盘点**（★★★ 来源，按来源 + 类型分类）",
     ],
   ],
@@ -46,7 +48,10 @@ function applyTextFixes(rel, text) {
   const fixes = TEXT_FIXES[rel];
   if (!fixes) return text;
   let out = text;
-  for (const [from, to] of fixes) out = out.split(from).join(to);
+  // from 可为字符串（整段替换）或正则（容忍篇数等变化）
+  for (const [from, to] of fixes) {
+    out = typeof from === "string" ? out.split(from).join(to) : out.replace(from, to);
+  }
   return out;
 }
 
