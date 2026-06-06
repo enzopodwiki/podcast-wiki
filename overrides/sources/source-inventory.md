@@ -2,7 +2,7 @@
 type: source-inventory
 markets: [us, china-mainland, taiwan]
 language: mixed
-updated: 2026-06-05
+updated: 2026-06-06
 title: "来源盘点（高质量来源）"
 ---
 
@@ -33,7 +33,7 @@ title: "来源盘点（高质量来源）"
 | **天下杂志** | 综合时事杂志 | **3** | TW | 台湾老牌商业财经杂志，覆盖 KKBOX 战略、Podcast 视频化等长文 |
 | **JustPod** | 行业调研 | **2** | CN | 2022/2024 两届，详见 [[sources/justpod-reports\|JustPod 播客新观察摘要]] |
 | **TNL 关键评论网** | 综合时事媒体 | **2** | TW | 「街头产业观察」「听经济崛起」等专题 |
-| **CBNData / 第一财经** | 商业财经媒体 | **2** | CN | 数据品牌，覆盖播客金融机构、商业化等专题 |
+| **第一财经 / 第一财经杂志** | 商业财经媒体 | **2** | CN | yicai.com《播客，金融机构的下一片蓝海？》+《第一财经》YiMagazine 专访小宇宙 COO [[creators/chen-linfeng\|陈临风]]（肖文杰） |
 | **WSJ / 出色 WSJ 中文版** | 财经报纸 / 中文版杂志 | **5** | US·CN | 美版《华尔街日报》含 2023《Spotify's $1 Billion Podcast Bet》深度复盘；中文版「出色 WSJ.」含杨一《中文播客正在抄小路奔向大众》、方可成《2023 中文播客努力"搞钱"》、2021《小镇青年播客》 |
 | **卓越新闻奖基金会** | 新闻奖项基金会 | **2** | US·TW | 台湾新闻奖基金会（[feja.org.tw](https://feja.org.tw)）；含 2023 美国 Pew「451 档热门播客」概况编译 + 2024「卓新沙龙」詹婉如《The Real Story》声音报导实录 |
 | **极客公园** | 科技媒体 | **2** | CN | 含与 Kyth 关于 AI 时代播客价值的专访 |
@@ -61,7 +61,6 @@ title: "来源盘点（高质量来源）"
 **深度报道**
 - **澎湃 The Paper**（CN）
 - **群众观点**（TW 商业访谈）
-- **《第一财经》YiMagazine** — 含小宇宙 COO [[creators/chen-linfeng\|陈临风]] 专访
 - **镜新闻**（TW）— 2025 台湾 Podcast 五年进化综述
 - **海克财经**（CN）— 2025 喜马拉雅-TME 收购分析
 - **刺猬公社**（CN）— 2024 播客内容红利
