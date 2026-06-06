@@ -115,11 +115,11 @@ title: "台湾市场"
 
 元年头部由**三本柱**主导，长期盘踞 Apple Podcast 前三（名次互换）：
 
-| 节目 | 主持人 | 核心 | 订阅（估计） |
-|---|---|---|---|
-| [[shows/guyai\|《股癌》]] | [[creators/xie-menggong\|谢孟恭]] | 财经股市 | ~10 万 |
-| [[shows/balingguo\|《百灵果》]] | 百灵果 | 国际新闻 | ~10 万 |
-| [[shows/taiwan-commute\|《台湾通勤第一品牌》]] | [[creators/li-yicheng\|李毅诚]] | 社会文化评论 | ~10 万 |
+| 节目                                        | 主持人                                 | 核心     |
+| ----------------------------------------- | ----------------------------------- | ------ |
+| [[shows/guyai\|《股癌》]]                | [[creators/xie-menggong\|谢孟恭]] | 财经股市   |
+| [[shows/balingguo\|《百灵果》]]           | 百灵果                                 | 国际新闻   |
+| [[shows/taiwan-commute\|《台湾通勤第一品牌》]] | [[creators/li-yicheng\|李毅诚]]   | 社会文化评论 |
 
 [[shows/fakeidao|《法客电台》]]（[[creators/yang-guizhi|杨贵智]]/法律白话文运动）稳定 10-15 名、单集 2 万次。
 
