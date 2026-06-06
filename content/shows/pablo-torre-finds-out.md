@@ -5,8 +5,8 @@ language: en
 aliases: [Pablo Torre Finds Out, 巴勃罗·托雷揭秘]
 host: Pablo Torre
 launched: 2023
-sources: 1
-updated: 2026-06-03
+sources: 2
+updated: 2026-06-06
 title: "Pablo Torre Finds Out"
 ---
 
@@ -25,6 +25,10 @@ title: "Pablo Torre Finds Out"
 
 证明了"播客不仅可以娱乐，更可以成为撼动行业的调查利器"。被《时代》评为"史上最佳播客 100 强"，另获默罗奖（2024）、韦比奖等。
 
+## 加盟 The Athletic（2025）
+
+2025 年 8 月，The Athletic（[[roles/nyt|纽约时报]]旗下）以**七位数**签下本节目分发权。Torre 透露曾收到多个七位数报价，最终为把节目放到 NYT 受众面前而选择 The Athletic（自嘲父母"终于来把我从不体面的处境里解救出来"）——传统媒体抢签明星创作者的代表案例，详见 [[markets/us|美国市场]]。 2025-The Podcast Gold Rush Media Companies Race to License Star Creators
+
 ## 关联
 
 - 主播：[[creators/pablo-torre|Pablo Torre]]
@@ -35,3 +39,4 @@ title: "Pablo Torre Finds Out"
 ## 引用来源
 
 - 2026-当体育播客赢得普利策——播客也可以是揭露丑闻的利器
+- 2025-The Podcast Gold Rush Media Companies Race to License Star Creators

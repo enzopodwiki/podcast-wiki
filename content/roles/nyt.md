@@ -3,8 +3,8 @@ type: org
 markets: [us]
 language: zh
 aliases: [NYT, The New York Times, 纽约时报, 纽时]
-sources: 1
-updated: 2026-06-05
+sources: 2
+updated: 2026-06-06
 title: "纽约时报"
 ---
 
@@ -17,6 +17,7 @@ title: "纽约时报"
 - **NYT Audio app**（2023-05-17，iOS，订户专享免费）：定位"音频版头版"，核心是**用户留存工具（retention tool）**，服务约 **970 万**数字订户；自有 app 也用于收集一手收听数据。
 - **app 专享日播《The Headlines》**：工作日早晨、<10 分钟、3 条要闻由报道记者各自讲述，对标 NPR《Up First》。
 - **背景**：上线正值美国播客广告寒冬（"the dumb money era is over"），但 NYT 收入靠订阅而非广告、受冲击小；《The Daily》2023 一季度收听创新高。
+- **签约明星创作者（2025）**：The Athletic（NYT 旗下）以**七位数**签下《[[shows/pablo-torre-finds-out|Pablo Torre Finds Out]]》分发权——Torre 拒绝多个七位数报价、为触达 NYT 受众而来；体现老牌媒体凭"明星吸引力 + 正当性背书"在创作者争夺战中的筹码。详见 [[markets/us|美国市场]]"传统媒体抢签创作者"。 2025-The Podcast Gold Rush Media Companies Race to License Star Creators
 
 ## 在本 wiki 的位置
 
@@ -27,4 +28,5 @@ title: "纽约时报"
 
 ## 来源
 
-新闻实验室会员通讯第 676 期（方可成）：2023-纽约时报推出音频 app
+- 新闻实验室会员通讯第 676 期（方可成）：2023-纽约时报推出音频 app
+- 2025-The Podcast Gold Rush Media Companies Race to License Star Creators

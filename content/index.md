@@ -5,7 +5,9 @@ updated: 2026-06-06
 title: "Wiki 索引"
 ---
 
-> Claude 维护。每次 ingest 一篇文章后，相关条目应在此注册或更新。
+播客知识库由[「推播助栏」](https://enrichpodwave.substack.com/)创始人 Enzo 创建及维护，不追求高时效性的资讯，只收集和引用有深度的新闻报道和人物访谈、有洞见的专业评论和行业研究，致力于成为中文世界最好的播客 wiki。
+
+<!-- 维护提醒：每次 ingest 一篇文章后，相关条目应在此注册或更新。 -->
 
 ## 综述
 
@@ -34,6 +36,7 @@ title: "Wiki 索引"
 
 - [[roles/apple-podcasts]] — Apple Podcasts（播客生态奠基分发渠道，"佛系"守护者；2005 iTunes 去中心化、2019 中国区下架风波、2021 付费订阅，引用 7）
 - [[roles/pocket-casts]] — Pocket Casts（泛用型客户端，2022 开源；Automattic 旗下，引用 1）
+- [[roles/siriusxm]] — SiriusXM（卫星广播巨头，2020s 起重金签头部 + 捆绑订阅；Call Her Daddy 近 $100M，引用 1）
 
 ### 中国大陆
 - 当代主导：[[roles/xiaoyuzhou]]（引用 20）| 听众女性 68%，日均 79 分钟，小宇宙做口碑（分成 1:9/外链最松）；[[roles/jike]]
@@ -84,28 +87,34 @@ title: "Wiki 索引"
 ### 基础设施工具
 - [[roles/shengpai]] — 声湃（中文首个多平台分发 SaaS）
 
+### 游戏 / 垂类社区媒体
+- [[roles/gcores]] — 机核 / Gadio（2010，中国第一档游戏垂类播客；播客×社区×商业化范本，GPASS会员/有声书/核聚变/吉考斯工业；"播客=社区运营工具"，引用 1）
+
 ## 节目 (shows/)
 
 ### 美国
 - [[shows/the-daily]] — The Daily（NYT，日播新闻标杆，2017，Barbaro 反身叙事/免费引流付费，中文对标：《端闻》《The Real Story》，引用 3）
 - [[shows/serial]]、[[shows/this-american-life]]（引用 2）、[[shows/over-my-dead-body]]、[[shows/stolen]]、[[shows/shell-game]]
-- [[shows/pablo-torre-finds-out]] — Pablo Torre Finds Out（体育视频播客，调查 NBA 薪资帽，2026 普利策音频报道奖，引用 1）
+- [[shows/pablo-torre-finds-out]] — Pablo Torre Finds Out（体育视频播客，调查 NBA 薪资帽，2026 普利策音频报道奖，引用 2）
+- 名人头部：[[shows/call-her-daddy]] — 《Call Her Daddy》（Alex Cooper，全美前 7，近 $100M 转投 SiriusXM，引用 1）、[[shows/new-heights]] — 《New Heights》（Kelce 兄弟，全美第 4，名人体育，Wondery $1 亿+，引用 2）
 
 ### 中国大陆
 - 老牌叙事：[[shows/story-fm]]（引用 9）、[[shows/danei-mitan]]（引用 5）、[[shows/san-hao-huai-nan-hai]] — 《三好坏男孩》（F.C.N.S 厂牌）
 - 早期海派代表：[[shows/chizao-gengxin]] — 《迟早更新》（任宁）、[[shows/bowuzhi]] — 《博物志》（婉莹）
 - "准专业"代表：[[shows/sound-east-west]]（引用 2）、[[shows/huzuohuyou]]、[[shows/dushubuchenglin]]
-- 女性主义讨论：[[shows/zonghengshihai]] — 《纵横四海》（携隐 Melody，读书单口，最长 298 分钟，61 万粉居小宇宙第七，引用 2）、[[shows/suiji-bodong]] — 《随机波动》（3位女性媒体人，小宇宙 10万+；原名《剩余价值》，2019年底炸号改名；引用 6）
+- 女性主义讨论：[[shows/zonghengshihai]] — 《纵横四海》（携隐 Melody，读书单口，最长 298 分钟，小宇宙 167 万+（2026），引用 2）、[[shows/suiji-bodong]] — 《随机波动》（3位女性媒体人，小宇宙 100 万+（2026）；原名《剩余价值》，2019年底炸号改名；引用 6）
 - 视频破圈：[[shows/tianzhen-butianzhen]] — 《天真不天真》（杨天真，名人入驻+视频化再分发标杆，引用 2）
 - 品牌营销头部：[[shows/aotu-dianbo]]（引用 3）、[[shows/xiexing-liaotian]]
-- 品牌播客旗舰：[[shows/yanzhong-huashu]] — 《岩中花述》（GIADA 出品，鲁豫常驻，近 80 万订阅，"姐学"四金花之一，引用 4）
+- 品牌播客旗舰：[[shows/yanzhong-huashu]] — 《岩中花述》（GIADA 出品，鲁豫常驻，小宇宙 397 万+（2026），"姐学"四金花之一，引用 4）
 - 科技商业：[[shows/guigu-101]] — 《硅谷101》（泓君，中英文，165 期，精准触达决策层，引用 1）
-- 商业财经×女性：[[shows/gaoqian-nvhai]] — 《搞钱女孩》（2023 上线，61 万粉，年 GMV 百万，引用 1）
-- 视频播客（B 站名人）：[[shows/luo-yonghao-crossroads]] — 《罗永浩的十字路口》（3-5h，李想/何小鹏，引用 2）、[[shows/chenluyu-mantan]] — 《陈鲁豫·慢谈》（鲁豫从《岩中花述》转视频，订阅破 140 万，引用 3）
+- 商业财经×女性：[[shows/gaoqian-nvhai]] — 《搞钱女孩》（2023 上线，小宇宙 100 万+（2026），年 GMV 百万，引用 1）
+- 体育×付费连载：[[shows/yangkan]] — 《杨侃》（杨毅，2020 上线喜马拉雅、2024 转付费；《马家军》6 期销售额超 100 万、复购 95%+，评书"栓扣"；杨毅称"孤例"不可复制，引用 2）
+- 旅行/人文：[[shows/zhuangyouzhe]] — 《壮游者》（Yang，前《体坛周报》编辑裸辞环球；"人文声音游记"，5 万+订阅，线下沙龙起源，newsletter 付费探索，引用 1）
+- 视频播客（B 站名人）：[[shows/luo-yonghao-crossroads]] — 《罗永浩的十字路口》（3-5h，李想/何小鹏，引用 2）、[[shows/chenluyu-mantan]] — 《陈鲁豫·慢谈》（鲁豫从《岩中花述》转视频，B 站 165 万+（2026），引用 3）
 - 声动活泼系列：[[shows/guigu-zao-zhi-dao]] — 《硅谷早知道》、[[shows/fan-chao-liu-julebu]] — 《反潮流俱乐部》、[[shows/dao-hai-wai-qu]] — 《到海外去》、[[shows/tiaojin-tuzidong]] — 《跳进兔子洞》（调查叙事，付费4000+）
 - 日谈宇宙：[[shows/ritan-wuyu]] — 《日谈物语》（李淼）、[[shows/shuo-gui-shuo]] — 《说归说》（李志明）、[[shows/tiandi-wuyong]] — 《天地无用》（3000老师）
 - 性别/垂类：[[shows/bie-ren-xing]] — 《别任性》（Alexwood，BIE别的女孩）、[[shows/biaojian]] — 《婊酱》（鸟鸟，2015，性积极，审查后迁至独立站）
-- 生活方式/实体空间：[[shows/daxiao-diantai]] — 《大小电台》（大小咖啡孵化）
+- 生活方式/实体空间：[[shows/daxiao-diantai]] — 《大小电波》（原《大小电台》，大小咖啡孵化，小宇宙 3.6 万）
 - 出版/文化类：[[shows/tiaodao-fm]] — 《跳岛FM》（中信大方）、[[roles/kanlixiang|《看理想电台》]] — 看理想出品（并入看理想品牌页）、[[shows/naive-cafe]] — 《Naive咖啡馆》（理想国，咖啡馆品牌播客，引用 4）
 - 独立叙事/听众拉新：[[shows/beihai-guaishou]] — 《北海怪兽》（若冰 × 花生酱，三明治 Soundwich）
 - 内容评论：[[shows/zhan-kai-jiang-jiang]] — 《展开讲讲》（王老师/康堤/洞姐，东亚影视，"以贩养吸"，2019）
@@ -117,7 +126,7 @@ title: "Wiki 索引"
 - 独立垂类（2019 利器访谈）：[[shows/anyway-fm]] — Anyway.FM 设计杂谈（视觉设计垂类，自建 host + 会员制，引用 1）、[[shows/steve-shuo]] — 《Steve 说》（心理/成长长对谈，致敬 Joe Rogan，引用 1）、[[shows/byte-coffee]] — Byte.Coffee（大学教师个人随想，引用 1）
 - 独立/社会文化（2019-2020 利器访谈）：[[shows/bitvoice]] — 《比特新声》（郝海龙×有才，泛科技，已停更，引用 1）、[[shows/busang]] — 《不丧》（文化社会谈话，引用 1）、[[shows/wuye-youmin]] — 《无业游民》（自我探索/公共性，香港，引用 1）
 - 精品垂类（2021 播客荚访谈）：[[shows/vibration]] — 《Vibration 歪波音室》（拾壹，音乐，引用 1）、[[shows/beiwanglu]] — 《贝望录》（李倩玲 Bessie，营销/商业，JustPod 联合制作，引用 1）、[[shows/sanwuhuan]] — 《三五环》（刘飞，互联网/产品，引用 1）、[[shows/wenhua-youxian]] — 《文化有限》（杨大壹/超哥/星光，读书，引用 1）
-- Marcast 厂牌 + 播客荚/推播助栏访谈：[[shows/wuye-feixing]] — 《午夜飞行》（VC，旅行，近 6 万订阅，引用 2）、[[shows/xianzhe-shijian]] — 《贤者时间》（小张&治治，治愈系友情，引用 1）、[[shows/dubao-teleread]] — 《读报 teleread》（四楼，外刊阅读，引用 1）、[[shows/shuode-haoting]] — 《说得好听》（申申，音乐，引用 1）
+- Marcast 厂牌 + 播客荚/推播助栏访谈：[[shows/wuye-feixing]] — 《午夜飞行》（VC，旅行，小宇宙 9 万+（2026），引用 2）、[[shows/xianzhe-shijian]] — 《贤者时间》（小张&治治，治愈系友情，引用 1）、[[shows/dubao-teleread]] — 《读报 teleread》（四楼，外刊阅读，引用 1）、[[shows/shuode-haoting]] — 《说得好听》（申申，音乐，引用 1）
 - 电影/体育/媒体（2024-2026）：[[shows/dianying-jubian]] — 《电影巨辩》（老马&阿吴，学术精神超长电影播客，引用 2）、[[shows/budongqiu]] — 《不懂球》（陈萌，足球深度，引用 1）、[[shows/fangqing-zaoan]] — 《放晴早安》（方可成，解困式报道，引用 1）、[[shows/qu-xianchang]] — 《去现场》（杨一，引用 1）
 - 早期群像（2020 少数派）+ 财经：[[shows/fanpai-yingping]] — 《反派影评》（波米，影评双峰之一，引用 1）、[[shows/wushicha-yanjiusuo]] — 《无时差研究所》（珂珂/艾谁谁，金融背景泛文化，引用 1）、[[shows/shangye-jiushi-zheyang]] — 《商业就是这样》（第一财经，财经头部播客，小宇宙 43 万+，引用 1）
 
@@ -138,8 +147,9 @@ title: "Wiki 索引"
 ## 创作者 (creators/)
 
 ### 美国
-- [[creators/joe-rogan]] — Joe Rogan（JRE，美国第一播客，约 1100 万/集；Spotify 头号资产；2024 大选政治影响力顶点，引用 6）
-- [[creators/eric-benson]]、[[creators/connie-walker]]、[[creators/evan-ratliff]]、[[creators/pablo-torre]] — Pablo Torre（前 ESPN，调查体育播客，2026 普利策，引用 1）
+- [[creators/joe-rogan]] — Joe Rogan（JRE，美国第一播客，约 1100 万/集；Spotify 头号资产；2024 大选政治影响力顶点，引用 7）
+- [[creators/alex-cooper]] — Alex Cooper（《Call Her Daddy》，名人主导播客代表，近 $100M 转投 SiriusXM，引用 1）
+- [[creators/eric-benson]]、[[creators/connie-walker]]、[[creators/evan-ratliff]]、[[creators/pablo-torre]] — Pablo Torre（前 ESPN，调查体育播客，2026 普利策，引用 2）
 
 ### 中国大陆
 - 平台/厂牌：[[creators/kyth]]、[[creators/cheng-yanliang]]（引用 2）、[[creators/li-zhiming]]（引用 2）、[[creators/luo-zhenyu]]、[[creators/feng-guangjian]] — 冯广健（日谈联合创始人）、[[creators/li-ruer]] — 李如一（IPN 创始人，泛用型播客客户端发明者）、[[creators/liang-wendao]] — 梁文道（看理想/《八分》，知识付费+播客混合体，引用 5）
@@ -202,6 +212,6 @@ title: "Wiki 索引"
 - [[sources/soundon-reports]] — SoundOn 台湾声音经济报告（2020-2025）六份，台湾 PGC 平台行业数据，首份本土播客调查报告发布者
 - [[sources/justpod-reports]] — JustPod 中文播客新观察（2022/2024）两份，中文播客听众画像最系统的纵向调研数据
 - [[sources/xiaoyuzhou-reports]] — 小宇宙年度播客趋势（2023/2024/2025）三份，平台行为数据驱动的内容风向年报
-- [[sources/cpa-reports]] — CPA播客营销白皮书（2023/2024/2025）三份，中文播客商业化视角最系统的纵向调研数据
+- [[sources/cpa-reports]] — CPA中文播客白皮书（2023/2024/2025/2026）四份，中文播客商业化视角最系统的纵向调研数据；2026 版（N=1916/545）加入十大趋势 + 营销新三角（场景化×人格化×社区化）
 - [[sources/infinite-dial-reports]] — The Infinite Dial（2020-2026）七份，Edison Research美国播客听众年度调研，最权威的美国市场纵向数据集
 - [[sources/podcast-landscape-reports]] — The Podcast Landscape（2023-2025）三份，Sounds Profitable × Signal Hill年中调研，美国成年人受众画像与动机最详细的纵向数据

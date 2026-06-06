@@ -4,8 +4,8 @@ markets: [us, china-mainland]
 language: en
 aliases: [Apple Podcasts, 苹果播客, iTunes Podcasts, Podcasts App]
 country: 美国
-sources: 7
-updated: 2026-06-05
+sources: 9
+updated: 2026-06-06
 title: "Apple Podcasts（苹果播客）"
 ---
 
@@ -66,6 +66,10 @@ title: "Apple Podcasts（苹果播客）"
 - **Apple TV+ 播客-电视组合**：《For All Mankind》《The Line》——同一原创内容以音视频分别在 TV+/Podcasts 呈现
 - 订阅增长（2022）：自 2021.06 起苹果播客订阅者增长 **300%+**；Apple "Top Shows" 前 100 中超 **25%** 提供订阅
 - 2022-连苹果播客都开始卷了
+
+### 2023-2026
+- **2023 末「自动下载」政策变更**：以往 iPhone 用户订阅某播客后，苹果会自动把后续每集下载到手机（即便从未收听）；更新后不再自动下载，许多节目**下载量骤降 20–30% 甚至更多**——一度冲击以"下载"计价的播客广告。详见 [[trends/podcast-ads|播客广告]]。 2024-A Few Blockbuster Podcasts Are Making All the Money
+- **目录规模**：Apple Podcasts 可下载节目数从 2020.03 的 **92.7 万** 增至 2026.03 的近 **300 万**（Podcast Industry Insights）——供给端持续膨胀，但收听与广告高度向头部集中。 2026-The Veteran Podcasters Hanging Up Their Headphones
 
 ## 产品与商业模式
 
@@ -130,3 +134,5 @@ title: "Apple Podcasts（苹果播客）"
 - 2022-不讓 Apple、Spotify 獨佔！Pocket Casts 成開源軟體，如何讓 Podcast 市場更開放？_ 數位時代 BusinessNext
 - 2022-连苹果播客都开始卷了
 - 2026-播客≠podcast
+- 2024-A Few Blockbuster Podcasts Are Making All the Money
+- 2026-The Veteran Podcasters Hanging Up Their Headphones
