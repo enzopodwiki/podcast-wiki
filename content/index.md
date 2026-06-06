@@ -1,6 +1,6 @@
 ---
 type: index
-updated: 2026-06-05
+updated: 2026-06-06
 
 title: "Wiki 索引"
 ---
@@ -25,8 +25,6 @@ title: "Wiki 索引"
 - [[trends/video-podcasts]] — 视频播客（引用 27）| YouTube 美国第一 39%；B 站视频播客时长 +270%（69→259 亿分钟）；影视业反向收购播客
 - [[trends/audience-psychology]] — 播客听众心理（引用 1）| 娱乐 87% vs 学习 88%；Tobin & Guadagno 2022 PLOS ONE：开放性/认知需求正相关，归属感需求负相关
 - [[trends/podcast-label]] — 播客厂牌（行业化标志，20 家厂牌近 200 档，MCN 消退，引用 1）
-- "AI 生成播客"（NotebookLM/Pager Protocol/理想萝卜）已并入 [[markets/us|美国市场]]"AI 生成播客"小节 + [[roles/kanlixiang|看理想]]（《理想萝卜》）
-- "开放生态 vs 平台化 / 播客≠podcast"（方可成论）已并入 [[markets/china-mainland|中国大陆市场]]"RSS 开放性危机与中心化"小节
 
 ## 播客平台 (roles/ → type: platform)
 
@@ -97,11 +95,12 @@ title: "Wiki 索引"
 - 老牌叙事：[[shows/story-fm]]（引用 9）、[[shows/danei-mitan]]（引用 5）、[[shows/san-hao-huai-nan-hai]] — 《三好坏男孩》（F.C.N.S 厂牌）
 - 早期海派代表：[[shows/chizao-gengxin]] — 《迟早更新》（任宁）、[[shows/bowuzhi]] — 《博物志》（婉莹）
 - "准专业"代表：[[shows/sound-east-west]]（引用 2）、[[shows/huzuohuyou]]、[[shows/dushubuchenglin]]
-- 女性主义讨论：[[shows/zonghengshihai]] — 《纵横四海》（携隐 Melody，读书单口，最长 298 分钟，61 万粉居小宇宙第七，引用 2）
+- 女性主义讨论：[[shows/zonghengshihai]] — 《纵横四海》（携隐 Melody，读书单口，最长 298 分钟，61 万粉居小宇宙第七，引用 2）、[[shows/suiji-bodong]] — 《随机波动》（3位女性媒体人，小宇宙 10万+；原名《剩余价值》，2019年底炸号改名；引用 6）
 - 视频破圈：[[shows/tianzhen-butianzhen]] — 《天真不天真》（杨天真，名人入驻+视频化再分发标杆，引用 2）
 - 品牌营销头部：[[shows/aotu-dianbo]]（引用 3）、[[shows/xiexing-liaotian]]
 - 品牌播客旗舰：[[shows/yanzhong-huashu]] — 《岩中花述》（GIADA 出品，鲁豫常驻，近 80 万订阅，"姐学"四金花之一，引用 4）
 - 科技商业：[[shows/guigu-101]] — 《硅谷101》（泓君，中英文，165 期，精准触达决策层，引用 1）
+- 商业财经×女性：[[shows/gaoqian-nvhai]] — 《搞钱女孩》（2023 上线，61 万粉，年 GMV 百万，引用 1）
 - 视频播客（B 站名人）：[[shows/luo-yonghao-crossroads]] — 《罗永浩的十字路口》（3-5h，李想/何小鹏，引用 2）、[[shows/chenluyu-mantan]] — 《陈鲁豫·慢谈》（鲁豫从《岩中花述》转视频，订阅破 140 万，引用 3）
 - 声动活泼系列：[[shows/guigu-zao-zhi-dao]] — 《硅谷早知道》、[[shows/fan-chao-liu-julebu]] — 《反潮流俱乐部》、[[shows/dao-hai-wai-qu]] — 《到海外去》、[[shows/tiaojin-tuzidong]] — 《跳进兔子洞》（调查叙事，付费4000+）
 - 日谈宇宙：[[shows/ritan-wuyu]] — 《日谈物语》（李淼）、[[shows/shuo-gui-shuo]] — 《说归说》（李志明）、[[shows/tiandi-wuyong]] — 《天地无用》（3000老师）
@@ -116,7 +115,7 @@ title: "Wiki 索引"
 - 青少年非虚构：[[shows/knock-knock-world]] — 《Knock Knock 世界》（声动活泼，9-13岁少年，付费订阅，引用 1）
 
 - 独立垂类（2019 利器访谈）：[[shows/anyway-fm]] — Anyway.FM 设计杂谈（视觉设计垂类，自建 host + 会员制，引用 1）、[[shows/steve-shuo]] — 《Steve 说》（心理/成长长对谈，致敬 Joe Rogan，引用 1）、[[shows/byte-coffee]] — Byte.Coffee（大学教师个人随想，引用 1）
-- 独立/社会文化（2019-2020 利器访谈）：[[shows/bitvoice]] — 《比特新声》（郝海龙×有才，泛科技，已停更，引用 1）、[[shows/busang]] — 《不丧》（文化社会谈话，海外，引用 1）、[[shows/wuye-youmin]] — 《无业游民》（自我探索/公共性，香港，引用 1）
+- 独立/社会文化（2019-2020 利器访谈）：[[shows/bitvoice]] — 《比特新声》（郝海龙×有才，泛科技，已停更，引用 1）、[[shows/busang]] — 《不丧》（文化社会谈话，引用 1）、[[shows/wuye-youmin]] — 《无业游民》（自我探索/公共性，香港，引用 1）
 - 精品垂类（2021 播客荚访谈）：[[shows/vibration]] — 《Vibration 歪波音室》（拾壹，音乐，引用 1）、[[shows/beiwanglu]] — 《贝望录》（李倩玲 Bessie，营销/商业，JustPod 联合制作，引用 1）、[[shows/sanwuhuan]] — 《三五环》（刘飞，互联网/产品，引用 1）、[[shows/wenhua-youxian]] — 《文化有限》（杨大壹/超哥/星光，读书，引用 1）
 - Marcast 厂牌 + 播客荚/推播助栏访谈：[[shows/wuye-feixing]] — 《午夜飞行》（VC，旅行，近 6 万订阅，引用 2）、[[shows/xianzhe-shijian]] — 《贤者时间》（小张&治治，治愈系友情，引用 1）、[[shows/dubao-teleread]] — 《读报 teleread》（四楼，外刊阅读，引用 1）、[[shows/shuode-haoting]] — 《说得好听》（申申，音乐，引用 1）
 - 电影/体育/媒体（2024-2026）：[[shows/dianying-jubian]] — 《电影巨辩》（老马&阿吴，学术精神超长电影播客，引用 2）、[[shows/budongqiu]] — 《不懂球》（陈萌，足球深度，引用 1）、[[shows/fangqing-zaoan]] — 《放晴早安》（方可成，解困式报道，引用 1）、[[shows/qu-xianchang]] — 《去现场》（杨一，引用 1）
@@ -125,10 +124,8 @@ title: "Wiki 索引"
 ### 海外华人（欧美）
 - [[shows/xiaosheng-xuanhua]] — 《小声喧哗》（4位在美华人女性，2018，女性主义 × 流行文化，引用 2）
 - [[shows/shicha]] — 《时差》（4位海外华人学者，批判理论/性别研究）
-- [[shows/suiji-bodong]] — 《随机波动》（3位女性媒体人，小宇宙 10万+；原名《剩余价值》，2019年底炸号改名；引用 5）
 - [[shows/zhang-ao-tongxue]] — 《张奥同学》（旅美华人张奥，日更国际新闻，2019起超千集，引用 1）
 - [[shows/buhe-shiyi]] — 《不合时宜》（王磬等，旅居欧洲/纽约，2019，女性视角+跨文化，249+期，30%海外听众；2025 欠薪风波曝头部真实变现，引用 3）
-- [[shows/gaoqian-nvhai]] — 《搞钱女孩》（商业财经×女性，2023 上线，61 万粉，年 GMV 百万，引用 1）
 
 ### 台湾
 - 三本柱（2020元年）：[[shows/guyai]] — 《股癌》（谢孟恭，财经股市）、[[shows/balingguo]] — 《百灵果》（国际新闻）、[[shows/taiwan-commute]] — 《台湾通勤第一品牌》（李毅诚）
@@ -159,7 +156,7 @@ title: "Wiki 索引"
 - 声动活泼制作人：[[creators/li-xin]] — 李鑫/迪卡普里鑫（《反潮流俱乐部》制作核心，24h ASMR 特别集，引用 2）
 - 行业观察：[[creators/wu-duidui]]
 - 海外华人（面向大陆）：[[creators/zhang-ao]] — 张奥（旅美，日更国际新闻播客，2019起，引用 1）、[[creators/wang-qing]] — 王磬（《不合时宜》联创，前界面新闻，旅居欧洲/纽约，引用 1）
-- 音频新闻/JustPod联创：[[creators/yang-yi]] — 杨一（JustPod+端传媒音频总监+PodFest China联创，引用 1）
+- 音频新闻/JustPod联创：[[creators/yang-yi]] — 杨一（JustPod+端传媒前音频总监+PodFest China联创，引用 1）
 - 独立主播（2019 利器访谈）：[[creators/shi-xiuxiong]] — 史秀雄 Steve（心理咨询师，《Steve 说》，引用 1）、[[creators/yu-wanying]] — 于婉莹（《博物志》《HPUP》，李如一邀请入坑，引用 2）、[[creators/hao-hailong]] — 郝海龙（《动物庄园》译者/业余作家，《比特新声》，引用 1）、[[creators/qi-zhenyu]] — 戚振宇（媒体人转型，《无业游民》，引用 1）
 - 精品主播（2021 播客荚访谈）：[[creators/shiyi]] — 拾壹（音乐播客《歪波音室》+ 声动活泼，引用 1）、[[creators/li-qianling]] — 李倩玲 Bessie（WPP 前中国区 CEO，《贝望录》，引用 1）、[[creators/liu-fei]] — 刘飞（产品经理/作家，《三五环》，引用 1）
 - 厂牌主理人/主播（2021-2025）：[[creators/li-make]] — 李马克（Marcast 创始人，品牌策划，引用 2）、[[creators/xiaozhang-zhizhi]] — 小张 & 治治（《贤者时间》治愈系友情，引用 1）
@@ -170,7 +167,7 @@ title: "Wiki 索引"
 - [[creators/fan-qifei]] — 范琪斐（驻美特派记者20年+，《说故事的人》）
 - [[creators/gu-likai]] — 顾立楷（SoundOn 创办人）
 - [[creators/lin-qihao]] — 林齐晧（转角国际主编，台湾新闻播客先行者，引用 1）
-- [[creators/zhou-huiyi]] — 周慧仪（转角国际特约编辑，马来西亚华人，2024亚洲人权新闻奖，引用 1）
+- [[creators/zhou-huiyi]] — 周慧仪（转角国际前编辑，马来西亚华人，2024亚洲人权新闻奖，引用 1）
 - [[creators/zhan-wanru]] — 詹婉如（《The Real Story》制作人，5座广播金钟奖，"珍珠与串线"，引用 1）
 - [[creators/xie-menggong]] — 谢孟恭（《股癌》主播，业配公开化策略的推手）
 - [[creators/li-yicheng]] — 李毅诚（《台湾通勤第一品牌》主播）

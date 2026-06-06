@@ -1,21 +1,21 @@
 ---
 type: overview
 markets: [us, china-mainland, taiwan]
-sources: 230
-updated: 2026-06-03
+sources: 236
+updated: 2026-06-06
 title: "全球播客行业全景"
 ---
 
-> Claude 维护的全景综述。基于约 216 个 wiki 页面、230 篇原始来源（95 新闻 + 57 访谈 + 31 评论 + 47 研究）的综合提炼。
+> Claude 维护的全景综述。基于约 218 个 wiki 页面、236 篇原始来源（95 新闻 + 59 访谈 + 37 评论 + 45 研究）的综合提炼。
 
 ---
 
 ## 一、三大市场（+ 东南亚）
 
-- [[markets/us]] — 美国市场（引用 39）
-- [[markets/china-mainland]] — 中国大陆市场（引用 70）
+- [[markets/us]] — 美国市场（引用 41）
+- [[markets/china-mainland]] — 中国大陆市场（引用 73）
 - [[markets/taiwan]] — 台湾市场（引用 32）
-- [[markets/southeast-asia]] — 东南亚华语播客（引用 3）
+- [[markets/southeast-asia]] — 东南亚华语播客（引用 2）
 
 ---
 
@@ -37,6 +37,8 @@ title: "全球播客行业全景"
 
 **播客进入权力核心（2025）**：继 2024"播客大选"后，播客在特朗普上台后**入主权力中枢**——白宫简报室为播客/新媒体设**专席**；All-In 主持人 **David Sacks 被任命为"白宫 AI 与加密沙皇"**；All-In 成政策管道（特朗普、财长、英伟达黄仁勋出席其 AI 峰会、现场签署行政令）。自由派反制亦起：**Kylie Kelce《Not Gonna Lie》一度超越 Joe Rogan 成美国第一播客**。皮尤：**87% 播客新闻听众认为内容基本准确**，信任度远高于传统媒体。
 
+**AI 生成播客浮现（2024-2025）**：生成式 AI 已能自动产出播客——谷歌 **NotebookLM**（2024-09 上线音频）把上传资料一键生成双主播对话节目，脚本→配音→封面全自动的虚构播客（如黎巴嫩 BP 机爆炸次日上线的《Pager Protocol》）亦出现；Karpathy 等创作者拥抱，行业则担忧低质量产稀释媒介价值、只赚快钱。中文应用尚少（仅 [[roles/kanlixiang|看理想]]《理想萝卜》等，NotebookLM 暂不支持中文是直接制约）。另一条线是 **AI 语音翻译出海**：iHeartMedia 用原主持人克隆声音把 10 档播客译成 6 国语言（含普通话）。
+
 详见 [[markets/us]]、[[sources/infinite-dial-reports]]、[[sources/podcast-landscape-reports]]。
 
 ---
@@ -55,7 +57,7 @@ title: "全球播客行业全景"
 
 **商业化真相（2024-2025）**："旱的旱死——没有涝死的"。头部商单占内容比例理想 50%、现实 10%-20%。近 50 万订阅的[[shows/buhe-shiyi|《不合时宜》]]年净收入仅 13 万；商业化头部[[shows/aotu-dianbo|《凹凸电波》]]是少数真正"吃饱"的案例。近 7 成主播兼职，"三大变现"为：广告（边缘品类撑场）+ 付费（IP 溢价 + 门槛设计）+ 私域（水下主线）。但整体仍在升温——益普索 2025"四增"：听众付费 +38%、因播客消费 +42%、**主播收入 +61%**、**品牌投放 +44%**。
 
-**新动向（2025-2026）**：女性播客成最强内容势力（"姐学"四金花：[[shows/tianzhen-butianzhen|天真不天真]] / [[shows/suiji-bodong|随机波动]] / [[shows/yanzhong-huashu|岩中花述]] / 思文败类，百万订阅级）；喜剧/趣味闲谈 2024 年体量居小宇宙第一（29 亿分钟）；AI 播客热：2025 年小宇宙 AI 类单集量 +310%（DeepSeek 效应）；iHeartMedia 已用 AI 声音克隆将 10 档美国播客译成 6 国语言出海。**主流文化认证（2026）**：播客（含视频播客）被纳入"新大众文艺"叙事——第十三届中国网络视听大会（成都）首设"网络音频与播客论坛"。
+**新动向（2025-2026）**：女性播客成最强内容势力（"姐学"四金花：[[shows/tianzhen-butianzhen|天真不天真]] / [[shows/suiji-bodong|随机波动]] / [[shows/yanzhong-huashu|岩中花述]] / 思文败类，百万订阅级）；喜剧/趣味闲谈 2024 年体量居小宇宙第一（29 亿分钟）；AI 播客热：2025 年小宇宙 AI 类单集量 +310%（DeepSeek 效应）。**主流文化认证（2026）**：播客（含视频播客）被纳入"新大众文艺"叙事——第十三届中国网络视听大会（成都）首设"网络音频与播客论坛"。
 
 **创作者生态（2019-2026 纵切面）**：从访谈一手史料看，中文播客创作者经历三段演化——① **独立/业余群像**（2019-2021）：[[shows/anyway-fm|Anyway.FM]]、[[shows/jinjin-ledao|津津乐道]]、[[shows/bowuzhi|博物志]]、[[shows/wuye-youmin|无业游民]] 等自建 host、走会员制、对前景偏悲观，多因审查/备案门槛被推向独立 RSS；② **厂牌化**：[[roles/marcast|Marcast]]"以品牌为顶层框架"、[[roles/justpod|JustPod]]/[[roles/shengdong-huopo|声动活泼]] 走 PGC 工业化；③ **媒体人转型潮**：[[creators/yang-yi|杨一]]、[[creators/fang-kecheng|方可成]]、[[creators/li-qianling|Bessie]]、[[creators/chen-meng|陈萌]] 从专业媒体/行业带着方法论入场。支撑这套记录的是"创作者自述"四支一手来源：[[roles/liqi|利器]]、[[roles/boke-jia|播客荚]]、[[roles/tuibo-zhulan|推播助栏]]、[[roles/sanmingzhi|三明治]]。
 
@@ -160,4 +162,4 @@ title: "全球播客行业全景"
 
 ---
 
-_本页基于约 216 个 wiki 页面的综合提炼，详细数据和来源见各市场、趋势、垂类页面。_
+_本页基于约 218 个 wiki 页面的综合提炼，详细数据和来源见各市场、趋势、垂类页面。_
