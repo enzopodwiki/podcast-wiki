@@ -2,7 +2,13 @@ import { QuartzEmitterPlugin } from "../types"
 import { i18n } from "../../i18n"
 import { unescapeHTML } from "../../util/escape"
 import { FullSlug, getFileExtension, isAbsoluteURL, joinSegments, QUARTZ } from "../../util/path"
-import { ImageOptions, SocialImageOptions, defaultImage, getSatoriFonts } from "../../util/og"
+import {
+  ImageOptions,
+  SocialImageOptions,
+  defaultImage,
+  getSatoriFonts,
+  getCJKFonts,
+} from "../../util/og"
 import sharp from "sharp"
 import satori, { SatoriOptions } from "satori"
 import { loadEmoji, getIconCode } from "../../util/emoji"
@@ -65,6 +71,18 @@ async function generateSocialImage(
   return sharp(Buffer.from(svg)).webp({ quality: 40 })
 }
 
+// Derive the title + description that will be drawn onto a page's social image.
+function getOgText(cfg: BuildCtx["cfg"]["configuration"], fileData: QuartzPluginData) {
+  const titleSuffix = cfg.pageTitleSuffix ?? ""
+  const title =
+    (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+  const description =
+    fileData.frontmatter?.socialDescription ??
+    fileData.frontmatter?.description ??
+    unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+  return { title, description }
+}
+
 async function processOgImage(
   ctx: BuildCtx,
   fileData: QuartzPluginData,
@@ -73,13 +91,7 @@ async function processOgImage(
 ) {
   const cfg = ctx.cfg.configuration
   const slug = fileData.slug!
-  const titleSuffix = cfg.pageTitleSuffix ?? ""
-  const title =
-    (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
-  const description =
-    fileData.frontmatter?.socialDescription ??
-    fileData.frontmatter?.description ??
-    unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+  const { title, description } = getOgText(cfg, fileData)
 
   const stream = await generateSocialImage(
     {
@@ -115,9 +127,20 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const bodyFont = cfg.theme.typography.body
       const fonts = await getSatoriFonts(headerFont, bodyFont)
 
+      // The Latin theme fonts have no Chinese glyphs, so collect every CJK
+      // character across all social-image text and load matching fallback fonts.
+      const allText = content
+        .map(([, vfile]) => {
+          const { title, description } = getOgText(cfg, vfile.data)
+          return `${title}${description}`
+        })
+        .join("")
+      const cjkFonts = await getCJKFonts(allText)
+      const allFonts = [...fonts, ...cjkFonts]
+
       for (const [_tree, vfile] of content) {
         if (vfile.data.frontmatter?.socialImage !== undefined) continue
-        yield processOgImage(ctx, vfile.data, fonts, fullOptions)
+        yield processOgImage(ctx, vfile.data, allFonts, fullOptions)
       }
     },
     async *partialEmit(ctx, _content, _resources, changeEvents) {
@@ -126,12 +149,23 @@ export const CustomOgImages: QuartzEmitterPlugin<Partial<SocialImageOptions>> = 
       const bodyFont = cfg.theme.typography.body
       const fonts = await getSatoriFonts(headerFont, bodyFont)
 
+      // Same CJK fallback as in emit(), but only for the changed files.
+      const changedText = changeEvents
+        .filter((e) => e.file && (e.type === "add" || e.type === "change"))
+        .map((e) => {
+          const { title, description } = getOgText(cfg, e.file!.data)
+          return `${title}${description}`
+        })
+        .join("")
+      const cjkFonts = await getCJKFonts(changedText)
+      const allFonts = [...fonts, ...cjkFonts]
+
       // find all slugs that changed or were added
       for (const changeEvent of changeEvents) {
         if (!changeEvent.file) continue
         if (changeEvent.file.data.frontmatter?.socialImage !== undefined) continue
         if (changeEvent.type === "add" || changeEvent.type === "change") {
-          yield processOgImage(ctx, changeEvent.file.data, fonts, fullOptions)
+          yield processOgImage(ctx, changeEvent.file.data, allFonts, fullOptions)
         }
       }
     },

@@ -1,4 +1,5 @@
 import { promises as fs } from "fs"
+import crypto from "crypto"
 import { FontWeight, SatoriOptions } from "satori/wasm"
 import { GlobalConfiguration } from "../cfg"
 import { QuartzPluginData } from "../plugins/vfile"
@@ -69,14 +70,21 @@ export async function getSatoriFonts(headerFont: FontSpecification, bodyFont: Fo
  * Get the `.ttf` file of a google font
  * @param fontName name of google font
  * @param weight what font weight to fetch font
+ * @param text optional set of characters to subset the font to. Required for CJK
+ *   fonts (e.g. "Noto Sans SC"), whose full glyph set is split across many files —
+ *   Google Fonts serves a single subset `.ttf` covering exactly these characters.
  * @returns `.ttf` file of google font
  */
 export async function fetchTtf(
   rawFontName: string,
   weight: FontWeight,
+  text?: string,
 ): Promise<Buffer<ArrayBufferLike> | undefined> {
   const fontName = rawFontName.replaceAll(" ", "+")
-  const cacheKey = `${fontName}-${weight}`
+  const subsetKey = text
+    ? "-" + crypto.createHash("sha256").update(text).digest("hex").slice(0, 16)
+    : ""
+  const cacheKey = `${fontName}-${weight}${subsetKey}`
   const cacheDir = path.join(QUARTZ, ".quartz-cache", "fonts")
   const cachePath = path.join(cacheDir, cacheKey)
 
@@ -88,17 +96,22 @@ export async function fetchTtf(
     // ignore errors and fetch font
   }
 
-  // Get css file from google fonts
-  const cssResponse = await fetch(
-    `https://fonts.googleapis.com/css2?family=${fontName}:wght@${weight}`,
-  )
+  // Get css file from google fonts (optionally subset to `text`)
+  let cssUrl = `https://fonts.googleapis.com/css2?family=${fontName}:wght@${weight}`
+  if (text) {
+    cssUrl += `&text=${encodeURIComponent(text)}`
+  }
+  const cssResponse = await fetch(cssUrl)
   const css = await cssResponse.text()
 
-  // Extract .ttf url from css file
-  const urlRegex = /url\((https:\/\/fonts.gstatic.com\/s\/.*?.ttf)\)/g
-  const match = urlRegex.exec(css)
+  // Extract the truetype font url. This handles both the full-font response
+  // (`url(.../s/....ttf) format('truetype')`) and the subset response
+  // (`url(.../l/font?kit=...) format('truetype')`).
+  const ttfUrl =
+    css.match(/url\((https:\/\/[^)]+)\)\s*format\(['"]truetype['"]\)/)?.[1] ??
+    css.match(/url\((https:\/\/fonts\.gstatic\.com\/s\/[^)]+?\.ttf)\)/)?.[1]
 
-  if (!match) {
+  if (!ttfUrl) {
     console.log(
       styleText(
         "yellow",
@@ -109,12 +122,62 @@ export async function fetchTtf(
   }
 
   // fontData is an ArrayBuffer containing the .ttf file data
-  const fontResponse = await fetch(match[1])
+  const fontResponse = await fetch(ttfUrl)
   const fontData = Buffer.from(await fontResponse.arrayBuffer())
   await fs.mkdir(cacheDir, { recursive: true })
   await fs.writeFile(cachePath, fontData)
 
   return fontData
+}
+
+/**
+ * Name of the Google font used as a fallback for CJK (Chinese) glyphs in social
+ * images. The default Latin theme fonts don't contain Chinese characters, so
+ * without this every Chinese character renders as a tofu box (□).
+ */
+export const cjkFallbackFontName = "Noto Sans SC"
+
+// Matches CJK ideographs plus the CJK / fullwidth punctuation the Latin theme
+// fonts also lack (、。「」（）！？ and fullwidth digits/letters).
+const cjkCharRegex =
+  /[　-〿㐀-䶿一-鿿豈-﫿＀-￯㇀-㇯]/
+
+/**
+ * Build satori fallback fonts covering every CJK character in `text`.
+ *
+ * Google Fonts splits a CJK family across many subset files, so we collect the
+ * unique CJK characters actually used, then fetch them in chunks (keeping each
+ * `&text=` request small and reliable). The returned fonts share one family
+ * name, and satori falls back across them per glyph.
+ */
+export async function getCJKFonts(text: string): Promise<SatoriOptions["fonts"]> {
+  const cjkChars = [...new Set(text)].filter((c) => cjkCharRegex.test(c)).sort()
+  if (cjkChars.length === 0) return []
+
+  const chunkSize = 300
+  const chunks: string[] = []
+  for (let i = 0; i < cjkChars.length; i += chunkSize) {
+    chunks.push(cjkChars.slice(i, i + chunkSize).join(""))
+  }
+
+  const fonts = await Promise.all(
+    chunks.map(async (chunk, i) => {
+      const data = await fetchTtf(cjkFallbackFontName, 400, chunk)
+      if (!data) return null
+      return {
+        // Each chunk needs a distinct family name: satori keeps only one font
+        // per (name, weight, style), so same-named chunks would overwrite each
+        // other and most glyphs would still render as tofu. Distinct names make
+        // every chunk an independent fallback that satori tries in turn.
+        name: `${cjkFallbackFontName} ${i}`,
+        data,
+        weight: 400 as FontWeight,
+        style: "normal" as const,
+      }
+    }),
+  )
+
+  return fonts.filter((font): font is NonNullable<typeof font> => font !== null)
 }
 
 export type SocialImageOptions = {
