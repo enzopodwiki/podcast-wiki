@@ -48,6 +48,7 @@ title: "《谐星聊天会》"
 - 趋势：[[trends/branded-podcasts|品牌播客]]——喜剧脱口秀转化力强
 - 垂类：[[niches/comedy-podcast|喜剧播客]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/san-hao-huai-nan-hai|《三好坏男孩》]]、[[shows/danei-mitan|《大内密谈》]]
 
 ## 引用来源
 

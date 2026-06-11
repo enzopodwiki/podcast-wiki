@@ -39,6 +39,7 @@ title: "《百灵果》"
 
 - 同期台湾三本柱：[[guyai|《股癌》]]、[[taiwan-commute|《台湾通勤第一品牌》]]
 - 市场：[[markets/taiwan|台湾市场]]
+- 相关节目：[[shows/guyai|《股癌》]]、[[shows/taiwan-commute|《台湾通勤第一品牌》]]、[[shows/duanwen|《端闻》]]
 
 ## 引用来源
 

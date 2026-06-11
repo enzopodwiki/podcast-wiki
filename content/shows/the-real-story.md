@@ -95,6 +95,7 @@ title: "《The Real Story》"
 - 垂类：[[niches/news-podcast|新闻播客]]
 - 市场：[[markets/taiwan|台湾]]
 - 同类参考（美国）：The Daily（NYT）, This American Life — 见 [[niches/news-podcast]]
+- 相关节目：[[shows/shuo-gushi-de-ren|《说故事的人》]]、[[shows/xingqitian-wanshang|《星期天晚上》]]、[[shows/the-daily|《The Daily》]]
 
 ## 奖项记录
 

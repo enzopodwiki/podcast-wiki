@@ -26,6 +26,7 @@ Wondery 2019 年 2 月发布的真实犯罪叙事播客，由[[creators/eric-ben
 - 主创：[[creators/eric-benson|Eric Benson]]、Matthew Shaer（后来 co-founded Campside Media）
 - 类型：[[niches/narrative-podcast]] + 真实犯罪
 - 历史地位：被作者本人定位为"我加入这场幻梦的入场券"
+- 相关节目：[[shows/serial|《Serial》]]、[[shows/stolen|《Stolen》]]、[[shows/shell-game|《Shell Game》]]
 
 ## 引用来源
 

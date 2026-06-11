@@ -26,6 +26,7 @@ title: "《天地无用》"
 - 出品方：[[roles/ritan-park|日谈公园]]
 - 同门节目：[[ritan-wuyu|《日谈物语》]]、[[shuo-gui-shuo|《说归说》]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/ritan-wuyu|《日谈物语》]]、[[shows/shuo-gui-shuo|《说归说》]]
 
 ## 引用来源
 

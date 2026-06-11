@@ -41,7 +41,8 @@ title: "《比特新声》"
 - 来源机构：[[roles/liqi|利器]]
 - 市场：[[markets/china-mainland]]
 - 相关：[[trends/podcast-ads|播客广告]]
+- 相关节目：[[shows/chizao-gengxin|《迟早更新》]]、[[shows/byte-coffee|《Byte.Coffee》]]、[[shows/anyway-fm|《Anyway.FM 设计杂谈》]]
 
 ## 引用来源
 
-- 2019-「利器 x 播客」访谈：一直以来，做一个谈话节目主持人就是我的梦想之一 
+- 2019-「利器 x 播客」访谈：一直以来，做一个谈话节目主持人就是我的梦想之一

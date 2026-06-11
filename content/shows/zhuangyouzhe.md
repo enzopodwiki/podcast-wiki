@@ -39,6 +39,7 @@ title: "壮游者"
 - 趣味交叉：主播 Yang 与 [[shows/yangkan|《杨侃》]]主播杨毅同出**《体坛周报》**——两位体育媒体人各自走向旅行/体育付费播客
 - 商业化背景：[[markets/china-mainland|大陆播客商业化困境]]、[[trends/podcast-ads|播客广告]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/wuye-feixing|《午夜飞行》]]、[[shows/jingyu-hertz|《鲸鱼赫兹》]]、[[shows/bowuzhi|《博物志》]]
 
 ## 引用来源
 

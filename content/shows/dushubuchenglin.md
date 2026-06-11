@@ -28,6 +28,7 @@ title: "《独树不成林》"
 - 案例：复旦报告"美国大选"案例
 - 多元意见网络中的同代：[[sound-east-west|《声东击西》]]、[[huzuohuyou|《忽左忽右》]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/shicha|《时差》]]、[[shows/wenhua-youxian|《文化有限》]]
 
 ## 引用来源
 

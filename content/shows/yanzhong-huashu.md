@@ -39,6 +39,7 @@ title: "《岩中花述》"
 - 品牌方：GIADA（意大利时尚品牌）
 - 平台：[[roles/xiaoyuzhou|小宇宙]]
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/suiji-bodong|《随机波动》]]、[[shows/daxiao-diantai|《大小电波》]]
 
 ## 引用来源
 

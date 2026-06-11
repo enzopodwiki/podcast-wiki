@@ -33,6 +33,7 @@ title: "《商业就是这样》"
 - 主播：[[creators/xiao-wenjie|肖文杰]]、约小亚；节目总监：陈锐（第一财经杂志副总编）
 - 垂类：[[niches/business-podcast|商业播客]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/sanwuhuan|《三五环》]]、[[shows/beiwanglu|《贝望录》]]、[[shows/gaoqian-nvhai|《搞钱女孩》]]
 
 ## 引用来源
 

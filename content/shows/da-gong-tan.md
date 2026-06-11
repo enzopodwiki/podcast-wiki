@@ -75,9 +75,10 @@ title: "《打工谈》"
 
 ## 关联
 
-- 垂类：[[niches/labor-podcast|劳工/社会议题播客]]
+- 垂类：[[niches/society-culture-podcast|社会文化谈话（劳工议题）]]
 - 同代叙事节目：[[shows/story-fm|《故事FM》]]（叙事主导 vs 自陈主导的不同路径）
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/story-fm|《故事 FM》]]、[[shows/wuye-youmin|《无业游民》]]
 
 ## 引用来源
 

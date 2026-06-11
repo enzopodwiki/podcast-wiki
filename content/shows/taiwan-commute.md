@@ -47,6 +47,7 @@ title: "《台湾通勤第一品牌》"
 - 主播：[[creators/li-yicheng|李毅诚]]
 - 同期台湾三本柱：[[guyai|《股癌》]]、[[balingguo|《百灵果》]]
 - 市场：[[markets/taiwan|台湾市场]]
+- 相关节目：[[shows/balingguo|《百灵果》]]、[[shows/guyai|《股癌》]]
 
 ## 引用来源
 

@@ -47,6 +47,7 @@ title: "Anyway.FM 设计杂谈"
 - 来源机构：[[roles/liqi|利器]]
 - 市场：[[markets/china-mainland]]
 - 相关：[[trends/podcast-ads|播客广告]]
+- 相关节目：[[shows/bitvoice|《比特新声》]]、[[shows/byte-coffee|《Byte.Coffee》]]、[[shows/chizao-gengxin|《迟早更新》]]
 
 ## 引用来源
 

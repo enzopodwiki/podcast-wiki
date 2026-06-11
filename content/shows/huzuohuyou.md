@@ -34,6 +34,7 @@ title: "《忽左忽右》"
 - 案例：复旦报告"美国大选"案例
 - 同代准专业播客：[[sound-east-west|《声东击西》]]、[[dushubuchenglin|《独树不成林》]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/qu-xianchang|《去现场》]]、[[shows/danei-mitan|《大内密谈》]]、[[shows/suiji-bodong|《随机波动》]]
 
 ## 制作细节（JustPod 后期工作流）
 

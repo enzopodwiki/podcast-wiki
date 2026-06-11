@@ -37,6 +37,7 @@ title: "《天真不天真》"
 - 相邻趋势：[[trends/video-podcasts|视频播客]]
 - 同梯队节目：[[shows/zonghengshihai|《纵横四海》]]、[[shows/aotu-dianbo|《凹凸电波》]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/luo-yonghao-crossroads|《罗永浩的十字路口》]]、[[shows/chenluyu-mantan|《陈鲁豫·慢谈》]]、[[shows/yanzhong-huashu|《岩中花述》]]
 
 ## 引用来源
 

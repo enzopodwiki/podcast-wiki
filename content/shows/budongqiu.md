@@ -31,6 +31,7 @@ title: "《不懂球》"
 - 主播：[[creators/chen-meng|陈萌]]
 - 垂类：[[niches/sports-podcast|体育播客]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/yangkan|《杨侃》]]、[[shows/new-heights|《New Heights》]]、[[shows/pablo-torre-finds-out|《Pablo Torre Finds Out》]]
 
 ## 引用来源
 

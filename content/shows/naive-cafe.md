@@ -59,6 +59,7 @@ title: "《Naive咖啡馆》"
 - 垂类：[[niches/book-podcast|出版/书评播客]]
 - 趋势：[[trends/branded-podcasts|品牌播客]]
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/tiaodao-fm|《跳岛FM》]]、[[shows/wenhua-youxian|《文化有限》]]、[[shows/zonghengshihai|《纵横四海》]]
 
 ## 引用来源
 

@@ -101,6 +101,7 @@ title: "《Knock Knock 世界》"
 - 发起人：[[creators/xu-tao|徐涛]]
 - 垂类：[[niches/youth-podcast|青少年播客]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/shengdong-zaokafei|《声动早咖啡》]]、[[shows/sound-east-west|《声东击西》]]
 
 ## 引用来源
 

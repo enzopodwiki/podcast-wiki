@@ -32,6 +32,7 @@ title: "《无业游民》"
 - 来源机构：[[roles/liqi|利器]]
 - 行业活动：[[roles/podfest-china|PodFest China]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/busang|《不丧》]]、[[shows/penti|《喷嚏》]]、[[shows/steve-shuo|《Steve 说》]]
 
 ## 引用来源
 

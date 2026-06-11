@@ -59,6 +59,7 @@ title: "《不合时宜》"
 - 类型：[[niches/gender-podcast|性别/女性播客]]、[[niches/news-podcast|新闻播客]]
 - 市场：[[markets/china-mainland|大陆]]（受众为主，部分海外华人）
 - 同类参考（海外华人女性播客）：[[shows/xiaosheng-xuanhua|《小声喧哗》]]、[[shows/suiji-bodong|《随机波动》]]
+- 相关节目：[[shows/suiji-bodong|《随机波动》]]、[[shows/bie-ren-xing|《别任性》]]、[[shows/shicha|《时差》]]
 
 ## 引用来源
 

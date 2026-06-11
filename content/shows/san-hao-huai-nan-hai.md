@@ -37,6 +37,7 @@ title: "《三好坏男孩》"
 - 厂牌：F.C.N.S「非常难受」
 - 天猫联动：[[shows/danei-mitan|《大内密谈》]]、[[shows/fan-chao-liu-julebu|《反潮流俱乐部》]]等
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/danei-mitan|《大内密谈》]]、[[shows/xiexing-liaotian|《谐星聊天会》]]
 
 ## 引用来源
 

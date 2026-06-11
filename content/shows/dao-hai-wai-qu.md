@@ -24,9 +24,10 @@ title: "《到海外去》"
 ## 关联
 
 - 出品方：[[roles/shengdong-huopo|声动活泼]]
-- 同门节目：[[sound-east-west|《声东击西》]]、[[guigu-zao-zhi-dao|《硅谷早知道》]]、[[fan-chao-liu-julebu|《反潮流俱乐部》]]
+- 同门节目：[[sound-east-west|《声东击西》]]、[[keji-zao-zhi-dao|《科技早知道》]]、[[fan-chao-liu-julebu|《反潮流俱乐部》]]
 - 比较：[[roles/dedao|得到]]（知识付费大众路线）
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/keji-zao-zhi-dao|《科技早知道》]]、[[shows/sound-east-west|《声东击西》]]、[[shows/guigu-101|《硅谷101》]]
 
 ## 引用来源
 

@@ -92,6 +92,7 @@ title: "《端闻》"
 - 参照节目：The Daily（NYT）、《不明白播客》（袁莉）
 - 类型：[[niches/news-podcast|新闻播客]]
 - 市场：[[markets/china-mainland|大陆]]（受众）、[[markets/taiwan|台湾]]（出品方所在）
+- 相关节目：[[shows/the-daily|《The Daily》]]、[[shows/zhang-ao-tongxue|《张奥同学》]]、[[shows/balingguo|《百灵果》]]
 
 ## 引用来源
 

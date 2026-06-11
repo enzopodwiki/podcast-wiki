@@ -54,6 +54,7 @@ title: "《鲸鱼赫兹》"
 - 主播：郭爱美、秋蓬（兼"播客堂会"发起人）
 - 市场：[[markets/china-mainland|大陆]]（成都）
 - 类型：生活方式 / 城市文化播客
+- 相关节目：[[shows/zhuangyouzhe|《壮游者》]]、[[shows/wuye-feixing|《午夜飞行》]]、[[shows/daxiao-diantai|《大小电波》]]
 
 ## 引用来源
 

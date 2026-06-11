@@ -26,7 +26,7 @@ title: "播客厂牌"
 
 - **以"调性"为核心**：相近内容气质聚拢相近受众，把节目受众转化为厂牌受众
   - [[roles/podcast-commune|播客公社]]：按兴趣分（游戏"超级游文化"、体育"体侃"）
-  - [[roles/shengdong-huopo|声动活泼]]：商业科技（声动早咖啡、科技早知道）
+  - [[roles/shengdong-huopo|声动活泼]]：商业科技（[[shows/shengdong-zaokafei|声动早咖啡]]、[[shows/keji-zao-zhi-dao|科技早知道]]）
   - [[roles/justpod|JustPod]]：人文社科（[[shows/huzuohuyou|忽左忽右]]、每个月总有那么几天）
 - **以"人"为核心**：跨行业但都是有表达欲的个体，靠播客建立信任、提供咨询服务变现
   - 番薯剥壳（佟晨洁的正常生活、G 大成长论）、[[roles/jinjin-ledao|津津乐道]]（科技乱炖、津津有味）

@@ -25,6 +25,7 @@ title: "《说归说》"
 - 主持人：[[creators/li-zhiming|李志明]]
 - 同门节目：[[ritan-wuyu|《日谈物语》]]、[[tiandi-wuyong|《天地无用》]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/ritan-wuyu|《日谈物语》]]、[[shows/tiandi-wuyong|《天地无用》]]
 
 ## 引用来源
 

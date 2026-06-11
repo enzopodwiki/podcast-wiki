@@ -2,16 +2,16 @@
 type: show
 markets: [china-mainland, us]
 language: zh
-aliases: [硅谷早知道]
+aliases: [科技早知道, 硅谷早知道]
 host: 徐涛
 publisher: 声动活泼
 launched: ~2016（在 36Kr 时期开始）
-sources: 1
-updated: 2026-05-20
-title: "《硅谷早知道》"
+sources: 3
+updated: 2026-06-11
+title: "《科技早知道》"
 ---
 
-[[creators/xu-tao|徐涛]]主持、[[roles/shengdong-huopo|声动活泼]]旗下，聚焦**硅谷最新热门话题和科技前沿**的播客节目。
+[[creators/xu-tao|徐涛]]主持、[[roles/shengdong-huopo|声动活泼]]旗下，聚焦**科技前沿与热门话题**的播客节目。**原名《硅谷早知道》**，后改用现名（2021 年行业访谈中已称《科技早知道》，2024 年厂牌报道沿用）。2021-《贝望录》李倩玲 Bessie：下场去玩，玩出自己的方程式 2024-播客厂牌，播客的终极形态？- 虎嗅网
 
 ## 付费→免费转型
 
@@ -23,7 +23,7 @@ title: "《硅谷早知道》"
 
 ## 内容定位
 
-- 采访对象以**华人工程师、投资人**为主（原因：英文采访听众听不懂）
+- 早期（《硅谷早知道》时期）聚焦硅谷：采访对象以**华人工程师、投资人**为主（原因：英文采访听众听不懂）
 - 徐涛在 36Kr 时的趋势报道经验直接迁移到播客选题框架
 - 受众画像偏**男性、年龄略大**，美国华人聚居地（纽约州、加州）为主
 
@@ -33,7 +33,10 @@ title: "《硅谷早知道》"
 - 出品方：[[roles/shengdong-huopo|声动活泼]]
 - 同门节目：[[sound-east-west|《声东击西》]]、[[fan-chao-liu-julebu|《反潮流俱乐部》]]、[[dao-hai-wai-qu|《到海外去》]]
 - 市场：[[markets/china-mainland]]、[[markets/us]]
+- 相关节目：[[shows/guigu-101|《硅谷101》]]、[[shows/sound-east-west|《声东击西》]]、[[shows/shengdong-zaokafei|《声动早咖啡》]]
 
 ## 引用来源
 
 - 2020-「声动活泼」创始人徐涛：播客不能像口香糖，没有智力挑战就没意思｜三明治创作者访谈
+- 2021-《贝望录》李倩玲 Bessie：下场去玩，玩出自己的方程式
+- 2024-播客厂牌，播客的终极形态？- 虎嗅网

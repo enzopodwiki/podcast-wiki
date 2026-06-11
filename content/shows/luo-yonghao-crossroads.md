@@ -35,6 +35,7 @@ title: "《罗永浩的十字路口》"
 - 类型：访谈类播客 + 视频播客
 - 趋势：[[trends/video-podcasts]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/chenluyu-mantan|《陈鲁豫·慢谈》]]、[[shows/tianzhen-butianzhen|《天真不天真》]]
 
 ## 引用来源
 

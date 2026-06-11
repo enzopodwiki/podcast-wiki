@@ -29,6 +29,7 @@ title: "《电影巨辩》"
 - 垂类：[[niches/film-podcast|电影播客]]
 - 相关：《反派影评》（中文电影播客"双峰"）
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/fanpai-yingping|《反派影评》]]、[[shows/zhan-kai-jiang-jiang|《展开讲讲》]]
 
 ## 引用来源
 

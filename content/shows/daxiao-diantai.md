@@ -48,6 +48,7 @@ title: "《大小电波》"
 - 串台合作：[[shows/beihai-guaishou|《北海怪兽》]]（登小宇宙首页的契机）
 - 品牌播客趋势：[[trends/branded-podcasts|品牌播客]]
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/yanzhong-huashu|《岩中花述》]]、[[shows/jingyu-hertz|《鲸鱼赫兹》]]
 
 ## 引用来源
 

@@ -40,10 +40,11 @@ title: "《声东击西》"
 
 - 主持人：[[creators/xu-tao|徐涛]]
 - 出品方：[[roles/shengdong-huopo|声动活泼]]
-- 同门：[[shows/guigu-zao-zhi-dao|《硅谷早知道》]]、[[shows/fan-chao-liu-julebu|《反潮流俱乐部》]]、[[shows/dao-hai-wai-qu|《到海外去》]]
+- 同门：[[shows/keji-zao-zhi-dao|《科技早知道》]]、[[shows/fan-chao-liu-julebu|《反潮流俱乐部》]]、[[shows/dao-hai-wai-qu|《到海外去》]]
 - 案例：复旦报告"美国大选"案例
 - 同代准专业播客：[[huzuohuyou|《忽左忽右》]]、[[dushubuchenglin|《独树不成林》]]
 - 市场：[[markets/china-mainland]]、[[markets/us]]
+- 相关节目：[[shows/keji-zao-zhi-dao|《科技早知道》]]、[[shows/guigu-101|《硅谷101》]]、[[shows/shengdong-zaokafei|《声动早咖啡》]]
 
 ## 引用来源
 

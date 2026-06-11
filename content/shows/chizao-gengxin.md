@@ -45,6 +45,7 @@ title: "《迟早更新》"
 - 大内密谈投资关系：Ones Ventures（任宁）曾天使投资[[shows/danei-mitan|《大内密谈》]]
 - 来源机构：[[roles/liqi|利器]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/bitvoice|《比特新声》]]、[[shows/byte-coffee|《Byte.Coffee》]]、[[shows/anyway-fm|《Anyway.FM 设计杂谈》]]
 
 ## 引用来源
 

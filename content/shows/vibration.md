@@ -36,6 +36,7 @@ title: "《Vibration 歪波音室》"
 - 厂牌：[[shengdong-huopo|声动活泼]]（[[fan-chao-liu-julebu|《反潮流俱乐部》]]）
 - 来源机构：[[boke-jia|播客荚]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/shuode-haoting|《说得好听》]]、[[shows/bowuzhi|《博物志》]]
 
 ## 引用来源
 

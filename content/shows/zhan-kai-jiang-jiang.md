@@ -73,6 +73,7 @@ title: "《展开讲讲》"
 - 涉及的播客：[[xiaosheng-xuanhua|《小声喧哗》]]（聊影视剧播客对比）、[[shows/huzuohuyou|《忽左忽右》]]（媒体人主播类型）
 - 同类型垂类：内容评论 / 影视播客
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/dianying-jubian|《电影巨辩》]]、[[shows/fanpai-yingping|《反派影评》]]
 
 ## 引用来源
 

@@ -33,6 +33,7 @@ title: "《跳岛FM》"
 - 同类出版品牌播客：[[shows/naive-cafe|《Naive咖啡馆》]]（理想国）、《螺丝在拧紧》（单读）、《后浪剧场》（后浪，2017）
 - 垂类：[[niches/book-podcast|出版/书评播客]]
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/naive-cafe|《Naive咖啡馆》]]、[[shows/wenhua-youxian|《文化有限》]]、[[shows/zonghengshihai|《纵横四海》]]
 
 ## 引用来源
 

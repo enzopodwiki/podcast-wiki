@@ -39,6 +39,7 @@ S2 是"叙事播客存在价值的最强证明之一"（作者评价）：Gimlet
 - 工作室：[[roles/gimlet|Gimlet]] → [[roles/spotify|Spotify]] Studios
 - 前身：CBC《Missing & Murdered》系列（《Who Killed Alberta Williams?》《Finding Cleo》）
 - 类型：[[niches/narrative-podcast]]
+- 相关节目：[[shows/serial|《Serial》]]、[[shows/over-my-dead-body|《Over My Dead Body》]]、[[shows/shell-game|《Shell Game》]]
 
 ## 引用来源
 

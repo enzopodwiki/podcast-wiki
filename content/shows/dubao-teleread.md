@@ -25,6 +25,7 @@ title: "《读报 teleread》"
 - 垂类：[[niches/book-podcast|出版/书评播客]]
 - 来源机构：[[boke-jia|播客荚]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/zhang-ao-tongxue|《张奥同学》]]、[[shows/wenhua-youxian|《文化有限》]]
 
 ## 引用来源
 

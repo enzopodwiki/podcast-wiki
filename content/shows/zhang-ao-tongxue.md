@@ -69,6 +69,7 @@ title: "《张奥同学》"
 - 创作者：[[creators/zhang-ao|张奥]]
 - 类型：[[niches/news-podcast|新闻播客]]
 - 市场：[[markets/china-mainland]]（面向大陆听众的海外华人创作）
+- 相关节目：[[shows/duanwen|《端闻》]]、[[shows/balingguo|《百灵果》]]、[[shows/dubao-teleread|《读报 teleread》]]
 
 ## 引用来源
 

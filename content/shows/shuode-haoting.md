@@ -24,6 +24,7 @@ title: "《说得好听》"
 - 垂类：[[niches/music-podcast|音乐播客]]
 - 来源机构：[[boke-jia|播客荚]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/vibration|《Vibration 歪波音室》]]、[[shows/bowuzhi|《博物志》]]
 
 ## 引用来源
 

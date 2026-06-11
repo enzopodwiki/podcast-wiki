@@ -47,6 +47,7 @@ title: "《博物志》"
 - 同在海派系：[[roles/ipn|IPN]] 系列、[[sound-east-west|《声东击西》]]
 - 来源机构：[[roles/liqi|利器]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/zhuangyouzhe|《壮游者》]]、[[shows/naive-cafe|《Naive咖啡馆》]]
 
 ## 引用来源
 

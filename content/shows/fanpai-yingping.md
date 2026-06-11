@@ -31,6 +31,7 @@ title: "《反派影评》"
 - 主播：[[creators/bomi|波米]]
 - 垂类：[[niches/film-podcast|电影播客]]（与 [[dianying-jubian|《电影巨辩》]] 双峰）
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/dianying-jubian|《电影巨辩》]]、[[shows/zhan-kai-jiang-jiang|《展开讲讲》]]
 
 ## 引用来源
 

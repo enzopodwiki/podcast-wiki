@@ -19,8 +19,8 @@ title: "Connie Walker"
 | 2016 夏  | CBC 电视记者，对短平快电视新闻框架感到挫败                                       |                             |
 | 2016 秋  | CBC 第一档播客《Missing & Murdered: Who Killed Alberta Williams?》开播 |                             |
 | 2017    | 第二档《Finding Cleo》制作中——制作中被告知"这是最后一档播客"（CBC 不再支持）              |                             |
-| 2019 夏  | 拜访刚被 Spotify 收购的 [[roles/gimlet                        \| Gimlet]] 总部，被现代化办公环境与编辑自由打动 |
-| ~2021   | 加盟 Gimlet，出品《[[shows/stolen                                \| Stolen]]》第一季                |
+| 2019 夏  | 拜访刚被 Spotify 收购的 [[roles/gimlet\|Gimlet]] 总部，被现代化办公环境与编辑自由打动 |
+| ~2021   | 加盟 Gimlet，出品《[[shows/stolen\|Stolen]]》第一季                |
 | 2023    | 《Stolen: Surviving St. Michael's》获 Pulitzer + Peabody         |                             |
 | 2023.06 | Spotify 关闭 Gimlet 时《Stolen》暂保                                 |                             |
 | 2023.12 | 《Stolen》被取消                                                   |                             |

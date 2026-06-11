@@ -69,6 +69,7 @@ The Daily 确立了新闻日播播客的行业标准：
 - 精神前辈：[[serial|《Serial》]]（叙事风格奠定者）
 - 中文对标：[[duanwen|《端闻》]]、[[the-real-story|《The Real Story》]]
 - 出品方音频战略：[[roles/nyt|纽约时报]]（NYT Audio app / 收购版图）、[[roles/serial-productions|Serial Productions]]（NYT 2020 收购）
+- 相关节目：[[shows/duanwen|《端闻》]]、[[shows/this-american-life|《This American Life》]]、[[shows/serial|《Serial》]]
 
 ## 引用来源
 

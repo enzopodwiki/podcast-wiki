@@ -51,6 +51,7 @@ title: "杨侃"
 - 平台：[[roles/ximalaya|喜马拉雅]]（2020-2024 主阵地）
 - 商业化背景：[[markets/china-mainland|大陆播客商业化困境]]、[[trends/podcast-ads|播客广告]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/budongqiu|《不懂球》]]、[[shows/new-heights|《New Heights》]]
 
 ## 引用来源
 

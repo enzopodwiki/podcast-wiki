@@ -34,6 +34,7 @@ title: "《陈鲁豫·慢谈》"
 - 平台：[[roles/bilibili|B 站]]
 - 趋势：[[trends/video-podcasts|视频播客]]
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/luo-yonghao-crossroads|《罗永浩的十字路口》]]、[[shows/tianzhen-butianzhen|《天真不天真》]]
 
 ## 引用来源
 

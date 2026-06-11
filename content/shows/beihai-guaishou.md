@@ -32,6 +32,7 @@ title: "《北海怪兽》"
 - 出品方：三明治 Soundwich
 - 串台合作：[[shows/daxiao-diantai|《大小电台》]]（促成小宇宙首页曝光）
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/penti|《喷嚏》]]、[[shows/busang|《不丧》]]
 
 ## 引用来源
 

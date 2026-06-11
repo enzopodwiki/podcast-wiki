@@ -35,6 +35,7 @@ title: "Pablo Torre Finds Out"
 - 制作/分发：Meadowlark Media / The Athletic
 - 垂类：[[niches/sports-podcast|体育播客]]、[[niches/narrative-podcast|叙事/调查播客]]
 - 市场：[[markets/us]]
+- 相关节目：[[shows/shell-game|《Shell Game》]]、[[shows/new-heights|《New Heights》]]
 
 ## 引用来源
 

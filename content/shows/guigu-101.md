@@ -26,9 +26,10 @@ title: "《硅谷101》"
 
 ## 关联
 
-- 类型：科技商业播客（对比[[shows/guigu-zao-zhi-dao|《硅谷早知道》]]——同属科技垂类）
+- 类型：科技商业播客（对比[[shows/keji-zao-zhi-dao|《科技早知道》]]——同属科技垂类）
 - 趋势：[[trends/video-podcasts|视频播客]]、[[trends/podcast-ads|播客广告]]（精准投放）
 - 市场：[[markets/china-mainland|中国大陆]]、[[markets/us|美国]]
+- 相关节目：[[shows/keji-zao-zhi-dao|《科技早知道》]]、[[shows/sound-east-west|《声东击西》]]、[[shows/sanwuhuan|《三五环》]]
 
 ## 引用来源
 

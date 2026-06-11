@@ -35,6 +35,7 @@ title: "《不丧》"
 - 垂类：[[society-culture-podcast|社会文化谈话]]
 - 来源机构：[[roles/liqi|利器]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/wushicha-yanjiusuo|《无时差研究所》]]、[[shows/wuye-youmin|《无业游民》]]、[[shows/beihai-guaishou|《北海怪兽》]]
 
 ## 引用来源
 

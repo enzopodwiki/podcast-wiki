@@ -28,6 +28,7 @@ title: "《放晴早安》"
 - 平台渊源：[[roles/kanlixiang|看理想]] × 喜马拉雅 2020 六档之一
 - 垂类：[[niches/news-podcast|新闻播客]]、[[niches/society-culture-podcast|社会文化谈话]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/shengdong-zaokafei|《声动早咖啡》]]、[[shows/the-real-story|《The Real Story》]]
 
 ## 引用来源
 

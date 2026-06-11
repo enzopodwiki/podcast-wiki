@@ -32,6 +32,7 @@ title: "《三五环》"
 - 相关：[[creators/kyth|kyth]]（小宇宙）、[[trends/podcast-ads|播客广告]]
 - 来源机构：[[boke-jia|播客荚]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/shangye-jiushi-zheyang|《商业就是这样》]]、[[shows/guigu-101|《硅谷101》]]、[[shows/chizao-gengxin|《迟早更新》]]
 
 ## 引用来源
 

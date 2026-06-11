@@ -43,6 +43,7 @@ Steve 的 role model 是 **Joe Rogan**。他练泰拳、看 UFC，由 Joe Rogan 
 - 来源机构：[[roles/liqi|利器]]
 - 市场：[[markets/china-mainland]]、[[markets/us|美国（Joe Rogan 影响）]]
 - 相关：[[trends/podcast-ads|播客广告]]
+- 相关节目：[[shows/wuye-youmin|《无业游民》]]、[[shows/busang|《不丧》]]
 
 ## 引用来源
 

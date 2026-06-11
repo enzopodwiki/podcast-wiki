@@ -72,6 +72,7 @@ title: "《喷嚏》"
 - 同类型垂类：[[niches/gender-podcast|性别/女性播客]]（生活类女性播客；有别于性别研究导向的女性播客）
 - 对比：[[shows/xiaosheng-xuanhua|《小声喧哗》]]（海外华人女性，更偏女性主义分析）、[[shows/bie-ren-xing|《别任性》]]（性别学术取向）
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/xianzhe-shijian|《贤者时间》]]、[[shows/wuye-youmin|《无业游民》]]、[[shows/beihai-guaishou|《北海怪兽》]]
 
 ## 引用来源
 

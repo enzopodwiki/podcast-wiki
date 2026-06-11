@@ -15,7 +15,7 @@ title: "徐涛"
 ## 创业经历
 
 - **2016**：在 36Kr 期间与驻纽约同事张晶创办《声东击西》第一期（主题：美国大选），最初由[[creators/li-ruer|李如一]]（IPN 创始人）指导录音技术
-- **2016**：在 36Kr 期间另创《硅谷早知道》，以播客形式讲述硅谷科技前沿
+- **2016**：在 36Kr 期间另创《科技早知道》，以播客形式讲述硅谷科技前沿
 - **2019-03**：从 36Kr 辞职，与合伙人丁教正式创立[[roles/shengdong-huopo|声动活泼]]，获**光涧实验室**（前豌豆荚团队）数百万人民币投资
 - **2020**：团队扩充至 8 人，旗下 4 档节目，近 20 个微信粉丝群 + Telegram 4000+ 粉丝
 
@@ -45,7 +45,7 @@ title: "徐涛"
 
 - 主节目：[[shows/sound-east-west|《声东击西》]]
 - 公司：[[roles/shengdong-huopo|声动活泼]]
-- 旗下节目：[[shows/guigu-zao-zhi-dao|《硅谷早知道》]]、[[shows/fan-chao-liu-julebu|《反潮流俱乐部》]]、[[shows/dao-hai-wai-qu|《到海外去》]]
+- 旗下节目：[[shows/keji-zao-zhi-dao|《科技早知道》]]、[[shows/fan-chao-liu-julebu|《反潮流俱乐部》]]、[[shows/dao-hai-wai-qu|《到海外去》]]
 - 旗下制作人：[[creators/jiaxun|佳勋]]（《跳进兔子洞》，徐涛任其编辑）
 - 同类同代媒体人转型：[[cheng-yanliang|程衍樑]]（前界面新闻→ JustPod & 忽左忽右）
 - 市场：[[markets/china-mainland]]

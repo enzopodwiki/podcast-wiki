@@ -76,6 +76,7 @@ title: "《说故事的人》"
 - 垂类：[[niches/narrative-podcast|叙事播客]]、[[niches/news-podcast|新闻播客]]
 - 市场：[[markets/taiwan|台湾]]
 - 奖项：卓越新闻奖播客新闻节目奖（2021 入围）
+- 相关节目：[[shows/the-real-story|《The Real Story》]]、[[shows/yishou-gushi|《一手故事》]]、[[shows/story-fm|《故事 FM》]]
 
 ## 引用来源
 

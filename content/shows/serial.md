@@ -38,6 +38,7 @@ title: "《Serial》"
 - 主持人：Sarah Koenig
 - 出品演化：[[this-american-life|This American Life]] → [[roles/serial-productions|Serial Productions]] → 纽约时报
 - 类型奠基：[[niches/narrative-podcast]]
+- 相关节目：[[shows/this-american-life|《This American Life》]]、[[shows/over-my-dead-body|《Over My Dead Body》]]、[[shows/stolen|《Stolen》]]
 
 ## 引用来源
 

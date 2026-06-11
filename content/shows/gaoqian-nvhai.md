@@ -25,6 +25,7 @@ title: "《搞钱女孩》"
 - 同列头部：[[shows/yanzhong-huashu|岩中花述]]、[[shows/danei-mitan|大内密谈]]、[[shows/aotu-dianbo|凹凸电波]]、[[shows/suiji-bodong|随机波动]]、[[shows/buhe-shiyi|不合时宜]]
 - 平台：[[roles/xiaoyuzhou|小宇宙]]
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/shangye-jiushi-zheyang|《商业就是这样》]]、[[shows/suiji-bodong|《随机波动》]]
 
 ## 引用来源
 

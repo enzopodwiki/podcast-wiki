@@ -24,6 +24,7 @@ title: "《无时差研究所》"
 - 主播：珂珂、艾谁谁
 - 垂类：[[niches/business-podcast|商业播客]]（金融从业者背景）/ 泛文化
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/busang|《不丧》]]、[[shows/wenhua-youxian|《文化有限》]]
 
 ## 引用来源
 

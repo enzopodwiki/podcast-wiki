@@ -34,6 +34,7 @@ title: "《纵横四海》"
 - 同梯队（2024 Apple 大陆区第一梯队）：[[shows/tianzhen-butianzhen|《天真不天真》]]、[[shows/aotu-dianbo|《凹凸电波》]]
 - 趋势：长音频 / 知识增量驱动收听
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/suiji-bodong|《随机波动》]]、[[shows/tiaodao-fm|《跳岛FM》]]、[[shows/xiaosheng-xuanhua|《小声喧哗》]]
 
 ## 引用来源
 

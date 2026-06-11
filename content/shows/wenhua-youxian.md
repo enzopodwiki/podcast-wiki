@@ -35,6 +35,7 @@ title: "《文化有限》"
 - 行业活动：[[roles/podfest-china|PodFest China]]（杨大壹曾分享）
 - 来源机构：[[boke-jia|播客荚]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/tiaodao-fm|《跳岛FM》]]、[[shows/naive-cafe|《Naive咖啡馆》]]、[[shows/dushubuchenglin|《独树不成林》]]
 
 ## 引用来源
 

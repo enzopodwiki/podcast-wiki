@@ -79,6 +79,7 @@ title: "《大内密谈》"
 - 主办活动：[[roles/shengliang|声量播客节]]
 - 同代天猫联动播客：[[shows/san-hao-huai-nan-hai|《三好坏男孩》]]（2020 多家品牌联动）
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/story-fm|《故事 FM》]]、[[shows/san-hao-huai-nan-hai|《三好坏男孩》]]、[[shows/huzuohuyou|《忽左忽右》]]
 
 ## 引用来源
 

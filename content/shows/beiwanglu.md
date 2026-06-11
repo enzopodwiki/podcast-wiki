@@ -31,6 +31,7 @@ title: "《贝望录》"
 - 来源机构：[[boke-jia|播客荚]]
 - 相关趋势：[[trends/podcast-ads|播客广告]]、[[trends/branded-podcasts|品牌播客]]、[[trends/video-podcasts|视频播客]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/shangye-jiushi-zheyang|《商业就是这样》]]、[[shows/sanwuhuan|《三五环》]]、[[shows/yanzhong-huashu|《岩中花述》]]
 
 ## 引用来源
 

@@ -65,6 +65,7 @@ title: "《一手故事》"
 - 同类台湾新闻播客：[[the-real-story|《The Real Story》]]（报导者）
 - 垂类：[[niches/narrative-podcast|叙事播客]]
 - 市场：[[markets/taiwan]]
+- 相关节目：[[shows/shuo-gushi-de-ren|《说故事的人》]]、[[shows/xingqitian-wanshang|《星期天晚上》]]、[[shows/story-fm|《故事 FM》]]
 
 ## 引用来源
 

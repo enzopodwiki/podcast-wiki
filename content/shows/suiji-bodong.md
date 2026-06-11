@@ -72,6 +72,7 @@ title: "《随机波动》"
 - 垂类：[[niches/gender-podcast|性别/女性播客]]
 - 同类学术播客：[[shows/shicha|《时差》]]
 - 市场：[[markets/china-mainland|中国大陆]]
+- 相关节目：[[shows/xiaosheng-xuanhua|《小声喧哗》]]、[[shows/zonghengshihai|《纵横四海》]]、[[shows/buhe-shiyi|《不合时宜》]]
 
 ## 引用来源
 

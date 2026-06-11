@@ -32,6 +32,7 @@ title: "《日谈物语》"
 - 主持人：[[creators/li-miao|李淼]]
 - 同门节目：[[shuo-gui-shuo|《说归说》]]、[[tiandi-wuyong|《天地无用》]]
 - 市场：[[markets/china-mainland]]
+- 相关节目：[[shows/tiandi-wuyong|《天地无用》]]、[[shows/shuo-gui-shuo|《说归说》]]
 
 ## 引用来源
 
