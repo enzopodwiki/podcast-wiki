@@ -17,7 +17,7 @@ title: "Wiki 索引"
 
 - [[markets/us]] — 美国市场（引用 41）| 月度消费 58%，YouTube 第一 39%，2025 全球听众 5.84 亿，Joe Rogan 1100万/集；Pablo Torre 2026 普利策
 - [[markets/china-mainland]] — 中国大陆市场（引用 73）| 2025 听众破 1.5 亿，头部商单占比 10-20%（未饱和），小宇宙口碑 vs 喜马拉雅变现；后抖音"飞地"
-- [[markets/taiwan]] — 台湾市场（引用 32）| DAI 广告 +172%，广告 CAGR 30.2%，YouTube 45% 第一，金钟奖驱动精品化
+- [[markets/taiwan]] — 台湾市场（引用 32）| DAI 广告达 2023 年 172%（年增逾 70%），广告 CAGR 30.2%，YouTube 45% 第一，金钟奖驱动精品化
 - [[markets/southeast-asia]] — 东南亚华语播客（马来西亚 + 新加坡，新兴幼苗市场，引用 2）
 
 ## 趋势 (trends/)
