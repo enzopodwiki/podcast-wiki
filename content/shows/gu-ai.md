@@ -37,10 +37,10 @@ title: "《股癌》"
 ## 关联
 
 - 主播：[[creators/xie-menggong|谢孟恭]]
-- 同期台湾三本柱：[[balingguo|《百灵果》]]、[[taiwan-commute|《台湾通勤第一品牌》]]
+- 同期台湾三本柱：[[bailingguo|《百灵果》]]、[[taiwan-commute|《台湾通勤第一品牌》]]
 - 市场：[[markets/taiwan|台湾市场]]
 - 商业化：[[trends/podcast-ads|播客广告]]
-- 相关节目：[[shows/balingguo|《百灵果》]]、[[shows/taiwan-commute|《台湾通勤第一品牌》]]
+- 相关节目：[[shows/bailingguo|《百灵果》]]、[[shows/taiwan-commute|《台湾通勤第一品牌》]]
 
 ## 引用来源
 

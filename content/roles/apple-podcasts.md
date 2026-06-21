@@ -107,7 +107,7 @@ title: "Apple Podcasts（苹果播客）"
 ## 评价 / 争议 / 风险
 
 ### 中国区下架的结构性矛盾
-苹果播客**只"展示"不"托管"、不对内容负责**，与中国"谁发布谁负责"的结果导向监管逻辑天然冲突。[[creators/li-ruer|李如一]]（[[roles/ipn|IPN]]）认为媒体压力很难影响苹果决策、苹果会以"遵守法律法规"名义合理化屏蔽，并连续发文鼓励听众用泛用型客户端（Castro/Pocket Casts/Overcast）。[[creators/zhu-feng|朱峰]]（津津乐道）则指出"引入监管是好事，但国内平台服务和技术太差无法支持独立播客发布，这才是最大瓶颈"。
+苹果播客**只"展示"不"托管"、不对内容负责**，与中国"谁发布谁负责"的结果导向监管逻辑天然冲突。[[creators/li-ruyi|李如一]]（[[roles/ipn|IPN]]）认为媒体压力很难影响苹果决策、苹果会以"遵守法律法规"名义合理化屏蔽，并连续发文鼓励听众用泛用型客户端（Castro/Pocket Casts/Overcast）。[[creators/zhu-feng|朱峰]]（津津乐道）则指出"引入监管是好事，但国内平台服务和技术太差无法支持独立播客发布，这才是最大瓶颈"。
 
 **审核规律**（「播客一下」追踪）：新节目由苹果国际团队按 RSS 技术指标审核（3-5 工作日）；中国区另有独立审核（1-2 个月）；**关键规律：能在中国大陆无需"翻墙"收听的播客大概率通过**；若从国内平台托管转为第三方独立托管，会重新被隐藏。
 
@@ -121,7 +121,7 @@ title: "Apple Podcasts（苹果播客）"
 - 主要竞争者：[[roles/spotify|Spotify]]（2019 起市场份额持续逼近）、[[roles/youtube|YouTube]]（2023 起登顶美国第一）
 - 同类泛用型客户端：[[roles/pocket-casts|Pocket Casts]]
 - 中国区合作托管平台：[[roles/ximalaya|喜马拉雅]]、[[roles/lizhi|荔枝]]、蜻蜓FM、考拉FM
-- 泛用型客户端概念：[[roles/ipn|IPN]] / [[creators/li-ruer|李如一]]
+- 泛用型客户端概念：[[roles/ipn|IPN]] / [[creators/li-ruyi|李如一]]
 - 相关趋势：[[markets/china-mainland|开放生态 vs 平台化]]（2005 去中心化选择的制度起点）
 - 长期数据：[[sources/infinite-dial-reports|The Infinite Dial]]、[[markets/us|美国市场]]、[[markets/china-mainland|中国大陆市场]]
 

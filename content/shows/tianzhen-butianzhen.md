@@ -29,13 +29,13 @@ title: "《天真不天真》"
 
 ## 行业意义
 
-在"三秒定生死"的短视频时代，《天真不天真》代表了名人借长播客建立深度连接、打造个人 IP 并探索商业化的尝试。与 [[shows/zonghengshihai|《纵横四海》]]、[[shows/aotu-dianbo|《凹凸电波》]]同属 2024 年 Apple Podcast 大陆区榜单第一梯队。
+在"三秒定生死"的短视频时代，《天真不天真》代表了名人借长播客建立深度连接、打造个人 IP 并探索商业化的尝试。与 [[shows/zonghengsihai|《纵横四海》]]、[[shows/aotu-dianbo|《凹凸电波》]]同属 2024 年 Apple Podcast 大陆区榜单第一梯队。
 
 ## 关联
 
 - 主播平台：[[roles/xiaoyuzhou|小宇宙]]、[[roles/bilibili|B 站]]
 - 相邻趋势：[[trends/video-podcasts|视频播客]]
-- 同梯队节目：[[shows/zonghengshihai|《纵横四海》]]、[[shows/aotu-dianbo|《凹凸电波》]]
+- 同梯队节目：[[shows/zonghengsihai|《纵横四海》]]、[[shows/aotu-dianbo|《凹凸电波》]]
 - 市场：[[markets/china-mainland]]
 - 相关节目：[[shows/luo-yonghao-crossroads|《罗永浩的十字路口》]]、[[shows/chenluyu-mantan|《陈鲁豫·慢谈》]]、[[shows/yanzhong-huashu|《岩中花述》]]
 

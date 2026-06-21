@@ -34,7 +34,7 @@ Automattic 创始人 Matt Mullenweg 是开源信徒（WordPress 是全球第一�
 
 ## 关联
 
-- 同类泛用型客户端：[[roles/apple-podcasts|Apple Podcasts]]、Overcast、Castro（[[roles/ipn|IPN]]/[[creators/li-ruer|李如一]]倡导的"泛用型客户端"）
+- 同类泛用型客户端：[[roles/apple-podcasts|Apple Podcasts]]、Overcast、Castro（[[roles/ipn|IPN]]/[[creators/li-ruyi|李如一]]倡导的"泛用型客户端"）
 - 母公司：Automattic（WordPress、Tumblr）
 - 市场：[[markets/us|美国市场]]、[[markets/taiwan|台湾市场]]
 

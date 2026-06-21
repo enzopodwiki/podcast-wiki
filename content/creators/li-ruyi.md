@@ -2,7 +2,7 @@
 type: creator
 markets: [china-mainland]
 language: zh
-aliases: [李如一, Li Ruer]
+aliases: [李如一, Li Ruyi]
 role: 播客人 / 词典编纂者 / 媒体人
 affiliation: IPN
 sources: 3

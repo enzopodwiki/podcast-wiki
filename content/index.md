@@ -102,7 +102,7 @@ title: "Wiki 索引"
 - 老牌叙事：[[shows/story-fm]]（引用 9）、[[shows/danei-mitan]]（引用 5）、[[shows/san-hao-huai-nan-hai]] — 《三好坏男孩》（F.C.N.S 厂牌）
 - 早期海派代表：[[shows/chizao-gengxin]] — 《迟早更新》（任宁）、[[shows/bowuzhi]] — 《博物志》（婉莹）
 - "准专业"代表：[[shows/sound-east-west]]（引用 2）、[[shows/huzuohuyou]]、[[shows/dushubuchenglin]]
-- 女性主义讨论：[[shows/zonghengshihai]] — 《纵横四海》（携隐 Melody，读书单口，最长 298 分钟，小宇宙 167 万+（2026），引用 2）、[[shows/suiji-bodong]] — 《随机波动》（3位女性媒体人，小宇宙 100 万+（2026）；原名《剩余价值》，2019年底炸号改名；引用 6）
+- 女性主义讨论：[[shows/zonghengsihai]] — 《纵横四海》（携隐 Melody，读书单口，最长 298 分钟，小宇宙 167 万+（2026），引用 2）、[[shows/suiji-bodong]] — 《随机波动》（3位女性媒体人，小宇宙 100 万+（2026）；原名《剩余价值》，2019年底炸号改名；引用 6）
 - 视频破圈：[[shows/tianzhen-butianzhen]] — 《天真不天真》（杨天真，名人入驻+视频化再分发标杆，引用 2）
 - 品牌营销头部：[[shows/aotu-dianbo]]（引用 3）、[[shows/xiexing-liaotian]]
 - 品牌播客旗舰：[[shows/yanzhong-huashu]] — 《岩中花述》（GIADA 出品，鲁豫常驻，小宇宙 397 万+（2026），"姐学"四金花之一，引用 4）
@@ -113,8 +113,8 @@ title: "Wiki 索引"
 - 视频播客（B 站名人）：[[shows/luo-yonghao-crossroads]] — 《罗永浩的十字路口》（3-5h，李想/何小鹏，引用 2）、[[shows/chenluyu-mantan]] — 《陈鲁豫·慢谈》（鲁豫从《岩中花述》转视频，B 站 165 万+（2026），引用 3）
 - 声动活泼系列：[[shows/shengdong-zaokafei]] — 《声动早咖啡》（资讯短播客，周一三五 15min，霸榜小宇宙最热榜，引用 2）、[[shows/keji-zao-zhi-dao]] — 《科技早知道》、[[shows/fan-chao-liu-julebu]] — 《反潮流俱乐部》、[[shows/dao-hai-wai-qu]] — 《到海外去》、[[shows/tiaojin-tuzidong]] — 《跳进兔子洞》（调查叙事，付费4000+）
 - 日谈宇宙：[[shows/ritan-wuyu]] — 《日谈物语》（李淼）、[[shows/shuo-gui-shuo]] — 《说归说》（李志明）、[[shows/tiandi-wuyong]] — 《天地无用》（3000老师）
-- 性别/垂类：[[shows/bie-ren-xing]] — 《别任性》（Alexwood，BIE别的女孩）、[[shows/biaojian]] — 《婊酱》（鸟鸟，2015，性积极，审查后迁至独立站）
-- 生活方式/实体空间：[[shows/daxiao-diantai]] — 《大小电波》（原《大小电台》，大小咖啡孵化，小宇宙 3.6 万）
+- 性别/垂类：[[shows/bie-ren-xing]] — 《别任性》（Alexwood，BIE别的女孩）、[[shows/biaojiang]] — 《婊酱》（鸟鸟，2015，性积极，审查后迁至独立站）
+- 生活方式/实体空间：[[shows/daxiao-dianbo]] — 《大小电波》（原《大小电台》，大小咖啡孵化，小宇宙 3.6 万）
 - 出版/文化类：[[shows/tiaodao-fm]] — 《跳岛FM》（中信大方）、[[roles/kanlixiang|《看理想电台》]] — 看理想出品（并入看理想品牌页）、[[shows/naive-cafe]] — 《Naive咖啡馆》（理想国，咖啡馆品牌播客，引用 4）
 - 独立叙事/听众拉新：[[shows/beihai-guaishou]] — 《北海怪兽》（若冰 × 花生酱，三明治 Soundwich）
 - 内容评论：[[shows/zhan-kai-jiang-jiang]] — 《展开讲讲》（王老师/康堤/洞姐，东亚影视，"以贩养吸"，2019）
@@ -137,8 +137,8 @@ title: "Wiki 索引"
 - [[shows/buhe-shiyi]] — 《不合时宜》（王磬等，旅居欧洲/纽约，2019，女性视角+跨文化，249+期，30%海外听众；2025 欠薪风波曝头部真实变现，引用 3）
 
 ### 台湾
-- 三本柱（2020元年）：[[shows/guyai]] — 《股癌》（谢孟恭，财经股市）、[[shows/balingguo]] — 《百灵果》（国际新闻）、[[shows/taiwan-commute]] — 《台湾通勤第一品牌》（李毅诚）
-- 法律/公民：[[shows/fakeidao]] — 《法客电台》（杨贵智，法律白话文运动）
+- 三本柱（2020元年）：[[shows/gu-ai]] — 《股癌》（谢孟恭，财经股市）、[[shows/bailingguo]] — 《百灵果》（国际新闻）、[[shows/taiwan-commute]] — 《台湾通勤第一品牌》（李毅诚）
+- 法律/公民：[[shows/fake-diantai]] — 《法客电台》（杨贵智，法律白话文运动）
 - [[shows/the-real-story]]（引用 4）、[[shows/xingqitian-wanshang]] — 《星期天晚上》（关键评论网，SOPA 2022 获奖）
 - [[shows/shuo-gushi-de-ren]] — 《说故事的人》（范琪斐，电视级制作，2021 卓越新闻奖入围）
 - [[shows/yishou-gushi]] — 《一手故事》（陈莉雅，独立制作，2022，台湾社会微趋势，2022 卓越新闻奖入围）
@@ -152,7 +152,7 @@ title: "Wiki 索引"
 - [[creators/eric-benson]]、[[creators/connie-walker]]、[[creators/evan-ratliff]]、[[creators/pablo-torre]] — Pablo Torre（前 ESPN，调查体育播客，2026 普利策，引用 2）
 
 ### 中国大陆
-- 平台/厂牌：[[creators/kyth]]、[[creators/cheng-yanliang]]（引用 2）、[[creators/li-zhiming]]（引用 2）、[[creators/luo-zhenyu]]、[[creators/feng-guangjian]] — 冯广健（日谈联合创始人）、[[creators/li-ruer]] — 李如一（IPN 创始人，泛用型播客客户端发明者）、[[creators/liang-wendao]] — 梁文道（看理想/《八分》，知识付费+播客混合体，引用 5）
+- 平台/厂牌：[[creators/kyth]]、[[creators/cheng-yanliang]]（引用 2）、[[creators/li-zhiming]]（引用 2）、[[creators/luo-zhenyu]]、[[creators/feng-guangjian]] — 冯广健（日谈联合创始人）、[[creators/li-ruyi]] — 李如一（IPN 创始人，泛用型播客客户端发明者）、[[creators/liang-wendao]] — 梁文道（看理想/《八分》，知识付费+播客混合体，引用 5）
 - 基础设施 / 社区：[[creators/zhu-feng]] — 朱峰（声湃联合创始人）、[[creators/lao-yuan]] — 老袁（播客公社创始人 / 声湃联创，引用 4）
 - "准专业"主播：[[creators/xu-tao]]（引用 3）、[[creators/zhongshu]]
 - 叙事/老牌：[[creators/ai-zhe]] — 寇爱哲（故事FM创始人）、[[creators/xiang-zheng]]（引用 3）、[[creators/li-miao]] — 李淼（淼叔，日谈物语）、[[creators/ren-ning]] — 任宁（《迟早更新》，Ones Ventures）

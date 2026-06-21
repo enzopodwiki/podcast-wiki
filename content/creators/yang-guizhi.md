@@ -16,13 +16,13 @@ title: "杨贵智"
 
 ## 节目与奖项
 
-- [[shows/fakeidao|《法客电台》]] — Apple Podcast 台湾稳定 10-15 名，平均单集 2 万次播放，法律普及化
+- [[shows/fake-diantai|《法客电台》]] — Apple Podcast 台湾稳定 10-15 名，平均单集 2 万次播放，法律普及化
 - **2020 年卓越新闻奖“Podcast 新闻奖”首届得主**：中文世界第一个播客新闻奖。杨贵智 2018 年筹划、2019 年与[[roles/soundon|SoundOn]]合作制作；获奖后表示“会鼓励更多创作者投入 Podcast 的制作，让这项新媒体的力量发挥到最大值”。2020 年台湾播客新闻奖
 
 ## 关联
 
 - 机构：法律白话文运动
-- 节目：[[shows/fakeidao|《法客电台》]]
+- 节目：[[shows/fake-diantai|《法客电台》]]
 - 平台合作：[[roles/soundon|SoundOn]]
 - 市场：[[markets/taiwan|台湾市场]]
 

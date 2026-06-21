@@ -10,7 +10,7 @@ updated: 2026-05-20
 title: "IPN 播客网络"
 ---
 
-由[[creators/li-ruer|李如一]]（《一天世界》主播）于 **2014 年**创立，是中文播客圈**第一个播客网络（厂牌）**，被认为是"海派播客"风格的奠基者——早于[[roles/justpod|JustPod]]、[[roles/ritan-park|日谈公园]]的厂牌化。
+由[[creators/li-ruyi|李如一]]（《一天世界》主播）于 **2014 年**创立，是中文播客圈**第一个播客网络（厂牌）**，被认为是"海派播客"风格的奠基者——早于[[roles/justpod|JustPod]]、[[roles/ritan-park|日谈公园]]的厂牌化。
 
 ## 重要贡献
 
@@ -38,7 +38,7 @@ IPN旗下播客包括：《一天世界》（李如一）、《选·美》（关
 
 ## 关联
 
-- 创始人：[[creators/li-ruer|李如一]]
+- 创始人：[[creators/li-ruyi|李如一]]
 - 影响：奠定了[[roles/justpod|JustPod]]等后继厂牌的模式
 - 重要概念：泛用型播客客户端
 - 市场：[[markets/china-mainland]]

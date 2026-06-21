@@ -13,7 +13,7 @@ title: "设计播客"
 ## 代表节目
 
 - **[[anyway-fm|Anyway.FM 设计杂谈]]**（2015，[[markets/china-mainland|大陆]]）：UI 设计师 JJ 与 Leon 主理，从 UI 切入扩展到数码科技、生活美学，是这一垂类的标志性节目。
-- **《字谈字畅》**（TheType / TIB）：聚焦字体排印的播客，连"字体排印这么小众的话题都能做播客"，正是 Anyway.FM 决定开播的直接启发源。其平台 TheType 与 [[roles/ipn|IPN]] 体系亦有渊源（[[li-ruer|李如一]] 主播过《字谈字畅》）。
+- **《字谈字畅》**（TheType / TIB）：聚焦字体排印的播客，连"字体排印这么小众的话题都能做播客"，正是 Anyway.FM 决定开播的直接启发源。其平台 TheType 与 [[roles/ipn|IPN]] 体系亦有渊源（[[li-ruyi|李如一]] 主播过《字谈字畅》）。
 
 ## 垂类特征
 
@@ -23,7 +23,7 @@ title: "设计播客"
 ## 关联
 
 - 节目：[[anyway-fm|Anyway.FM]]
-- 相关：[[roles/ipn|IPN]]、[[li-ruer|李如一]]、[[trends/podcast-ads|播客广告]]
+- 相关：[[roles/ipn|IPN]]、[[li-ruyi|李如一]]、[[trends/podcast-ads|播客广告]]
 - 市场：[[markets/china-mainland]]
 
 ## 引用来源

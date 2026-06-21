@@ -79,7 +79,7 @@ Afra（本节目主播之一）以局内人身份为 Rest of World 记录了中�
 - 垂类：[[niches/gender-podcast|性别/女性播客]]
 - 关联播客：《选美 I am Election》（IPN 旗下，四人相识契机）
 - 提及认可的同类节目：[[shows/buhe-shiyi|《不合时宜》]]、[[shows/shicha|《时差》]]
-- 相关节目：[[shows/biaojian|《婊酱》]]、[[shows/suiji-bodong|《随机波动》]]
+- 相关节目：[[shows/biaojiang|《婊酱》]]、[[shows/suiji-bodong|《随机波动》]]
 - 市场：[[markets/us|美国]]（创作者所在地）、[[markets/china-mainland|中国大陆]]（主要受众）
 
 ## 引用来源

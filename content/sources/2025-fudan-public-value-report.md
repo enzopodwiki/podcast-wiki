@@ -161,7 +161,7 @@ title: "\"对话的力量\"——中文播客的公共价值报告"
 - 13 期相关单集，**评论总数超 2 万条**
 - 平均单集评论 **1615 条**
 - **多轮对话比例超 35%**，最高达 **56%**
-- [[shows/zonghengshihai|《纵横四海》]] 单集《什么是女性主义？+ 聊聊再见爱人 4》评论数 **5705 条**，单条评论引发 248 条回复
+- [[shows/zonghengsihai|《纵横四海》]] 单集《什么是女性主义？+ 聊聊再见爱人 4》评论数 **5705 条**，单条评论引发 248 条回复
 - "为情绪正名"——主播喊出**"情绪化一点怎么了？"**，挑战启蒙时代以来"非情绪=理性"的根基
 - 父权与个体经验的张力：将个人故事（母亲、女儿、家庭主妇）作为"连接人与人的新纽带"
 
@@ -203,7 +203,7 @@ title: "\"对话的力量\"——中文播客的公共价值报告"
 
 - 发布方：[[roles/fudan-icrc|复旦信息与传播研究中心]]、[[roles/xiaoyuzhou|小宇宙 App]]
 - 核心研究者：李梦颖、孙玮
-- 节目案例：[[shows/sound-east-west]]、[[shows/huzuohuyou]]、[[shows/dushubuchenglin]]、[[shows/zonghengshihai]]
+- 节目案例：[[shows/sound-east-west]]、[[shows/huzuohuyou]]、[[shows/dushubuchenglin]]、[[shows/zonghengsihai]]
 - 趋势锚点：[[trends/podcast-ads]]（与商业化报告对照）
 - 市场：[[markets/china-mainland]]
 

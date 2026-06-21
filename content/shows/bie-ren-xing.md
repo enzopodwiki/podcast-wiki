@@ -47,7 +47,7 @@ Alexwood 在对话类播客"已足够饱和"的 2021 年，通过"任性公益"�
 - 出品方：[[roles/bie-de-nvhai|BIE别的女孩]]
 - 垂类：[[niches/gender-podcast|性别/女性播客]]
 - 市场：[[markets/china-mainland]]
-- 相关节目：[[shows/biaojian|《婊酱》]]、[[shows/xiaosheng-xuanhua|《小声喧哗》]]、[[shows/buhe-shiyi|《不合时宜》]]
+- 相关节目：[[shows/biaojiang|《婊酱》]]、[[shows/xiaosheng-xuanhua|《小声喧哗》]]、[[shows/buhe-shiyi|《不合时宜》]]
 
 ## 引用来源
 

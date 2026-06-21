@@ -46,10 +46,10 @@ title: "《法客电台》"
 
 - 主播：[[creators/yang-guizhi|杨贵智]]
 - 平台合作：[[roles/soundon|SoundOn]]
-- 同期头部：[[shows/guyai|《股癌》]]（三本柱之一）
+- 同期头部：[[shows/gu-ai|《股癌》]]（三本柱之一）
 - 奖项：卓越新闻奖 2020 首届 Podcast 新闻奖
 - 市场：[[markets/taiwan|台湾市场]]
-- 相关节目：[[shows/balingguo|《百灵果》]]、[[shows/the-real-story|《The Real Story》]]
+- 相关节目：[[shows/bailingguo|《百灵果》]]、[[shows/the-real-story|《The Real Story》]]
 
 ## 引用来源
 

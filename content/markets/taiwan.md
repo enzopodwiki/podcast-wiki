@@ -12,7 +12,7 @@ title: "台湾市场"
 
 | 年份 | 关键节点 |
 |---|---|
-| **2020** | Podcast 元年：[[shows/guyai\|《股癌》]]/[[shows/balingguo\|《百灵果》]]/[[shows/taiwan-commute\|《台湾通勤第一品牌》]]「三本柱」格局成形；本土托管双雄 Firstory+SoundOn 市占过半；中文节目上半年 +2100%；下半年 KOL/艺人入场洗牌排行榜；**卓越新闻奖首设「Podcast 新闻奖」**（中文世界第一个），[[shows/fakeidao\|《法客电台》]]获首届 |
+| **2020** | Podcast 元年：[[shows/gu-ai\|《股癌》]]/[[shows/bailingguo\|《百灵果》]]/[[shows/taiwan-commute\|《台湾通勤第一品牌》]]「三本柱」格局成形；本土托管双雄 Firstory+SoundOn 市占过半；中文节目上半年 +2100%；下半年 KOL/艺人入场洗牌排行榜；**卓越新闻奖首设「Podcast 新闻奖」**（中文世界第一个），[[shows/fake-diantai\|《法客电台》]]获首届 |
 | **2021** | SoundOn 成立一年半被潘杰贤 Turn Capital 收购；收听率一年翻三倍（6.6%→20%）；YouTuber/影视艺人大举转战 |
 | **2022** | 「声音变现元年」：商业合作达 **10 亿 NTD**，DAI 动态广告 6 月正式商用 |
 | **2023** | 渗透率过半：**51%** 人口、逾 1,200 万人在听；听众主力转向 **35-44 岁**中坚职场；YouTube 崛起为一般大众第一收听入口 |
@@ -117,11 +117,11 @@ title: "台湾市场"
 
 | 节目                                        | 主持人                                 | 核心     |
 | ----------------------------------------- | ----------------------------------- | ------ |
-| [[shows/guyai\|《股癌》]]                | [[creators/xie-menggong\|谢孟恭]] | 财经股市   |
-| [[shows/balingguo\|《百灵果》]]           | 百灵果                                 | 国际新闻   |
+| [[shows/gu-ai\|《股癌》]]                | [[creators/xie-menggong\|谢孟恭]] | 财经股市   |
+| [[shows/bailingguo\|《百灵果》]]           | 百灵果                                 | 国际新闻   |
 | [[shows/taiwan-commute\|《台湾通勤第一品牌》]] | [[creators/li-yicheng\|李毅诚]]   | 社会文化评论 |
 
-[[shows/fakeidao|《法客电台》]]（[[creators/yang-guizhi|杨贵智]]/法律白话文运动）稳定 10-15 名、单集 2 万次。
+[[shows/fake-diantai|《法客电台》]]（[[creators/yang-guizhi|杨贵智]]/法律白话文运动）稳定 10-15 名、单集 2 万次。
 
 ### YouTuber 转战与名人入场
 
@@ -153,7 +153,7 @@ Spotify 台湾前 10 大分三类：**原生播客**（三本柱，从零培养�
 
 2020 年第 19 届首设「Podcast 新闻奖」，是中文世界第一个专门针对播客的新闻奖（比美国普利策音频报道奖晚约半年）。
 
-- **2020（首届）**：[[shows/fakeidao|《法客电台》]]获奖；42 档报名、5 档入围**全为机构制作**（《百灵果》未入围）。 2020 年台湾播客新闻奖
+- **2020（首届）**：[[shows/fake-diantai|《法客电台》]]获奖；42 档报名、5 档入围**全为机构制作**（《百灵果》未入围）。 2020 年台湾播客新闻奖
 - **2021**：[[shows/the-real-story|《The Real Story》]]（[[roles/twreporter|报导者]]）获奖，同年获 KKBOX「年度最佳节目」+「最佳新进节目」。 2021 年台湾播客新闻奖
 - **2022**：《我在案发现场》获奖；《一手故事》《The Real Story》入围。
 - **2024（第 23 届）**：[[shows/the-real-story|《The Real Story》]] 再获奖（至 2025 共三届）。

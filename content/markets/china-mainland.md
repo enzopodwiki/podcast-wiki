@@ -194,7 +194,7 @@ title: "中国大陆市场"
 
 ### Apple Podcast 大陆区年度榜单（2024）
 
-- **第一梯队**：[[shows/tianzhen-butianzhen|《天真不天真》]]、[[shows/zonghengshihai|《纵横四海》]]、[[shows/aotu-dianbo|《凹凸电波》]]（多平台年榜共现）。
+- **第一梯队**：[[shows/tianzhen-butianzhen|《天真不天真》]]、[[shows/zonghengsihai|《纵横四海》]]、[[shows/aotu-dianbo|《凹凸电波》]]（多平台年榜共现）。
 - **集中度**：前 10 档贡献播放量约 **62.5%**，头部效应持续强化；休闲娱乐 + 商务财经主导，人文社科相对退潮。 2024-年度播客榜单和播客奖项分析
 
 ### 视频化（2024）
@@ -215,7 +215,7 @@ title: "中国大陆市场"
 播客成了年轻人"松弛表达的新阵地"——2023 年喜马有商业价值播客超 24 万档、小宇宙日均新增近 90 档。新入局者多是失业/刚毕业/在校学生，把播客当 vlog/日记本，共识是**"我是什么样的人，就该保留下来"**：
 
 - **来野《不许胡来》**：制片人出身，一期毫无剪辑的《关于一次打架》反而讨论量更高，转向记录与伴侣野人的日常。
-- **携隐 Melody [[shows/zonghengshihai|《纵横四海》]]**：读书类单口，单期最长 298 分钟，1 年半收 61 万粉（小宇宙第七）——"听众选播客第一位是希望有信息差"。
+- **携隐 Melody [[shows/zonghengsihai|《纵横四海》]]**：读书类单口，单期最长 298 分钟，1 年半收 61 万粉（小宇宙第七）——"听众选播客第一位是希望有信息差"。
 - **张春《张春酷酷酷》**：心理咨询师，与素人视频连线圆桌，未精修的真实故事 23 期破 7 万粉。
 - 另有[[shows/zhuangyouzhe|《壮游者》]]Yang（保留印尼街头噪音）、阿汤、洪晃（"不需要出镜、形式自由"）等。
 
@@ -244,12 +244,12 @@ title: "中国大陆市场"
 
 - 老牌叙事：[[shows/story-fm|《故事 FM》]]、[[shows/danei-mitan|《大内密谈》]]
 - 准专业（美国大选案例）：[[shows/sound-east-west|《声东击西》]]、[[shows/huzuohuyou|《忽左忽右》]]、[[shows/dushubuchenglin|《独树不成林》]]
-- 女性主义讨论：[[shows/zonghengshihai|《纵横四海》]]
+- 女性主义讨论：[[shows/zonghengsihai|《纵横四海》]]
 - 视频破圈：[[shows/luo-yonghao-crossroads|《罗永浩的十字路口》]]
 - 品牌营销头部：[[shows/aotu-dianbo|《凹凸电波》]]、[[shows/xiexing-liaotian|《谐星聊天会》]]
 - 声动活泼系列：[[shows/keji-zao-zhi-dao|《科技早知道》]]、[[shows/fan-chao-liu-julebu|《反潮流俱乐部》]]、[[shows/dao-hai-wai-qu|《到海外去》]]、[[shows/tiaojin-tuzidong|《跳进兔子洞》]]（调查叙事/声音特稿，付费 4000+）
 - 日谈宇宙：[[shows/ritan-wuyu|《日谈物语》]]、[[shows/shuo-gui-shuo|《说归说》]]、[[shows/tiandi-wuyong|《天地无用》]]
-- 生活方式/实体空间：[[shows/daxiao-diantai|《大小电台》]]（大小咖啡孵化，北京）
+- 生活方式/实体空间：[[shows/daxiao-dianbo|《大小电波》]]（大小咖啡孵化，北京）
 - 出版/文化类：[[shows/tiaodao-fm|《跳岛FM》]]（中信大方）
 - 内容评论：[[shows/zhan-kai-jiang-jiang|《展开讲讲》]]（东亚影视/综艺，"以贩养吸"，2019）
 - 劳工/社会议题：[[shows/da-gong-tan|《打工谈》]]（让工人直接发声，志愿自组织，2020）
@@ -345,7 +345,7 @@ title: "中国大陆市场"
 |---|---|---|
 | 美国大选 | [[shows/sound-east-west\|《声东击西》]]、[[shows/huzuohuyou\|《忽左忽右》]]、[[shows/dushubuchenglin\|《独树不成林》]] | 重大议题"准专业"讨论 + 听众众包校正 |
 | Sora / AI | 31 期相关单集 | 高壁垒技术祛魅 + 行业内部立体认知 |
-| 再见爱人 4 | [[shows/zonghengshihai\|《纵横四海》]] 等 13 期 | 情绪化、个体化表达的合法化 |
+| 再见爱人 4 | [[shows/zonghengsihai\|《纵横四海》]] 等 13 期 | 情绪化、个体化表达的合法化 |
 
 **都市性**：主播北京 19%/上海 17%/海外 16%；线下播客节构成新型公共空间：[[roles/podfest-china|狂喜播客节]]（[[creators/guan-yadi|关雅荻]]）、[[roles/shengliang|声量]]（[[creators/xiang-zheng|相征]] + 深夜谈谈）。 2025-中文播客的公共价值报告
 
@@ -377,7 +377,7 @@ title: "中国大陆市场"
 
 ### 2023「搞钱元年」
 
-方可成（WSJ 中文）以**"搞钱"**总结 2023。增长最快：[[shows/shengdong-zaokafei|《声动早咖啡》]]（[[roles/shengdong-huopo|声动活泼]]日播商业资讯，长期霸榜——中国缺能做日播的媒体机构）、[[shows/zonghengshihai|《纵横四海》]]（"说书"定位）。"搞钱"格局涵盖商业故事（《三五环》《半拿铁》）、投资理财（《知行小酒馆》《无人知晓》《疯投圈》）、创业实战（《搞钱女孩》等）。
+方可成（WSJ 中文）以**"搞钱"**总结 2023。增长最快：[[shows/shengdong-zaokafei|《声动早咖啡》]]（[[roles/shengdong-huopo|声动活泼]]日播商业资讯，长期霸榜——中国缺能做日播的媒体机构）、[[shows/zonghengsihai|《纵横四海》]]（"说书"定位）。"搞钱"格局涵盖商业故事（《三五环》《半拿铁》）、投资理财（《知行小酒馆》《无人知晓》《疯投圈》）、创业实战（《搞钱女孩》等）。
 
 **付费里程碑**：[[shows/xiexing-liaotian|《谐星聊天会》]]第四季 129 元 × 近 4 万份 ≈ 400-500 万元；[[shows/suiji-bodong|《随机波动》]]《In Her Own Words》99 元 × 7000+ 份。
 
@@ -462,7 +462,7 @@ podcast 本生于 RSS 的**开放、去中心化**生态——内容自托管、
 
 - **开放 vs 封闭**：开放生态靠 RSS 自由托管、泛用客户端任意可换、创作者直接拥有听众、无人能下架失联；封闭生态则账号绑定、平台即把关人、粉丝只属于单一平台。
 - **中国走了平台化的路**：2020 年之前中国人和外国人一样用 RSS + 音频托管；**[[roles/xiaoyuzhou|小宇宙]]上线后（[[roles/ximalaya|喜马拉雅]]等亦推动），播客逐渐变成封闭平台化的媒介形态**——小宇宙与微博/抖音/B 站/小红书同序列，是封闭生态里的平台而非泛用客户端（2025"播客大赏"、章泽天入驻即平台逻辑印证；创作者依赖平台、被下架即与听众失联）。成因含商业模式、监管压力及 Spotify/YouTube 对全球 podcast 生态的改变。
-- **倡导**：方可成主张回归 RSS 与泛用型客户端（[[roles/pocket-casts|Pocket Casts]]/Castro/Overcast），并以 [[creators/li-ruer|李如一]]为坚持开放分发的创作者典范。
+- **倡导**：方可成主张回归 RSS 与泛用型客户端（[[roles/pocket-casts|Pocket Casts]]/Castro/Overcast），并以 [[creators/li-ruyi|李如一]]为坚持开放分发的创作者典范。
 
 这与"中国播客元年"叙事互为表里——更准确说，2020 是**平台化的元年**。（与上文"每一年都是元年""RSS 开放性危机"两节互为印证。） 2026-播客≠podcast
 

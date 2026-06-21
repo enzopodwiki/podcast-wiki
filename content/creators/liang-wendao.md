@@ -28,7 +28,7 @@ title: "梁文道（道长）"
 
 ## 串联"京海派"的枢纽
 
-看理想凝聚的作者群是京海派播客的一大构成力量，梁文道本人也频繁串台——上过[[shows/danei-mitan|《大内密谈》]]、[[roles/ritan-park|日谈公园]]、[[shows/buhe-shiyi|《不合时宜》]]等节目；而[[creators/xiang-zheng|相征]]、[[creators/li-zhiming|李志明]]、[[creators/li-ruer|李如一]]、周奇墨等播客人也都在看理想开过课。看理想由此成为串联两派的混合体。 2020-中文播客界的京派与海派
+看理想凝聚的作者群是京海派播客的一大构成力量，梁文道本人也频繁串台——上过[[shows/danei-mitan|《大内密谈》]]、[[roles/ritan-park|日谈公园]]、[[shows/buhe-shiyi|《不合时宜》]]等节目；而[[creators/xiang-zheng|相征]]、[[creators/li-zhiming|李志明]]、[[creators/li-ruyi|李如一]]、周奇墨等播客人也都在看理想开过课。看理想由此成为串联两派的混合体。 2020-中文播客界的京派与海派
 
 ## 行业在场
 

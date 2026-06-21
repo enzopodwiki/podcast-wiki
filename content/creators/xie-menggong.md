@@ -18,11 +18,11 @@ title: "谢孟恭"
 
 ## 节目
 
-- [[shows/guyai|《股癌》]]——长期盘踞 Apple Podcast 台湾前三，业配月收入公开约 **80 万新台币**
+- [[shows/gu-ai|《股癌》]]——长期盘踞 Apple Podcast 台湾前三，业配月收入公开约 **80 万新台币**
 
 ## 关联
 
-- 节目：[[shows/guyai|《股癌》]]
+- 节目：[[shows/gu-ai|《股癌》]]
 - 市场：[[markets/taiwan|台湾市场]]
 
 ## 引用来源
