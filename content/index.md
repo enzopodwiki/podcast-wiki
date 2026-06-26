@@ -139,10 +139,10 @@ title: "Wiki 索引"
 ### 台湾
 - 三本柱（2020元年）：[[shows/gu-ai]] — 《股癌》（谢孟恭，财经股市）、[[shows/bailingguo]] — 《百灵果》（国际新闻）、[[shows/taiwan-commute]] — 《台湾通勤第一品牌》（李毅诚）
 - 法律/公民：[[shows/fake-diantai]] — 《法客电台》（杨贵智，法律白话文运动）
-- [[shows/the-real-story]]（引用 4）、[[shows/xingqitian-wanshang]] — 《星期天晚上》（关键评论网，SOPA 2022 获奖）
+- [[shows/the-real-story]] — 《The Real Story》（报导者×SoundOn，SOPA 中文组 2024、2026 两度获奖，引用 4）、[[shows/xingqitian-wanshang]] — 《星期天晚上》（关键评论网，SOPA 2022 获奖）
 - [[shows/shuo-gushi-de-ren]] — 《说故事的人》（范琪斐，电视级制作，2021 卓越新闻奖入围）
 - [[shows/yishou-gushi]] — 《一手故事》（陈莉雅，独立制作，2022，台湾社会微趋势，2022 卓越新闻奖入围）
-- [[shows/duanwen]] — 《端闻》（端传媒，杨一主导，无审查中文音频新闻，2024起，引用 1）
+- [[shows/duanwen]] — 《端闻》（端传媒，杨一主导，无审查中文音频新闻，2024起；2025《走线，未完成》获 SOPA 卓越音频报道奖中文组，引用 1）
 
 ## 创作者 (creators/)
 

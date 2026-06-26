@@ -175,7 +175,7 @@ Spotify 台湾前 10 大分三类：**原生播客**（三本柱，从零培养�
 
 ### SOPA 亚洲出版协会新闻奖（香港主办）
 
-2022 [[shows/xingqitian-wanshang|《星期天晚上》]]获卓越音频报道奖（中文组）；2024 [[shows/the-real-story|《The Real Story》]] 连续三年入围后首次获奖。（与台湾主办的卓越新闻奖为不同奖项。）
+卓越音频报道奖（中文组）历年得主：2022 [[shows/xingqitian-wanshang|《星期天晚上》]]；2024 [[shows/the-real-story|《The Real Story》]]（连续三年入围后首次获奖）；2025 [[shows/duanwen|《端闻》]]（端传媒，《走线，未完成》）；2026 [[shows/the-real-story|《The Real Story》]] 再获奖（报导者《未成年的他们为跨越「性别」付出了什么？》）。（与台湾主办的卓越新闻奖为不同奖项。）
 
 ---
 

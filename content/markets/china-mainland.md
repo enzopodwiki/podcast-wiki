@@ -257,7 +257,7 @@ title: "中国大陆市场"
 - 海外华人新闻：[[shows/zhang-ao-tongxue|《张奥同学》]]（旅美华人创作者[[creators/zhang-ao|张奥]]，日更国际新闻，2019起超千集，面向大陆听众）
 - 海外华人社会/文化：[[shows/buhe-shiyi|《不合时宜》]]（[[creators/wang-qing|王磬]]等，2019，女性视角+跨文化，249+期，30%海外听众）
 - 加密/Web3 垂类：[[niches/crypto-podcast|加密播客]]（《HODLong后浪》Mable、《Web3 101》刘锋、《Cryptoria》、《Sea Talk》等，B端精准变现）
-- 华语音频新闻（离岸）：[[shows/duanwen|《端闻》]]（[[roles/the-initium|端传媒]]，杨一主导，无审查+普通话+全球华语听众，2024起）
+- 华语音频新闻（离岸）：[[shows/duanwen|《端闻》]]（[[roles/the-initium|端传媒]]，杨一主导，无审查+普通话+全球华语听众，2024起；2025 系列报道《走线，未完成》获 SOPA 卓越音频报道奖中文组）
 - 生活方式/城市探索：[[shows/jingyu-hertz|《鲸鱼赫兹》]]（成都028.C出品，饮食文化+城市骑行）
 - 青少年非虚构：[[shows/knock-knock-world|《Knock Knock 世界》]]（声动活泼出品，9-13岁，付费订阅，首年100+集，2024起）
 - 真实犯罪（先驱尝试）：**财新《记录在案》**（2021.03，5集，豫章书院/劳荣枝等案，自称期待"属于自己的'Serial moment'"）→ 详见 [[niches/narrative-podcast|叙事播客·真实犯罪]] 2021-真实犯罪类播客风靡了这么多年，除了悬疑还有什么？
