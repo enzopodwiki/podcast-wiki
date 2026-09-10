@@ -1,7 +1,5 @@
 # 播客知识库 — 公开网站
 
-把 Obsidian 里的播客 wiki 发布成网站，私下分享给朋友。
-
 - **网站地址**：https://enzopodwiki.github.io/podcast-wiki/
 - **不被搜索引擎收录**（每页带 `noindex`），只有拿到链接的人能看。
 - 只发布 `wiki/` 内容；`raw/` 原始文章（第三方版权）**不发布**。
